@@ -24,43 +24,39 @@
    来源：X：Rohan Paul (@rohanpaul_ai) · 聚合策展 · 原始链接
    原文：https://x.com/rohanpaul_ai/status/2113106318659928525
 
-5. [GitHub][今日热门][机器翻译] cloudflare/安全审计技能
-   A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings · 语言：JavaScript · 今日新增 2,706 stars
+5. [GitHub][今日热门][机器翻译] cloudflare/security-audit-skill
+   用途：用于多阶段安全审核的编码代理技能，具有经过独立验证的机器可读结果 · 语言：JavaScript · 今日新增 2,706 stars
    筛选分：86.0/100 · 来源权重10 · 信源靠前 · 近时更新
-   原文标题：cloudflare/security-audit-skill
-   来源：GitHub Trending · 10-23 21:02 · GitHub 今日趋势 · 机器翻译
+   来源：GitHub Trending · 10-23 21:14 · GitHub 今日趋势 · 机器翻译
    原文：https://github.com/cloudflare/security-audit-skill
 
-6. [GitHub][今日热门][重要] php/php-src
-   The PHP Interpreter · 语言：C · 今日新增 722 stars
+6. [GitHub][今日热门][机器翻译] php/php-src
+   用途：PHP解释器 · 语言：C · 今日新增 722 stars
    筛选分：84.8/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 10-23 21:02 · GitHub 今日趋势
+   来源：GitHub Trending · 10-23 21:14 · GitHub 今日趋势 · 机器翻译
    原文：https://github.com/php/php-src
 
-7. [GitHub][今日热门][机器翻译] 人类学/知识工作插件
-   Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork · 语言：Python · 今日新增 643 stars
+7. [GitHub][今日热门][机器翻译] anthropics/knowledge-work-plugins
+   用途：主要供知识工作者在Claude Cowork中使用的插件的开源存储库 · 语言：Python · 今日新增 643 stars
    筛选分：83.6/100 · 来源权重10 · 信源靠前 · 近时更新
-   原文标题：anthropics/knowledge-work-plugins
-   来源：GitHub Trending · 10-23 21:02 · GitHub 今日趋势 · 机器翻译
+   来源：GitHub Trending · 10-23 21:14 · GitHub 今日趋势 · 机器翻译
    原文：https://github.com/anthropics/knowledge-work-plugins
 
-8. [GitHub][近日关注][机器翻译] 莫鲁托/邪恶
-   Reverse engineer anything with agents, from app behavior down to native binaries. · 语言：TypeScript · 本周新增 106,341 stars
+8. [GitHub][近日关注][机器翻译] morluto/rea
+   用途：使用代理对任何内容进行反向工程，从应用行为到本机二进制文件。 · 语言：TypeScript · 本周新增 106,341 stars
    筛选分：83.5/100 · 来源权重9 · 信源靠前 · 近时更新 · 近期关注最高
-   原文标题：morluto/rea
-   来源：GitHub Weekly Trending · 10-23 21:02 · GitHub 本周趋势 · 机器翻译
+   来源：GitHub Weekly Trending · 10-23 21:14 · GitHub 本周趋势 · 机器翻译
    原文：https://github.com/morluto/rea
 
-9. [GitHub][下载最高][机器翻译] anomalyco/开放代码
-   The open source coding agent. · 语言：TypeScript · 本周新增 6,750 stars · 近30天Release资产下载 12,625,657
-   筛选分：86.7/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载12,625,657
-   原文标题：anomalyco/opencode
-   来源：GitHub Weekly Trending · 10-23 21:02 · GitHub 本周趋势 · 机器翻译
+9. [GitHub][下载最高][机器翻译] anomalyco/opencode
+   用途：开源编码代理。 · 语言：TypeScript · 本周新增 6,750 stars · 近30天Release资产下载 12,629,678
+   筛选分：86.7/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载12,629,678
+   来源：GitHub Weekly Trending · 10-23 21:14 · GitHub 本周趋势 · 机器翻译
    原文：https://github.com/anomalyco/opencode
 
 10. [GitHub][官方更新][机器翻译] Visual Studio中的GitHub Copilot — 9月更新
    2026年9月为您的工作带来了更深入的可见性：探索无需离开聊天的拉取请求，带来您的团队信任的人工智能模型，并在Visual Studio标记时修复易受攻击的软件包…… Visual Studio中的GitHub Copilot帖子— 9月更新首次出现在GitHub博客上。
-   筛选分：81.4/100 · 来源权重9 · 信源靠前 · 近时更新
+   筛选分：81.3/100 · 来源权重9 · 信源靠前 · 近时更新
    原文标题：GitHub Copilot in Visual Studio — September update
    来源：GitHub Changelog · 10-23 08:17 · GitHub 官方更新日志 · 机器翻译
    原文：https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2
@@ -74,7 +70,7 @@
 
 12. [GitHub][官方更新][机器翻译] 一般可用的Copilot功能的全局默认值
    9月，我们宣布了通用GitHub Copilot功能的全球默认策略，并支持Copilot Business和Copilot Enterprise计划的客户端功能。从今天开始，我们将逐步推出…… Copilot功能的POST全局默认值首先出现在GitHub博客上。
-   筛选分：78.4/100 · 来源权重9 · 信源靠前 · 近时更新
+   筛选分：78.3/100 · 来源权重9 · 信源靠前 · 近时更新
    原文标题：Global default for Copilot features generally available
    来源：GitHub Changelog · 10-23 04:44 · GitHub 官方更新日志 · 机器翻译
    原文：https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available
@@ -88,30 +84,30 @@
 
 14. [GitHub][官方更新][机器翻译] 为操作blob存储更新的Meta API端点
    我们正在github.com上为GitHub Actions添加blob存储端点，作为我们提高容量和可靠性的持续工作的一部分。Meta API现在包括这些新的端点。如果…为Actions BLOB存储更新的POST Meta API端点首先出现在GitHub博客上。
-   筛选分：76.8/100 · 来源权重9 · 信源靠前 · 近时更新
+   筛选分：76.7/100 · 来源权重9 · 信源靠前 · 近时更新
    原文标题：Meta API endpoints updated for Actions blob storage
    来源：GitHub Changelog · 10-23 02:14 · GitHub 官方更新日志 · 机器翻译
    原文：https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage
 
-15. [国内][政策][高重要度] 《中国农业对外投资合作分析报告（2026）》发布
-   中新网南宁10月23日电(黄令妍)10月23日，2026中国—东盟数字农业论坛在广西南宁召开。会上，农业农村部对外经济合作中心发布了《中国农业对外投资合作分析报告(2026)》《中国农业双向投资研究报告》《涉农对外投资政策环境研究》《数字农业发展与国际合作研究》《澜湄农业合作发展报告2025—2026》《农业对外经济观察与思考》6项系列知识产品。
-   筛选分：100.0/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：政策、发布、经济 · 国内类别：policy
-   来源：中新网 财经 · 10-23 20:44 · 中国新闻网财经新闻
-   原文：https://www.chinanews.com.cn/cj/2026/10-23/10720021.shtml
-
-16. [国内][政策][多源热点] 李强主持召开国务院常务会议 研究统筹人口与经济社会发展有关工作 听取推进全国服务业大会部署落实情况汇报
+15. [国内][政策][多源热点] 李强主持召开国务院常务会议 研究统筹人口与经济社会发展有关工作 听取推进全国服务业大会部署落实情况汇报
    筛选分：100.0/100 · 来源权重10 · 信源靠前 · 近时更新 · 关键词：国务院、经济、会议 · 国内类别：policy · 多源交叉2家
    来源：中国政府网 要闻 · 10-23 08:00 · 中国政府网
    原文：https://www.gov.cn/yaowen/liebiao/202610/content_7084130.htm
 
-17. [国内][政策][多源热点] 国务院办公厅关于适应人工智能技术发展助力构建就业友好型发展方式的意见
-   筛选分：100.0/100 · 来源权重10 · 信源靠前 · 近时更新 · 关键词：国务院、人工智能、发展 · 国内类别：policy · 多源交叉2家
+16. [国内][政策][高重要度] 国务院办公厅关于适应人工智能技术发展助力构建就业友好型发展方式的意见
+   筛选分：100.0/100 · 来源权重10 · 信源靠前 · 近时更新 · 关键词：国务院、人工智能、发展 · 国内类别：policy
    来源：中国政府网 要闻 · 10-23 08:00 · 中国政府网
    原文：https://www.gov.cn/zhengce/content/202610/content_7084107.htm
 
+17. [国内][政策][高重要度] 《中国农业对外投资合作分析报告（2026）》发布
+   中新网南宁10月23日电(黄令妍)10月23日，2026中国—东盟数字农业论坛在广西南宁召开。会上，农业农村部对外经济合作中心发布了《中国农业对外投资合作分析报告(2026)》《中国农业双向投资研究报告》《涉农对外投资政策环境研究》《数字农业发展与国际合作研究》《澜湄农业合作发展报告2025—2026》《农业对外经济观察与思考》6项系列知识产品。
+   筛选分：99.9/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：政策、发布、经济 · 国内类别：policy
+   来源：中新网 财经 · 10-23 20:44 · 中国新闻网财经新闻
+   原文：https://www.chinanews.com.cn/cj/2026/10-23/10720021.shtml
+
 18. [国内][财经][重要] 今年前三季度广东GDP达11.11万亿元 同比增长4.6%
    中新社广州10月23日电 (记者 许青青)广东省统计局23日发布2026年前三季度广东经济运行情况。前三季度，广东地区生产总值(GDP)11.11万亿元(人民币，下同)，同比增长4.6%，增速比上半年提高0.1个百分点，经济总量继续稳居中国首位。全省生产供给较快增长，新质生产力加速成长，居民收入稳步增加，经济运行呈现稳中有进、向新向优的发展态势。
-   筛选分：89.6/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：发布、经济、发展 · 国内类别：economy
+   筛选分：87.1/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：发布、经济、发展 · 国内类别：economy
    来源：中新网 财经 · 10-23 20:45 · 中国新闻网财经新闻
    原文：https://www.chinanews.com.cn/cj/2026/10-23/10720029.shtml
 
@@ -123,15 +119,14 @@
 
 20. [国内][社会][高重要度] 中国国库资金汇划开通“绿色通道” 支持西藏抗震救灾工作
    中新社北京10月23日电 10月22日22时33分许，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡。中国央行组织国库部门立即启动应急预案，及时开通国库资金汇划“绿色通道”，全力保障救灾资金准确及时拨付到位。
-   筛选分：100.0/100 · 来源权重5 · 信源靠前 · 近时更新 · 关键词：重大、地震、伤亡 · 国内类别：society
-   来源：中新网 滚动 · 10-23 20:57 · 中国新闻网滚动新闻
+   筛选分：100.0/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：重大、地震、伤亡 · 国内类别：society
+   来源：中新网 财经 · 10-23 20:57 · 中国新闻网财经新闻
    原文：https://www.chinanews.com.cn/cj/2026/10-23/10720041.shtml
 
-21. [国内][社会][高重要度] 国家安全生产应急救援队伍参与西藏巴青7.0级地震抗震救灾工作
-   中新网10月23日电 据应急管理部微信公众号消息，2026年10月22日22时33分，西藏那曲市巴青县发生7.0级地震。按照应急管理部部署，国家安全生产应急救援中心指导国家安全生产应急救援勘测队、国家隧道应急救援中铁二局西藏队等2支国家安全生产应急救援队伍15车34人，携带侦查无人机、载重无人机、边坡雷达、卫星自组网、生命探测仪、破拆支护套装等100余台套装备赶赴现场，开展灾情监测，动态研判次生灾害风险，保障救援现场安全，同时开展人员搜救、受灾群众安置、通信保障等工作。
-   筛选分：92.5/100 · 来源权重6 · 近时更新 · 关键词：地震、救援、卫星 · 国内类别：society
-   来源：中新网 国内 · 10-23 19:26 · 中国新闻网国内新闻
-   原文：https://www.chinanews.com.cn/gn/2026/10-23/10719965.shtml
+21. [国内][社会][重要] 习近平对西藏那曲市巴青县7.0级地震作出重要指示
+   筛选分：89.8/100 · 来源权重10 · 信源靠前 · 近时更新 · 关键词：地震 · 国内类别：society
+   来源：中国政府网 要闻 · 10-23 08:00 · 中国政府网
+   原文：https://www.gov.cn/yaowen/liebiao/202610/content_7084071.htm
 
 22. [世界][高重要度] 土耳其北部一矿井爆炸已致2死5伤
    中新社北京10月23日电 安卡拉消息：当地时间10月23日，土耳其北部宗古尔达克省一处矿井发生瓦斯爆炸，已造成2名矿工死亡、5人受伤，另有1人被困。
@@ -164,7 +159,7 @@
 信源状态
 
 - AIHOT 日报：正常 · 2026-10-23
-- AIHOT 精选 API：正常 · 新增候选 8
+- AIHOT 精选 API：正常 · 新增候选 9
 - OpenAI News：正常 · 48小时内 2 条
 - Google DeepMind Blog：正常 · 48小时内无符合栏目的内容
 - NVIDIA Developer Blog：正常 · 48小时内 5 条
@@ -173,17 +168,17 @@
 - GitHub Changelog：正常 · 48小时内 8 条
 - GitHub Blog：正常 · 48小时内 2 条
 - 中国政府网 要闻：正常 · 48小时内 22 条
-- 中新网 国内：正常 · 48小时内 29 条
+- 中新网 国内：正常 · 48小时内 30 条
 - 中新网 财经：正常 · 48小时内 30 条
-- 中新网 滚动：正常 · 48小时内 28 条
+- 中新网 滚动：正常 · 48小时内 27 条
 - 中新网 世界：正常 · 48小时内 30 条
 - The Guardian China：正常 · 48小时内 5 条
 - BBC World：正常 · 48小时内 26 条
 - 联合国新闻 中文：正常 · 48小时内 7 条
 - GitHub 下载热度：已核对 8 个项目
-- 多源交叉：7 条获得重要性加成
+- 多源交叉：5 条获得重要性加成
 - 质量门槛：保留 25/40 条
-- 中文翻译：成功 9 条，失败 1 条并保留原文
+- 中文翻译：成功 10 条
 
 在线版：https://heibaixiong1118.github.io/ai-daily-site/
 AIHOT 日报页：https://aihot.news/daily

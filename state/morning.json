@@ -1,10 +1,10 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T21:02:54.814640+08:00",
+  "generated_at": "2026-10-23T21:14:56.964377+08:00",
   "candidate_urls": [
-    "http://chinanews.com.cn/gn/shipin/cns-d/2026/10-23/news1072810.shtml",
     "https://404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
     "https://aihot.news/daily/2026-10-23",
+    "https://aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
     "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
     "https://anthropic.com/research/formal-verification",
     "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
@@ -37,8 +37,6 @@
     "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
     "https://chinanews.com.cn/aseaninfo/2026/10-23/10720020.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10719873.shtml",
-    "https://chinanews.com.cn/cj/2026/10-23/10719877.shtml",
-    "https://chinanews.com.cn/cj/2026/10-23/10719880.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10719881.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10719884.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10719885.shtml",
@@ -67,9 +65,8 @@
     "https://chinanews.com.cn/cj/2026/10-23/10720030.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10720039.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10720041.shtml",
-    "https://chinanews.com.cn/cul/2026/10-23/10720004.shtml",
-    "https://chinanews.com.cn/cul/2026/10-23/10720006.shtml",
-    "https://chinanews.com.cn/dwq/2026/10-23/10720002.shtml",
+    "https://chinanews.com.cn/cj/2026/10-23/10720043.shtml",
+    "https://chinanews.com.cn/dwq/2026/10-23/10720045.shtml",
     "https://chinanews.com.cn/gj/2026/10-23/10719470.shtml",
     "https://chinanews.com.cn/gj/2026/10-23/10719471.shtml",
     "https://chinanews.com.cn/gj/2026/10-23/10719545.shtml",
@@ -100,8 +97,6 @@
     "https://chinanews.com.cn/gj/2026/10-23/10719918.shtml",
     "https://chinanews.com.cn/gj/2026/10-23/10719928.shtml",
     "https://chinanews.com.cn/gj/2026/10-23/10719947.shtml",
-    "https://chinanews.com.cn/gn/2026/10-23/10719814.shtml",
-    "https://chinanews.com.cn/gn/2026/10-23/10719857.shtml",
     "https://chinanews.com.cn/gn/2026/10-23/10719887.shtml",
     "https://chinanews.com.cn/gn/2026/10-23/10719889.shtml",
     "https://chinanews.com.cn/gn/2026/10-23/10719890.shtml",
@@ -128,20 +123,23 @@
     "https://chinanews.com.cn/gn/2026/10-23/10719987.shtml",
     "https://chinanews.com.cn/gn/2026/10-23/10719989.shtml",
     "https://chinanews.com.cn/gn/2026/10-23/10720000.shtml",
+    "https://chinanews.com.cn/gn/2026/10-23/10720025.shtml",
     "https://chinanews.com.cn/gn/2026/10-23/10720031.shtml",
     "https://chinanews.com.cn/gn/2026/10-23/10720033.shtml",
     "https://chinanews.com.cn/gn/2026/10-23/10720042.shtml",
     "https://chinanews.com.cn/jk/2026/10-23/10720009.shtml",
-    "https://chinanews.com.cn/sh/2026/10-23/10719999.shtml",
-    "https://chinanews.com.cn/sh/2026/10-23/10720005.shtml",
-    "https://chinanews.com.cn/sh/2026/10-23/10720007.shtml",
     "https://chinanews.com.cn/sh/2026/10-23/10720024.shtml",
     "https://chinanews.com.cn/sh/2026/10-23/10720032.shtml",
+    "https://chinanews.com.cn/sh/2026/10-23/10720047.shtml",
     "https://chinanews.com.cn/tp/2026/10-23/10719990.shtml",
     "https://chinanews.com.cn/tp/2026/10-23/10719991.shtml",
+    "https://chinanews.com.cn/tp/2026/10-23/10720035.shtml",
+    "https://chinanews.com.cn/tp/2026/10-23/10720036.shtml",
     "https://chinanews.com.cn/tp/2026/10-23/10720037.shtml",
+    "https://chinanews.com.cn/tp/2026/10-23/10720038.shtml",
+    "https://chinanews.com.cn/tp/2026/10-23/10720040.shtml",
     "https://chinanews.com.cn/txy/2026/10-23/10720034.shtml",
-    "https://chinanews.com.cn/ty/2026/10-23/10720003.shtml",
+    "https://chinanews.com.cn/ty/2026/10-23/10720046.shtml",
     "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow",
     "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules",
     "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage",
@@ -258,8 +256,8 @@
     },
     {
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "title": "cloudflare安全审计技能",
-      "display_title": "cloudflare/安全审计技能",
+      "title": "cloudflaresecurityauditskill",
+      "display_title": "cloudflare/security-audit-skill",
       "group": "github"
     },
     {
@@ -270,20 +268,20 @@
     },
     {
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "title": "人类学知识工作插件",
-      "display_title": "人类学/知识工作插件",
+      "title": "anthropicsknowledgeworkplugins",
+      "display_title": "anthropics/knowledge-work-plugins",
       "group": "github"
     },
     {
       "url": "https://github.com/morluto/rea",
-      "title": "莫鲁托邪恶",
-      "display_title": "莫鲁托/邪恶",
+      "title": "morlutorea",
+      "display_title": "morluto/rea",
       "group": "github"
     },
     {
       "url": "https://github.com/anomalyco/opencode",
-      "title": "anomalyco开放代码",
-      "display_title": "anomalyco/开放代码",
+      "title": "anomalycoopencode",
+      "display_title": "anomalyco/opencode",
       "group": "github"
     },
     {
@@ -317,12 +315,6 @@
       "group": "github"
     },
     {
-      "url": "https://chinanews.com.cn/cj/2026/10-23/10720021.shtml",
-      "title": "中国农业对外投资合作分析报告2026发布",
-      "display_title": "《中国农业对外投资合作分析报告（2026）》发布",
-      "group": "china"
-    },
-    {
       "url": "https://gov.cn/yaowen/liebiao/202610/content_7084130.htm",
       "title": "李强主持召开国务院常务会议研究统筹人口与经济社会发展有关工作听取推进全国服务业大会部署落实情况汇报",
       "display_title": "李强主持召开国务院常务会议 研究统筹人口与经济社会发展有关工作 听取推进全国服务业大会部署落实情况汇报",
@@ -332,6 +324,12 @@
       "url": "https://gov.cn/zhengce/content/202610/content_7084107.htm",
       "title": "国务院办公厅关于适应人工智能技术发展助力构建就业友好型发展方式的意见",
       "display_title": "国务院办公厅关于适应人工智能技术发展助力构建就业友好型发展方式的意见",
+      "group": "china"
+    },
+    {
+      "url": "https://chinanews.com.cn/cj/2026/10-23/10720021.shtml",
+      "title": "中国农业对外投资合作分析报告2026发布",
+      "display_title": "《中国农业对外投资合作分析报告（2026）》发布",
       "group": "china"
     },
     {
@@ -353,9 +351,9 @@
       "group": "china"
     },
     {
-      "url": "https://chinanews.com.cn/gn/2026/10-23/10719965.shtml",
-      "title": "国家安全生产应急救援队伍参与西藏巴青70级地震抗震救灾工作",
-      "display_title": "国家安全生产应急救援队伍参与西藏巴青7.0级地震抗震救灾工作",
+      "url": "https://gov.cn/yaowen/liebiao/202610/content_7084071.htm",
+      "title": "习近平对西藏那曲市巴青县70级地震作出重要指示",
+      "display_title": "习近平对西藏那曲市巴青县7.0级地震作出重要指示",
       "group": "china"
     },
     {
