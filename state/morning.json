@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T19:59:34.764616+08:00",
+  "items": [
+    {
+      "url": "https://aihot.news/daily/2026-10-23",
+      "title": "ai挖出潜伏十几年的php底层漏洞php2shell事件全景复盘",
+      "display_title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
+      "group": "ai"
+    },
+    {
+      "url": "https://openai.com/index/decisions-api",
+      "title": "openai正式发布decisionsapi面向低延迟低成本小决策",
+      "display_title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+      "group": "ai"
+    },
+    {
+      "url": "https://x.com/claudeai/status/2113360845409583307",
+      "title": "claude网页桌面和移动端将默认启用automode",
+      "display_title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+      "group": "ai"
+    },
+    {
+      "url": "https://x.com/rohanpaul_ai/status/2113106318659928525",
+      "title": "bloomberg报道deepseek新一轮融资约150亿美元",
+      "display_title": "Bloomberg 报道 DeepSeek 新一轮融资约 150 亿美元",
+      "group": "ai"
+    },
+    {
+      "url": "https://x.com/rohanpaul_ai/status/2113107154219741231",
+      "title": "wsj马斯克希望以ai为核心推动spacex与tesla合并",
+      "display_title": "WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并",
+      "group": "ai"
+    },
+    {
+      "url": "https://microsoft.ai/news/building-medical-superintelligence",
+      "title": "microsoftai发布sdbench基准与maidxo诊断系统登science",
+      "display_title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
+      "group": "ai"
+    },
+    {
+      "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
+      "title": "metr与redwoodresearch红队测试openai内部智能体监控系统发现多个漏洞",
+      "display_title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
+      "group": "ai"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes",
+      "title": "跨8个nvidiadgxspark节点运行前沿级ai模型",
+      "display_title": "跨8个NVIDIA DGX Spark节点运行前沿级AI模型",
+      "group": "ai"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+      "title": "nvidianemotron35supervl为专业代理提供多模式推理",
+      "display_title": "NVIDIA Nemotron 3.5 Super VL为专业代理提供多模式推理",
+      "group": "ai"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow",
+      "title": "通过代理辅助工作流程开发人工智能工厂数字双胞胎",
+      "display_title": "通过代理辅助工作流程开发人工智能工厂数字双胞胎",
+      "group": "ai"
+    },
+    {
+      "url": "https://gov.cn/yaowen/liebiao/202610/content_7084130.htm",
+      "title": "李强主持召开国务院常务会议研究统筹人口与经济社会发展有关工作听取推进全国服务业大会部署落实情况汇报",
+      "display_title": "李强主持召开国务院常务会议 研究统筹人口与经济社会发展有关工作 听取推进全国服务业大会部署落实情况汇报",
+      "group": "china"
+    },
+    {
+      "url": "https://gov.cn/zhengce/content/202610/content_7084107.htm",
+      "title": "国务院办公厅关于适应人工智能技术发展助力构建就业友好型发展方式的意见",
+      "display_title": "国务院办公厅关于适应人工智能技术发展助力构建就业友好型发展方式的意见",
+      "group": "china"
+    },
+    {
+      "url": "https://gov.cn/yaowen/liebiao/202610/content_7084091.htm",
+      "title": "中共中央政治局召开会议审议关于二十届中央第七轮巡视情况的综合报告中共中央总书记习近平主持会议",
+      "display_title": "中共中央政治局召开会议 审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议",
+      "group": "china"
+    },
+    {
+      "url": "https://chinanews.com.cn/cj/2026/10-23/10719927.shtml",
+      "title": "2026中非民营经济合作论坛在北京举办",
+      "display_title": "2026中非民营经济合作论坛在北京举办",
+      "group": "china"
+    },
+    {
+      "url": "https://chinanews.com.cn/cj/2026/10-23/10719925.shtml",
+      "title": "我国加强能源保供中长期合同管理",
+      "display_title": "我国加强能源保供中长期合同管理",
+      "group": "china"
+    },
+    {
+      "url": "https://chinanews.com.cn/cj/2026/10-23/10719950.shtml",
+      "title": "花旗获准在中国设立独资证券公司",
+      "display_title": "花旗获准在中国设立独资证券公司",
+      "group": "china"
+    },
+    {
+      "url": "https://chinanews.com.cn/cj/2026/10-23/10719919.shtml",
+      "title": "agi赋能词元经济应用创新联盟成立词元经济加速在渝落地",
+      "display_title": "AGI赋能词元经济应用创新联盟成立 词元经济加速在渝落地",
+      "group": "china"
+    },
+    {
+      "url": "https://chinanews.com.cn/gn/2026/10-23/10719916.shtml",
+      "title": "我国成功发射遥感五十号03星",
+      "display_title": "我国成功发射遥感五十号03星",
+      "group": "china"
+    },
+    {
+      "url": "https://chinanews.com.cn/gn/2026/10-23/10719975.shtml",
+      "title": "央行开通国库资金汇划绿色通道支持西藏那曲抗震救灾工作",
+      "display_title": "央行开通国库资金汇划“绿色通道” 支持西藏那曲抗震救灾工作",
+      "group": "china"
+    },
+    {
+      "url": "https://chinanews.com.cn/gn/2026/10-23/10719965.shtml",
+      "title": "国家安全生产应急救援队伍参与西藏巴青70级地震抗震救灾工作",
+      "display_title": "国家安全生产应急救援队伍参与西藏巴青7.0级地震抗震救灾工作",
+      "group": "china"
+    },
+    {
+      "url": "https://chinanews.com.cn/gj/2026/10-23/10719947.shtml",
+      "title": "土耳其北部一矿井爆炸已致2死5伤",
+      "display_title": "土耳其北部一矿井爆炸已致2死5伤",
+      "group": "world"
+    },
+    {
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143047",
+      "title": "父亲带薪育儿假仅为母亲的八分之一整个社会承担育儿鸿沟代价",
+      "display_title": "父亲带薪育儿假仅为母亲的八分之一， 整个社会承担“育儿鸿沟”代价",
+      "group": "world"
+    },
+    {
+      "url": "https://chinanews.com.cn/gj/2026/10-23/10719661.shtml",
+      "title": "波兰总理访问印度双方同意深化防务等领域合作",
+      "display_title": "波兰总理访问印度 双方同意深化防务等领域合作",
+      "group": "world"
+    },
+    {
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143051",
+      "title": "联合国专家敦促各国采取行动应对全球老年人非法死亡问题",
+      "display_title": "联合国专家敦促各国采取行动，应对全球老年人非法死亡问题",
+      "group": "world"
+    },
+    {
+      "url": "https://chinanews.com.cn/gj/2026/10-23/10719839.shtml",
+      "title": "阿联酋乌姆盖万海滩因一油轮发生漏油事故暂时关闭",
+      "display_title": "阿联酋乌姆盖万海滩因一油轮发生漏油事故暂时关闭",
+      "group": "world"
+    },
+    {
+      "url": "https://chinanews.com.cn/gj/2026/10-23/10719918.shtml",
+      "title": "佩斯科夫俄美乌三方谈判将于11月上旬启动",
+      "display_title": "佩斯科夫：俄美乌三方谈判将于11月上旬启动",
+      "group": "war"
+    },
+    {
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143046",
+      "title": "秘书长警告战争的厄尔尼诺效应呼吁遏制冲突蔓延并解决全球不平等",
+      "display_title": "秘书长警告“战争的厄尔尼诺”效应，呼吁遏制冲突蔓延并解决全球不平等",
+      "group": "war"
+    },
+    {
+      "url": "https://chinanews.com.cn/gj/2026/10-23/10719876.shtml",
+      "title": "一天内7艘违规船只遇袭或触雷外媒称伊朗加大力度向美施压",
+      "display_title": "一天内7艘“违规”船只遇袭或触雷 外媒称伊朗加大力度向美施压",
+      "group": "war"
+    },
+    {
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143041",
+      "title": "苏丹和平磋商在日内瓦继续推动结束无人机战争",
+      "display_title": "苏丹和平磋商在日内瓦继续，推动结束“无人机战争”",
+      "group": "war"
+    },
+    {
+      "url": "https://chinanews.com.cn/gj/2026/10-23/10719713.shtml",
+      "title": "伊议员说伊朗已要求中东国家停止支持美国",
+      "display_title": "伊议员说伊朗已要求中东国家停止支持美国",
+      "group": "war"
+    }
+  ]
+}
