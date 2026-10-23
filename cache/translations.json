@@ -11,5 +11,12 @@
   "How bug bounty sharpens one researcher’s security skills": "漏洞赏金如何提高一名研究人员的安全技能",
   "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog .": "随着网络安全意识月的持续， GitHub Bug Bounty团队聚焦@ r31n ，深入了解他们的研究方法、最喜欢的Bug课程以及为有抱负的黑客提供的建议。《漏洞赏金如何提高研究人员的安全技能》一文首次出现在GitHub博客上。",
   "Custom skills, agents, and MCP servers in usage metrics API": "使用情况指标API中的自定义技能、代理和MCP服务器",
-  "Copilot usage metrics now show the names of the skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins that your organization creates, instead of grouping them under… The post Custom skills, agents, and MCP servers in usage metrics API appeared first on The GitHub Blog .": "Copilot使用指标现在显示组织创建的技能、自定义代理、模型上下文协议(MCP)服务器、斜杠命令和插件的名称，而不是将其分组在...使用指标API中的POST自定义技能、代理和MCP服务器首次出现在GitHub博客上。"
+  "Copilot usage metrics now show the names of the skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins that your organization creates, instead of grouping them under… The post Custom skills, agents, and MCP servers in usage metrics API appeared first on The GitHub Blog .": "Copilot使用指标现在显示组织创建的技能、自定义代理、模型上下文协议(MCP)服务器、斜杠命令和插件的名称，而不是将其分组在...使用指标API中的POST自定义技能、代理和MCP服务器首次出现在GitHub博客上。",
+  "anthropics/knowledge-work-plugins": "人类学/知识工作插件",
+  "morluto/rea": "莫鲁托/邪恶",
+  "anomalyco/opencode": "anomalyco/开放代码",
+  "Global default for Copilot features generally available": "一般可用的Copilot功能的全局默认值",
+  "In September, we announced a global default policy for generally available GitHub Copilot features and supported client capabilities on Copilot Business and Copilot Enterprise plans. Starting today, we’re gradually rolling… The post Global default for Copilot features generally available appeared first on The GitHub Blog .": "9月，我们宣布了通用GitHub Copilot功能的全球默认策略，并支持Copilot Business和Copilot Enterprise计划的客户端功能。从今天开始，我们将逐步推出…… Copilot功能的POST全局默认值首先出现在GitHub博客上。",
+  "Meta API endpoints updated for Actions blob storage": "为操作blob存储更新的Meta API端点",
+  "We’re adding blob storage endpoints for GitHub Actions on github.com as part of our ongoing work to improve capacity and reliability. The meta API now includes these new endpoints. If… The post Meta API endpoints updated for Actions blob storage appeared first on The GitHub Blog .": "我们正在github.com上为GitHub Actions添加blob存储端点，作为我们提高容量和可靠性的持续工作的一部分。Meta API现在包括这些新的端点。如果…为Actions BLOB存储更新的POST Meta API端点首先出现在GitHub博客上。"
 }

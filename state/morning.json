@@ -1,7 +1,8 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T20:48:02.462690+08:00",
+  "generated_at": "2026-10-23T21:02:54.814640+08:00",
   "candidate_urls": [
+    "http://chinanews.com.cn/gn/shipin/cns-d/2026/10-23/news1072810.shtml",
     "https://404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
     "https://aihot.news/daily/2026-10-23",
     "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
@@ -17,6 +18,7 @@
     "https://bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
     "https://bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
     "https://bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+    "https://bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
     "https://bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
     "https://bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
     "https://bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
@@ -33,12 +35,7 @@
     "https://bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
     "https://bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
     "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-    "https://chinanews.com.cn/cj/2026/10-23/10719791.shtml",
-    "https://chinanews.com.cn/cj/2026/10-23/10719794.shtml",
-    "https://chinanews.com.cn/cj/2026/10-23/10719826.shtml",
-    "https://chinanews.com.cn/cj/2026/10-23/10719837.shtml",
-    "https://chinanews.com.cn/cj/2026/10-23/10719867.shtml",
-    "https://chinanews.com.cn/cj/2026/10-23/10719869.shtml",
+    "https://chinanews.com.cn/aseaninfo/2026/10-23/10720020.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10719873.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10719877.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10719880.shtml",
@@ -63,9 +60,15 @@
     "https://chinanews.com.cn/cj/2026/10-23/10719998.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10720010.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10720011.shtml",
+    "https://chinanews.com.cn/cj/2026/10-23/10720018.shtml",
+    "https://chinanews.com.cn/cj/2026/10-23/10720021.shtml",
+    "https://chinanews.com.cn/cj/2026/10-23/10720027.shtml",
+    "https://chinanews.com.cn/cj/2026/10-23/10720029.shtml",
+    "https://chinanews.com.cn/cj/2026/10-23/10720030.shtml",
+    "https://chinanews.com.cn/cj/2026/10-23/10720039.shtml",
+    "https://chinanews.com.cn/cj/2026/10-23/10720041.shtml",
     "https://chinanews.com.cn/cul/2026/10-23/10720004.shtml",
     "https://chinanews.com.cn/cul/2026/10-23/10720006.shtml",
-    "https://chinanews.com.cn/dwq/2026/10-23/10719974.shtml",
     "https://chinanews.com.cn/dwq/2026/10-23/10720002.shtml",
     "https://chinanews.com.cn/gj/2026/10-23/10719470.shtml",
     "https://chinanews.com.cn/gj/2026/10-23/10719471.shtml",
@@ -98,7 +101,6 @@
     "https://chinanews.com.cn/gj/2026/10-23/10719928.shtml",
     "https://chinanews.com.cn/gj/2026/10-23/10719947.shtml",
     "https://chinanews.com.cn/gn/2026/10-23/10719814.shtml",
-    "https://chinanews.com.cn/gn/2026/10-23/10719845.shtml",
     "https://chinanews.com.cn/gn/2026/10-23/10719857.shtml",
     "https://chinanews.com.cn/gn/2026/10-23/10719887.shtml",
     "https://chinanews.com.cn/gn/2026/10-23/10719889.shtml",
@@ -126,19 +128,20 @@
     "https://chinanews.com.cn/gn/2026/10-23/10719987.shtml",
     "https://chinanews.com.cn/gn/2026/10-23/10719989.shtml",
     "https://chinanews.com.cn/gn/2026/10-23/10720000.shtml",
+    "https://chinanews.com.cn/gn/2026/10-23/10720031.shtml",
+    "https://chinanews.com.cn/gn/2026/10-23/10720033.shtml",
+    "https://chinanews.com.cn/gn/2026/10-23/10720042.shtml",
     "https://chinanews.com.cn/jk/2026/10-23/10720009.shtml",
-    "https://chinanews.com.cn/sh/2026/10-23/10719970.shtml",
-    "https://chinanews.com.cn/sh/2026/10-23/10719971.shtml",
-    "https://chinanews.com.cn/sh/2026/10-23/10719978.shtml",
-    "https://chinanews.com.cn/sh/2026/10-23/10719982.shtml",
-    "https://chinanews.com.cn/sh/2026/10-23/10719994.shtml",
-    "https://chinanews.com.cn/sh/2026/10-23/10719996.shtml",
     "https://chinanews.com.cn/sh/2026/10-23/10719999.shtml",
     "https://chinanews.com.cn/sh/2026/10-23/10720005.shtml",
     "https://chinanews.com.cn/sh/2026/10-23/10720007.shtml",
-    "https://chinanews.com.cn/ty/2026/10-23/10719995.shtml",
+    "https://chinanews.com.cn/sh/2026/10-23/10720024.shtml",
+    "https://chinanews.com.cn/sh/2026/10-23/10720032.shtml",
+    "https://chinanews.com.cn/tp/2026/10-23/10719990.shtml",
+    "https://chinanews.com.cn/tp/2026/10-23/10719991.shtml",
+    "https://chinanews.com.cn/tp/2026/10-23/10720037.shtml",
+    "https://chinanews.com.cn/txy/2026/10-23/10720034.shtml",
     "https://chinanews.com.cn/ty/2026/10-23/10720003.shtml",
-    "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search",
     "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow",
     "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules",
     "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage",
@@ -154,14 +157,29 @@
     "https://github.blog/changelog/2026-10-22-pull-requests-saved-whitespace-preferences-and-improved-split-view",
     "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure",
     "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills",
+    "https://github.com/Comfy-Org/ComfyUI",
+    "https://github.com/HKUDS/CLI-Anything",
+    "https://github.com/K-Dense-AI/scientific-agent-skills",
     "https://github.com/NVIDIA/OpenShell",
+    "https://github.com/NationalSecurityAgency/ghidra",
     "https://github.com/OpenBMB/VoxCPM",
     "https://github.com/Renhuai123/ziwei-doushu",
     "https://github.com/SnailSploit/Claude-Red",
+    "https://github.com/akitaonrails/ai-memory",
+    "https://github.com/android/skills",
+    "https://github.com/anomalyco/opencode",
+    "https://github.com/anthropics/claude-plugins-official",
     "https://github.com/anthropics/knowledge-work-plugins",
     "https://github.com/cloudflare/security-audit-skill",
+    "https://github.com/cursor/plugins",
+    "https://github.com/debpalash/VoiceStudio",
+    "https://github.com/elie222/rakazo",
+    "https://github.com/heygen-com/hyperframes",
+    "https://github.com/morluto/rea",
     "https://github.com/nodejs/node",
     "https://github.com/php/php-src",
+    "https://github.com/ruvnet/ruflo",
+    "https://github.com/stablyai/orca",
     "https://gov.cn/yaowen/liebiao/202610/content_7083962.htm",
     "https://gov.cn/yaowen/liebiao/202610/content_7083967.htm",
     "https://gov.cn/yaowen/liebiao/202610/content_7083968.htm",
@@ -191,7 +209,6 @@
     "https://news.un.org/feed/view/zh/story/2026/10/1143051",
     "https://news.un.org/feed/view/zh/story/2026/10/1143052",
     "https://news.un.org/feed/view/zh/story/2026/10/1143053",
-    "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
     "https://openai.com/index/decisions-api",
     "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "https://openai.com/index/uber-chatgpt-work-rollout",
@@ -240,57 +257,9 @@
       "group": "ai"
     },
     {
-      "url": "https://x.com/rohanpaul_ai/status/2113107154219741231",
-      "title": "wsj马斯克希望以ai为核心推动spacex与tesla合并",
-      "display_title": "WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并",
-      "group": "ai"
-    },
-    {
-      "url": "https://microsoft.ai/news/building-medical-superintelligence",
-      "title": "microsoftai发布sdbench基准与maidxo诊断系统登science",
-      "display_title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
-      "group": "ai"
-    },
-    {
-      "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-      "title": "metr与redwoodresearch红队测试openai内部智能体监控系统发现多个漏洞",
-      "display_title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
-      "group": "ai"
-    },
-    {
-      "url": "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes",
-      "title": "跨8个nvidiadgxspark节点运行前沿级ai模型",
-      "display_title": "跨8个NVIDIA DGX Spark节点运行前沿级AI模型",
-      "group": "ai"
-    },
-    {
-      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
-      "title": "nvidianemotron35supervl为专业代理提供多模式推理",
-      "display_title": "NVIDIA Nemotron 3.5 Super VL为专业代理提供多模式推理",
-      "group": "ai"
-    },
-    {
-      "url": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow",
-      "title": "通过代理辅助工作流程开发人工智能工厂数字双胞胎",
-      "display_title": "通过代理辅助工作流程开发人工智能工厂数字双胞胎",
-      "group": "ai"
-    },
-    {
       "url": "https://github.com/cloudflare/security-audit-skill",
       "title": "cloudflare安全审计技能",
       "display_title": "cloudflare/安全审计技能",
-      "group": "github"
-    },
-    {
-      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-      "title": "visualstudio中的githubcopilot9月更新",
-      "display_title": "Visual Studio中的GitHub Copilot — 9月更新",
-      "group": "github"
-    },
-    {
-      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills",
-      "title": "漏洞赏金如何提高一名研究人员的安全技能",
-      "display_title": "漏洞赏金如何提高一名研究人员的安全技能",
       "group": "github"
     },
     {
@@ -300,10 +269,58 @@
       "group": "github"
     },
     {
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "title": "人类学知识工作插件",
+      "display_title": "人类学/知识工作插件",
+      "group": "github"
+    },
+    {
+      "url": "https://github.com/morluto/rea",
+      "title": "莫鲁托邪恶",
+      "display_title": "莫鲁托/邪恶",
+      "group": "github"
+    },
+    {
+      "url": "https://github.com/anomalyco/opencode",
+      "title": "anomalyco开放代码",
+      "display_title": "anomalyco/开放代码",
+      "group": "github"
+    },
+    {
+      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "title": "visualstudio中的githubcopilot9月更新",
+      "display_title": "Visual Studio中的GitHub Copilot — 9月更新",
+      "group": "github"
+    },
+    {
       "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
       "title": "使用情况指标api中的自定义技能代理和mcp服务器",
       "display_title": "使用情况指标API中的自定义技能、代理和MCP服务器",
       "group": "github"
+    },
+    {
+      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "title": "一般可用的copilot功能的全局默认值",
+      "display_title": "一般可用的Copilot功能的全局默认值",
+      "group": "github"
+    },
+    {
+      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills",
+      "title": "漏洞赏金如何提高一名研究人员的安全技能",
+      "display_title": "漏洞赏金如何提高一名研究人员的安全技能",
+      "group": "github"
+    },
+    {
+      "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
+      "title": "为操作blob存储更新的metaapi端点",
+      "display_title": "为操作blob存储更新的Meta API端点",
+      "group": "github"
+    },
+    {
+      "url": "https://chinanews.com.cn/cj/2026/10-23/10720021.shtml",
+      "title": "中国农业对外投资合作分析报告2026发布",
+      "display_title": "《中国农业对外投资合作分析报告（2026）》发布",
+      "group": "china"
     },
     {
       "url": "https://gov.cn/yaowen/liebiao/202610/content_7084130.htm",
@@ -318,9 +335,9 @@
       "group": "china"
     },
     {
-      "url": "https://gov.cn/yaowen/liebiao/202610/content_7084091.htm",
-      "title": "中共中央政治局召开会议审议关于二十届中央第七轮巡视情况的综合报告中共中央总书记习近平主持会议",
-      "display_title": "中共中央政治局召开会议 审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议",
+      "url": "https://chinanews.com.cn/cj/2026/10-23/10720029.shtml",
+      "title": "今年前三季度广东gdp达1111万亿元同比增长46",
+      "display_title": "今年前三季度广东GDP达11.11万亿元 同比增长4.6%",
       "group": "china"
     },
     {
@@ -330,9 +347,9 @@
       "group": "china"
     },
     {
-      "url": "https://chinanews.com.cn/gn/2026/10-23/10719975.shtml",
-      "title": "央行开通国库资金汇划绿色通道支持西藏那曲抗震救灾工作",
-      "display_title": "央行开通国库资金汇划“绿色通道” 支持西藏那曲抗震救灾工作",
+      "url": "https://chinanews.com.cn/cj/2026/10-23/10720041.shtml",
+      "title": "中国国库资金汇划开通绿色通道支持西藏抗震救灾工作",
+      "display_title": "中国国库资金汇划开通“绿色通道” 支持西藏抗震救灾工作",
       "group": "china"
     },
     {
