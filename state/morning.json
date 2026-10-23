@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T20:27:48.482965+08:00",
+  "generated_at": "2026-10-23T20:44:24.378304+08:00",
   "candidate_urls": [
     "https://404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
     "https://aihot.news/daily/2026-10-23",
@@ -33,12 +33,10 @@
     "https://bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
     "https://bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
     "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-    "https://chinanews.com.cn/cj/2026/10-23/10719783.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10719791.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10719794.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10719826.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10719837.shtml",
-    "https://chinanews.com.cn/cj/2026/10-23/10719842.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10719867.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10719869.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10719873.shtml",
@@ -63,7 +61,12 @@
     "https://chinanews.com.cn/cj/2026/10-23/10719992.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10719993.shtml",
     "https://chinanews.com.cn/cj/2026/10-23/10719998.shtml",
+    "https://chinanews.com.cn/cj/2026/10-23/10720010.shtml",
+    "https://chinanews.com.cn/cj/2026/10-23/10720011.shtml",
+    "https://chinanews.com.cn/cul/2026/10-23/10720004.shtml",
+    "https://chinanews.com.cn/cul/2026/10-23/10720006.shtml",
     "https://chinanews.com.cn/dwq/2026/10-23/10719974.shtml",
+    "https://chinanews.com.cn/dwq/2026/10-23/10720002.shtml",
     "https://chinanews.com.cn/gj/2026/10-23/10719470.shtml",
     "https://chinanews.com.cn/gj/2026/10-23/10719471.shtml",
     "https://chinanews.com.cn/gj/2026/10-23/10719545.shtml",
@@ -123,6 +126,7 @@
     "https://chinanews.com.cn/gn/2026/10-23/10719987.shtml",
     "https://chinanews.com.cn/gn/2026/10-23/10719989.shtml",
     "https://chinanews.com.cn/gn/2026/10-23/10720000.shtml",
+    "https://chinanews.com.cn/jk/2026/10-23/10720009.shtml",
     "https://chinanews.com.cn/sh/2026/10-23/10719970.shtml",
     "https://chinanews.com.cn/sh/2026/10-23/10719971.shtml",
     "https://chinanews.com.cn/sh/2026/10-23/10719978.shtml",
@@ -130,19 +134,34 @@
     "https://chinanews.com.cn/sh/2026/10-23/10719994.shtml",
     "https://chinanews.com.cn/sh/2026/10-23/10719996.shtml",
     "https://chinanews.com.cn/sh/2026/10-23/10719999.shtml",
-    "https://chinanews.com.cn/tp/2026/10-23/10719938.shtml",
-    "https://chinanews.com.cn/tp/2026/10-23/10719940.shtml",
-    "https://chinanews.com.cn/tp/2026/10-23/10719942.shtml",
-    "https://chinanews.com.cn/tp/2026/10-23/10719943.shtml",
-    "https://chinanews.com.cn/tp/2026/10-23/10719946.shtml",
-    "https://chinanews.com.cn/tp/2026/10-23/10719948.shtml",
+    "https://chinanews.com.cn/sh/2026/10-23/10720005.shtml",
+    "https://chinanews.com.cn/sh/2026/10-23/10720007.shtml",
     "https://chinanews.com.cn/ty/2026/10-23/10719995.shtml",
+    "https://chinanews.com.cn/ty/2026/10-23/10720003.shtml",
     "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search",
     "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow",
     "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules",
     "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage",
     "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
     "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes",
+    "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+    "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+    "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+    "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+    "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+    "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
+    "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+    "https://github.blog/changelog/2026-10-22-pull-requests-saved-whitespace-preferences-and-improved-split-view",
+    "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure",
+    "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills",
+    "https://github.com/NVIDIA/OpenShell",
+    "https://github.com/OpenBMB/VoxCPM",
+    "https://github.com/Renhuai123/ziwei-doushu",
+    "https://github.com/SnailSploit/Claude-Red",
+    "https://github.com/anthropics/knowledge-work-plugins",
+    "https://github.com/cloudflare/security-audit-skill",
+    "https://github.com/nodejs/node",
+    "https://github.com/php/php-src",
     "https://gov.cn/yaowen/liebiao/202610/content_7083962.htm",
     "https://gov.cn/yaowen/liebiao/202610/content_7083967.htm",
     "https://gov.cn/yaowen/liebiao/202610/content_7083968.htm",
@@ -227,34 +246,40 @@
       "group": "ai"
     },
     {
-      "url": "https://microsoft.ai/news/building-medical-superintelligence",
-      "title": "microsoftai发布sdbench基准与maidxo诊断系统登science",
-      "display_title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
-      "group": "ai"
-    },
-    {
-      "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-      "title": "metr与redwoodresearch红队测试openai内部智能体监控系统发现多个漏洞",
-      "display_title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
-      "group": "ai"
-    },
-    {
-      "url": "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes",
-      "title": "跨8个nvidiadgxspark节点运行前沿级ai模型",
-      "display_title": "跨8个NVIDIA DGX Spark节点运行前沿级AI模型",
-      "group": "ai"
-    },
-    {
-      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
-      "title": "nvidianemotron35supervl为专业代理提供多模式推理",
-      "display_title": "NVIDIA Nemotron 3.5 Super VL为专业代理提供多模式推理",
-      "group": "ai"
-    },
-    {
       "url": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow",
       "title": "通过代理辅助工作流程开发人工智能工厂数字双胞胎",
       "display_title": "通过代理辅助工作流程开发人工智能工厂数字双胞胎",
       "group": "ai"
+    },
+    {
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "title": "cloudflare安全审计技能",
+      "display_title": "cloudflare/安全审计技能",
+      "group": "github"
+    },
+    {
+      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "title": "visualstudio中的githubcopilot9月更新",
+      "display_title": "Visual Studio中的GitHub Copilot — 9月更新",
+      "group": "github"
+    },
+    {
+      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills",
+      "title": "漏洞赏金如何提高一名研究人员的安全技能",
+      "display_title": "漏洞赏金如何提高一名研究人员的安全技能",
+      "group": "github"
+    },
+    {
+      "url": "https://github.com/php/php-src",
+      "title": "phpphpsrc",
+      "display_title": "php/php-src",
+      "group": "github"
+    },
+    {
+      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+      "title": "使用情况指标api中的自定义技能代理和mcp服务器",
+      "display_title": "使用情况指标API中的自定义技能、代理和MCP服务器",
+      "group": "github"
     },
     {
       "url": "https://gov.cn/yaowen/liebiao/202610/content_7084130.htm",
@@ -272,12 +297,6 @@
       "url": "https://gov.cn/yaowen/liebiao/202610/content_7084091.htm",
       "title": "中共中央政治局召开会议审议关于二十届中央第七轮巡视情况的综合报告中共中央总书记习近平主持会议",
       "display_title": "中共中央政治局召开会议 审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议",
-      "group": "china"
-    },
-    {
-      "url": "https://chinanews.com.cn/cj/2026/10-23/10719927.shtml",
-      "title": "2026中非民营经济合作论坛在北京举办",
-      "display_title": "2026中非民营经济合作论坛在北京举办",
       "group": "china"
     },
     {

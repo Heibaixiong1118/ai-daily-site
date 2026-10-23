@@ -4,5 +4,12 @@
   "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning": "NVIDIA Nemotron 3.5 Super VL为专业代理提供多模式推理",
   "Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across sources,...": "始终在线的客服代表正在承担更长、更复杂的企业工作流程。单个请求可能涉及阅读文档，检查跨来源的信息，...",
   "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow": "通过代理辅助工作流程开发人工智能工厂数字双胞胎",
-  "Building an AI factory digital twin requires developers to bring site plans, equipment assets, and engineering requirements into a consistent model that teams...": "构建人工智能工厂数字孪生需要开发人员将场地规划、设备资产和工程要求整合到一个一致的模型中，团队..."
+  "Building an AI factory digital twin requires developers to bring site plans, equipment assets, and engineering requirements into a consistent model that teams...": "构建人工智能工厂数字孪生需要开发人员将场地规划、设备资产和工程要求整合到一个一致的模型中，团队...",
+  "cloudflare/security-audit-skill": "cloudflare/安全审计技能",
+  "GitHub Copilot in Visual Studio — September update": "Visual Studio中的GitHub Copilot — 9月更新",
+  "September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags… The post GitHub Copilot in Visual Studio — September update appeared first on The GitHub Blog .": "2026年9月为您的工作带来了更深入的可见性：探索无需离开聊天的拉取请求，带来您的团队信任的人工智能模型，并在Visual Studio标记时修复易受攻击的软件包…… Visual Studio中的GitHub Copilot帖子— 9月更新首次出现在GitHub博客上。",
+  "How bug bounty sharpens one researcher’s security skills": "漏洞赏金如何提高一名研究人员的安全技能",
+  "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog .": "随着网络安全意识月的持续， GitHub Bug Bounty团队聚焦@ r31n ，深入了解他们的研究方法、最喜欢的Bug课程以及为有抱负的黑客提供的建议。《漏洞赏金如何提高研究人员的安全技能》一文首次出现在GitHub博客上。",
+  "Custom skills, agents, and MCP servers in usage metrics API": "使用情况指标API中的自定义技能、代理和MCP服务器",
+  "Copilot usage metrics now show the names of the skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins that your organization creates, instead of grouping them under… The post Custom skills, agents, and MCP servers in usage metrics API appeared first on The GitHub Blog .": "Copilot使用指标现在显示组织创建的技能、自定义代理、模型上下文协议(MCP)服务器、斜杠命令和插件的名称，而不是将其分组在...使用指标API中的POST自定义技能、代理和MCP服务器首次出现在GitHub博客上。"
 }
