@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T20:44:24.378304+08:00",
+  "generated_at": "2026-10-23T20:48:02.462690+08:00",
   "candidate_urls": [
     "https://404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
     "https://aihot.news/daily/2026-10-23",
@@ -243,6 +243,30 @@
       "url": "https://x.com/rohanpaul_ai/status/2113107154219741231",
       "title": "wsj马斯克希望以ai为核心推动spacex与tesla合并",
       "display_title": "WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并",
+      "group": "ai"
+    },
+    {
+      "url": "https://microsoft.ai/news/building-medical-superintelligence",
+      "title": "microsoftai发布sdbench基准与maidxo诊断系统登science",
+      "display_title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
+      "group": "ai"
+    },
+    {
+      "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
+      "title": "metr与redwoodresearch红队测试openai内部智能体监控系统发现多个漏洞",
+      "display_title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
+      "group": "ai"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes",
+      "title": "跨8个nvidiadgxspark节点运行前沿级ai模型",
+      "display_title": "跨8个NVIDIA DGX Spark节点运行前沿级AI模型",
+      "group": "ai"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+      "title": "nvidianemotron35supervl为专业代理提供多模式推理",
+      "display_title": "NVIDIA Nemotron 3.5 Super VL为专业代理提供多模式推理",
       "group": "ai"
     },
     {
