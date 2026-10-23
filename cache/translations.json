@@ -1,0 +1,8 @@
+{
+  "Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes": "跨8个NVIDIA DGX Spark节点运行前沿级AI模型",
+  "AI developers aren’t just running a single model anymore—they’re orchestrating multiple models in parallel, chaining inference calls, and experimenting...": "人工智能开发人员不再只是运行单个模型--他们正在并行编排多个模型，链接推理调用，并进行实验……",
+  "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning": "NVIDIA Nemotron 3.5 Super VL为专业代理提供多模式推理",
+  "Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across sources,...": "始终在线的客服代表正在承担更长、更复杂的企业工作流程。单个请求可能涉及阅读文档，检查跨来源的信息，...",
+  "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow": "通过代理辅助工作流程开发人工智能工厂数字双胞胎",
+  "Building an AI factory digital twin requires developers to bring site plans, equipment assets, and engineering requirements into a consistent model that teams...": "构建人工智能工厂数字孪生需要开发人员将场地规划、设备资产和工程要求整合到一个一致的模型中，团队..."
+}
