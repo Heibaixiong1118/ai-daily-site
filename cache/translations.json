@@ -35,5 +35,7 @@
   "Public monitoring adds triage, validity, API, and webhooks": "公共监控增加了分类、有效性、API和webhook",
   "Public monitoring now includes alert management capabilities like automatic validity checks to help you triage and remediate leaked secrets at scale. Alert management with dismissals, timelines, and filtering Always-on validity… The post Public monitoring adds triage, validity, API, and webhooks appeared first on The GitHub Blog .": "公共监控现在包括自动有效性检查等警报管理功能，可帮助您大规模分类和修复泄露的秘密。通过驳回、时间表和过滤Always-on有效性进行警报管理…… POST公共监控添加了分类、有效性、API和webhooks ，首次出现在GitHub博客上。",
   "Enterprise installations for GitHub Apps generally available": "GitHub应用的企业版安装正式推出",
-  "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API… The post Enterprise installations for GitHub Apps generally available appeared first on The GitHub Blog .": "在您的企业上安装GitHub应用程序现已全面推出。您可以使用扩展的API在更多的企业和组织自动化中用GitHub应用程序替换经典的PAT…… GitHub应用程序的企业版后期安装首次出现在GitHub博客上。"
+  "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API… The post Enterprise installations for GitHub Apps generally available appeared first on The GitHub Blog .": "在您的企业上安装GitHub应用程序现已全面推出。您可以使用扩展的API在更多的企业和组织自动化中用GitHub应用程序替换经典的PAT…… GitHub应用程序的企业版后期安装首次出现在GitHub博客上。",
+  "OpenShell is the safe, private runtime for autonomous AI agents.": "OpenShell是自主AI代理的安全、私有运行时。",
+  "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS": "AWS支持的官方MCP服务器、技能和插件，以帮助AI代理在AWS上构建"
 }
