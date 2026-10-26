@@ -44,5 +44,8 @@
   "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.": "OpenAI解释了我们如何加强对前沿模型培训和评估的遏制，包括离线环境和高计算红队。",
   "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.": "Claude Code、Cursor和Codex的防AI倾斜设计技能。",
   "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.": "VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
-  "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.": "ORCA是与代理团队合作的地方（例如Grok Bot、Claude Code ）。使用您自己的订阅运行任何编码代理。可在桌面、移动和远程运行时使用。"
+  "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.": "ORCA是与代理团队合作的地方（例如Grok Bot、Claude Code ）。使用您自己的订阅运行任何编码代理。可在桌面、移动和远程运行时使用。",
+  "The design language that makes your AI harness better at design.": "让您的人工智能更好地进行设计的设计语言。",
+  "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated": "🌊 原始代理线束。部署智能多玩家群体，协调自主工作流程，构建对话式人工智能系统。具有自适应记忆、自学习智能、联合、矢量RAG集成和本地Claude Code/Codex/Hermes等功能",
+  "A Tiny biped duck robot 🦆": "微型双足鸭机器人 🦆"
 }
