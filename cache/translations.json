@@ -50,5 +50,11 @@
   "A Tiny biped duck robot 🦆": "微型双足鸭机器人 🦆",
   "TradingAgents: Multi-Agents LLM Financial Trading Framework": "TradingAgent ：多代理LLM金融交易框架",
   "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need": "轻量级的真实IDE中带有pi的Vibe代码，可根据您的工作方式自行定制—您需要的Vibe",
-  "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.": "将任何代码库及其文档、SQL架构、配置和PDF转换为可查询的知识图。Claude Code、Cursor、Codex和Gemini CLI的A/graphify技能：本地确定性AST解析，解释每个边缘，没有矢量存储。"
+  "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.": "将任何代码库及其文档、SQL架构、配置和PDF转换为可查询的知识图。Claude Code、Cursor、Codex和Gemini CLI的A/graphify技能：本地确定性AST解析，解释每个边缘，没有矢量存储。",
+  "Greptile takes bug detection beyond code review with GPT-6 Astra": "Greptile使用GPT-6 Astra进行代码审查之外的错误检测",
+  "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.": "Greptile如何使用GPT-6 Astra测试用户工作流程， Daybreak如何加强安全性， Codex如何减少返工。",
+  "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases": "GPT-6.1 SOL帮助CodeRabbit加强复杂代码库的安全性",
+  "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.": "CodeRabbit使用GPT-6.1 SOL来调查复杂代码库中的安全风险。其安全代理可帮助开发人员审查发现和提议的修复。",
+  "GPT-6.1 Terra in GitHub Copilot": "GitHub Copilot中的GPT-6.1 Terra",
+  "GPT-6.1 Terra, OpenAI’s newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol. In… The post GPT-6.1 Terra in GitHub Copilot appeared first on The GitHub Blog .": "GPT-6.1 Terra是OpenAI的最新型号，现已在GitHub Copilot中正式推出。它专为日常代理编码和终端工作而设计，成本低于GPT-6.1 SOL。在…… GitHub Copilot中的文章GPT-6.1 Terra首先出现在GitHub博客上。"
 }
