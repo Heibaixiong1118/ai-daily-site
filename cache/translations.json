@@ -56,5 +56,9 @@
   "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases": "GPT-6.1 SOL帮助CodeRabbit加强复杂代码库的安全性",
   "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.": "CodeRabbit使用GPT-6.1 SOL来调查复杂代码库中的安全风险。其安全代理可帮助开发人员审查发现和提议的修复。",
   "GPT-6.1 Terra in GitHub Copilot": "GitHub Copilot中的GPT-6.1 Terra",
-  "GPT-6.1 Terra, OpenAI’s newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol. In… The post GPT-6.1 Terra in GitHub Copilot appeared first on The GitHub Blog .": "GPT-6.1 Terra是OpenAI的最新型号，现已在GitHub Copilot中正式推出。它专为日常代理编码和终端工作而设计，成本低于GPT-6.1 SOL。在…… GitHub Copilot中的文章GPT-6.1 Terra首先出现在GitHub博客上。"
+  "GPT-6.1 Terra, OpenAI’s newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol. In… The post GPT-6.1 Terra in GitHub Copilot appeared first on The GitHub Blog .": "GPT-6.1 Terra是OpenAI的最新型号，现已在GitHub Copilot中正式推出。它专为日常代理编码和终端工作而设计，成本低于GPT-6.1 SOL。在…… GitHub Copilot中的文章GPT-6.1 Terra首先出现在GitHub博客上。",
+  "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.": "持久性AI队友的本地首选桌面工作区。使用专用工作区、任务队列、文件共享、浏览器控制和代理间协作运行Codex、Claude和Grok。",
+  "An agentic skills framework & software development methodology that works.": "有效的代理技能框架和软件开发方法。",
+  "GitHub Copilot assisted permissions generally available": "GitHub Copilot辅助权限正式可用",
+  "Assisted permissions are now generally available in GitHub Copilot CLI, GitHub Copilot app, and Visual Studio Code. When Copilot requests permission to run a command, access a file system path,… The post GitHub Copilot assisted permissions generally available appeared first on The GitHub Blog .": "GitHub Copilot CLI、GitHub Copilot应用和Visual Studio Code中现在普遍提供辅助权限。当Copilot请求运行命令的权限时，访问文件系统路径， ……通常可用的GitHub后Copilot辅助权限首先出现在GitHub博客上。"
 }
