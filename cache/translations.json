@@ -98,5 +98,8 @@
   "Build a Validated Kubernetes Runtime for NVIDIA Dynamo": "为NVIDIA Dynamo构建经过验证的Kubernetes运行时",
   "Teams building AI applications need a repeatable path from a model configuration to a working inference endpoint. NVIDIA Dynamo is a distributed inference...": "构建AI应用程序的团队需要从模型配置到工作推理端点的可重复路径。NVIDIA Dynamo是一种分布式推理...",
   "Skills for Real Engineers. Straight from my .agents directory.": "真正工程师的技能。直接来自我的.agents目录。",
-  "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.": "将Claude Code变成一个完整的游戏开发工作室--49个人工智能代理、72个工作流程技能，以及一个完整的协调系统，反映了真实的工作室层次结构。"
+  "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.": "将Claude Code变成一个完整的游戏开发工作室--49个人工智能代理、72个工作流程技能，以及一个完整的协调系统，反映了真实的工作室层次结构。",
+  "Lightpanda: the headless browser designed for AI and automation": "Lightpanda ：专为人工智能和自动化设计的无头浏览器",
+  "Kronos: A Foundation Model for the Language of Financial Markets": "Kronos ：金融市场语言的基础模型",
+  "A collective list of free APIs": "免费API的集合列表"
 }
