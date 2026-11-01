@@ -92,5 +92,11 @@
   "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.": "适用于Claude Code的通用SEO技能。26个子技能+ 19个子代理，涵盖技术SEO、E-E-A-T、SCHEMA、GEO/AEO、代理就绪性（ Lighthouse Agentic Browsing、WebMCP、llms.txt ）、反向链接、本地SEO、电子商务、国际SEO、Google API和PDF/Excel报告。9个实时SEO数据的可选扩展。",
   "A collection of AI agent skills for working with Expo projects and Expo Application Services": "与世博会项目和世博会应用服务合作的人工智能代理技能集合",
   "An updated Model Spec for more capable and beneficial AI": "更新的模型规格，以实现更强大、更有益的人工智能",
-  "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.": "OpenAI更新的模型规范概述了五个核心价值观，以引导更有能力的人工智能走向合理的判断、人为代理和对人类意图的忠诚。"
+  "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.": "OpenAI更新的模型规范概述了五个核心价值观，以引导更有能力的人工智能走向合理的判断、人为代理和对人类意图的忠诚。",
+  "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw": "使用NVIDIA NemoClaw在您控制的堆栈上构建专业代理",
+  "Building an autonomous agent requires a model, a harness, and domain-specific tools. To deploy an agent more securely, developers need a runtime that enforces...": "构建自主代理需要模型、线束和特定领域的工具。为了更安全地部署代理，开发人员需要一个强制...的运行时",
+  "Build a Validated Kubernetes Runtime for NVIDIA Dynamo": "为NVIDIA Dynamo构建经过验证的Kubernetes运行时",
+  "Teams building AI applications need a repeatable path from a model configuration to a working inference endpoint. NVIDIA Dynamo is a distributed inference...": "构建AI应用程序的团队需要从模型配置到工作推理端点的可重复路径。NVIDIA Dynamo是一种分布式推理...",
+  "Skills for Real Engineers. Straight from my .agents directory.": "真正工程师的技能。直接来自我的.agents目录。",
+  "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.": "将Claude Code变成一个完整的游戏开发工作室--49个人工智能代理、72个工作流程技能，以及一个完整的协调系统，反映了真实的工作室层次结构。"
 }
