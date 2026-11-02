@@ -105,5 +105,16 @@
   "Run AI Models for Edge Application Development with Just a Few Commands": "只需几个命令即可运行边缘应用程序开发的人工智能模型",
   "AI is expanding beyond the data center as developers build a new generation of agents to act at the edge: monitoring driver attention and cabin conditions,...": "随着开发人员构建新一代代理以在边缘采取行动，人工智能正在扩展到数据中心之外：监控驾驶员的注意力和驾驶舱条件，...",
   "Game Off 2026: The theme is SHIFT": "Game Off 2026 ：主题是转变",
-  "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .": "GitHub一年一度的为期一个月的游戏果酱已回归第14个年头！今年11月，制作一款受主题转变启发的游戏。换档、交换视角、弯曲现实，或者只需按某个键。《Game Off 2026 ： The theme is SHIFT》一文首次出现在GitHub博客上。"
+  "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .": "GitHub一年一度的为期一个月的游戏果酱已回归第14个年头！今年11月，制作一款受主题转变启发的游戏。换档、交换视角、弯曲现实，或者只需按某个键。《Game Off 2026 ： The theme is SHIFT》一文首次出现在GitHub博客上。",
+  "Build World Models for Interactive Simulation with NVIDIA Cosmos": "使用NVIDIA Cosmos构建交互式模拟的世界模型",
+  "Physical AI developers working with world models face two distinct challenges: adapting models to their sensors, tasks, and data, and getting those models into...": "使用世界模型的物理人工智能开发人员面临两个截然不同的挑战：使模型适应其传感器、任务和数据，并将这些模型...",
+  "Qodo builds context into AI code review with Codex": "Qodo使用Codex将上下文构建到AI代码审查中",
+  "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.": "Qodo将公司知识和编码标准引入Codex ，帮助开发人员在打开拉取请求之前跨存储库捕获P0问题。",
+  "Computer use CLI for AI agents": "AI代理的计算机使用CLI",
+  "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev": "🕷️ 最好的Web抓取框架，可处理从单个请求到全面爬网的所有内容！不要害羞，在这里加入： https://discord.gg/EMgGbDceNQ并按照这里获取每日提示和技巧： https://x.com/Scrapling_dev",
+  "Security risk assessments include repository protection status": "安全风险评估包括存储库保护状态",
+  "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization… The post Security risk assessments include repository protection status appeared first on The GitHub Blog .": "GitHub代码安全风险评估和机密风险评估现在显示调查结果是在受保护还是不受保护的存储库中，帮助您确定扩展安全覆盖范围的位置。组织… POST安全风险评估包括存储库保护状态首次出现在GitHub博客上。",
+  "pull_request_target blocked by default December 2": "pull_request_target已被默认屏蔽12月2日",
+  "Starting December 2, 2026, GitHub Actions will block pull_request_target events by default in all public repositories, unless an applicable Actions event policy explicitly allows them. Enforcement was previously scheduled for… The post pull_request_target blocked by default December 2 appeared first on The GitHub Blog .": "从2026年12月2日起， GitHub Actions将默认阻止所有公共存储库中的PULL_REQUEST_TARGET事件，除非适用的Actions事件策略明确允许。强制执行原定于……默认情况下， 12月2日阻止的POST PULL_REQUEST_TARGET首先出现在GitHub博客上。",
+  "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.": "Hyprland是一款独立的、高度可定制的动态平铺Wayland合成器，不会牺牲外观。"
 }
