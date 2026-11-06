@@ -149,5 +149,9 @@
   "Inside GitHub’s new Git storage architecture": "在GitHub的新Git存储架构中",
   "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .": "GitHub构建了新的Git存储架构，因此成千上万的代理可以同时推送到单个存储库。以下是具体操作方法。文章Inside GitHub的新Git存储架构首先出现在GitHub博客上。",
   "New pull request overview page in public preview": "公开预览中的新拉取请求概述页面",
-  "On a long pull request, checking what’s blocking often means scrolling past dozens of comments and timeline events just to reach the merge box. And once you’re there, you still… The post New pull request overview page in public preview appeared first on The GitHub Blog .": "对于较长的拉取请求，检查阻止的内容通常意味着滚动过去的数十个注释和时间轴事件，以到达合并框。一旦你到达那里，你仍然……在公开预览中发布新的拉取请求概述页面首先出现在GitHub博客上。"
+  "On a long pull request, checking what’s blocking often means scrolling past dozens of comments and timeline events just to reach the merge box. And once you’re there, you still… The post New pull request overview page in public preview appeared first on The GitHub Blog .": "对于较长的拉取请求，检查阻止的内容通常意味着滚动过去的数十个注释和时间轴事件，以到达合并框。一旦你到达那里，你仍然……在公开预览中发布新的拉取请求概述页面首先出现在GitHub博客上。",
+  "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.": "以思维速度编写代码– Zed是Atom和Tree-sitter创建者的高性能多人代码编辑器。",
+  "Ruby on Rails": "红宝石 on Rails",
+  "Usage metrics API adds code review details and addressed rate": "使用指标API添加代码审核详细信息和寻址速率",
+  "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed… The post Usage metrics API adds code review details and addressed rate appeared first on The GitHub Blog .": "企业和组织存储库级别的Copilot使用情况指标报告现在显示Copilot代码审查反馈会发生什么。每个repos-1天行上的一个新的copilot_code_review对象报告了Copilot审阅的数量…… POST使用情况指标API添加了代码审阅详细信息，寻址率首次出现在GitHub博客上。"
 }
