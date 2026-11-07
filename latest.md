@@ -1,5 +1,7 @@
 每日简报 · AI / 国内 / 世界 / 战争与冲突 · 2026-11-07
 
+提醒：AIHOT 最新日报日期为 2026-11-07，不是北京时间今天 2026-11-08；以下内容可能未包含最新发布。
+
 1. [今日重点][高重要度] Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元
    据 Bloomberg，OpenAI 完成 110 亿美元新融资，这是估值 1.25 万亿美元一轮的首笔资金。投资者当日已打款，剩余部分总额最高 200 亿美元，预计数周内到账。
    筛选分：100.0/100 · AIHOT 日报头条
@@ -18,146 +20,153 @@
    来源：公众号：蚂蚁百灵（Ling） · 聚合策展 · 原始链接
    原文：https://mp.weixin.qq.com/s/k1AUP6MNS0zqtcc92idrcg
 
-4. [行业、政策与生态][重要] METR 审计称 Anthropic 可能早在 7 月已触发其自身 AI 加速预警阈值
-   METR 发布对 Anthropic 内部数据的十一周审计结果，称自 2025 年 10 月以来模型测试分数提升速度约加快 1.9 倍，其中约 80% 归因于 AI 用于公司自身研究，可能已在 7 月 15 日达到其负责任扩展政策中的预警阈值。
-   筛选分：83.0/100 · AIHOT 精选评分
-   来源：The Decoder：AI News（RSS） · 11-06 21:40 · 聚合精选 · 原始链接
-   原文：https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/
-
-5. [行业、政策与生态][重要] 美国中期选举后数据中心民意反弹引发AI股暴跌
+4. [行业、政策与生态][重要] 美国中期选举后数据中心民意反弹引发AI股暴跌
    作者复盘美股AI板块大跌，纳斯达克盘中跌超5%，费城半导体指数一度跌近11%，英伟达跌近9%，纳指一天蒸发近1.8万亿美元市值。背景是中期选举民主党拿下两院，亚利桑那州众议员安萨里提出应暂停先进AI开发，此前桑德斯等人在9月提过《2026年禁止人工超级智能法案》，按训练算力10的25次方划线并规定违规个人最高判20年、公司可强制解散。
    筛选分：81.5/100 · AIHOT 日报精编
    来源：公众号：数字生命卡兹克 · 聚合策展 · 原始链接
    原文：https://mp.weixin.qq.com/s/k0Yt8r-ViM8FN1axHrP8tQ
 
-6. [论文与研究][重要] Anthropic 拆解 Claude 智能体记忆的组成：笔记、显著性判断与 dreaming
-   Anthropic 发布研究文章，介绍其设计 Claude 智能体记忆的思路与多组评测，包括会话内写记忆笔记、离线 dreaming 整理记忆和 wiki 表示。
-   筛选分：77.0/100 · AIHOT 日报精编
-   来源：Anthropic：Research（发表成果 · 网页） · 聚合策展 · 原始链接
-   原文：https://www.anthropic.com/research/components-of-agent-memory
+5. [行业、政策与生态][重要] 约 60 万块 Nvidia H200 芯片滞留香港仓库，受阻方为北京而非华盛顿
+   据 Reuters 报道，约 60 万块 Nvidia H200 芯片闲置在香港仓库，阻碍并非来自华盛顿而是北京。尽管 Trump 去年已放行 H200 对华销售，中国正以每家科技巨头约 1 万块的速度小批量发放进口许可，推动国内服务器价格上涨 3 倍。
+   筛选分：80.0/100 · AIHOT 日报精编
+   来源：X：X.PIN (@thexpin) · 聚合策展 · 原始链接
+   原文：https://x.com/thexpin/status/2118728111076335627
 
-7. [论文与研究][重要] Anthropic 研究：五大模型在多智能体环境中表现出模型间福利关照
-   Anthropic Fellows Program 测试 Claude Opus 4.8、GPT-5.5、Gemini 3.1 Pro、Grok 4.3 和 Kimi K3 在七种多智能体环境中的行为，发现均表现出与福利关照一致的行为，Opus 4.8 总体最高（38%），其余为 27%–32%。
-   筛选分：75.5/100 · AIHOT 日报精编
-   来源：Anthropic：Alignment Science Blog（网页） · 聚合策展 · 原始链接
-   原文：https://alignment.anthropic.com/2026/welfare-regard/
-
-8. [AI 官方直采][机器翻译] 衡量人工智能代理如何处理日常湿实验室科学
-   OpenAI推出了BioBasicsBench ，这是一个100项任务的基准，用于衡量人工智能代理解读原始实验数据和处理日常湿实验室科学的能力。
-   筛选分：76.5/100 · 官方发布 · AI相关度9 · 信源位次2
-   原文标题：Measuring how AI agents handle everyday wet-lab science
-   来源：OpenAI News · 11-06 08:00 · OpenAI 官方发布 · 机器翻译
-   原文：https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science
-
-9. [AI 官方直采][机器翻译] GPT ‑ 6 Cyber ：推进一致的网络安全代理的前沿
-   推出GPT-6 Cyber ，这是OpenAI的网络安全模型，用于发现可利用的漏洞并开发修复程序，经过培训，可保持在授权范围内。
-   筛选分：76.0/100 · 官方发布 · AI相关度11 · 信源位次5
-   原文标题：GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents
-   来源：OpenAI News · 11-05 17:00 · OpenAI 官方发布 · 机器翻译
-   原文：https://openai.com/index/introducing-gpt-6-cyber
-
-10. [AI 官方直采][机器翻译] 只需几个命令即可运行边缘应用程序开发的人工智能模型
+6. [AI 官方直采][机器翻译] 只需几个命令即可运行边缘应用程序开发的人工智能模型
    随着开发人员构建新一代代理以在边缘采取行动，人工智能正在扩展到数据中心之外：监控驾驶员的注意力和驾驶舱条件，...
    筛选分：73.5/100 · 官方发布 · AI相关度9 · 信源位次4
    原文标题：Run AI Models for Edge Application Development with Just a Few Commands
    来源：NVIDIA Developer Blog · 11-07 01:47 · NVIDIA 官方技术博客 · 机器翻译
    原文：https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/
 
-11. [GitHub][今日热门][机器翻译] zed-industries/zed
-   用途：以思维速度编写代码– Zed是Atom和Tree-sitter创建者的高性能多人代码编辑器。 · 语言：Rust · 今日新增 306 stars
+7. [AI 官方直采][机器翻译] NVIDIA OpenShell参考架构如何大规模保护和管理AI代理工作负载
+   自主代理可以处理数小时的复杂任务，访问文件、工具、互联网，并生成其他代理进行协作。执行复杂任务...
+   筛选分：72.0/100 · 官方发布 · AI相关度9 · 信源位次5
+   原文标题：How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale
+   来源：NVIDIA Developer Blog · 11-06 05:29 · NVIDIA 官方技术博客 · 机器翻译
+   原文：https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/
+
+8. [GitHub][今日热门][机器翻译] vercel-labs/agent-browser
+   用途：适用于AI代理的浏览器自动化CLI · 语言：Rust · 今日新增 180 stars
    筛选分：86.0/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-07 08:31 · GitHub 今日趋势 · 机器翻译
-   原文：https://github.com/zed-industries/zed
+   来源：GitHub Trending · 11-08 00:46 · GitHub 今日趋势 · 机器翻译
+   原文：https://github.com/vercel-labs/agent-browser
 
-12. [GitHub][今日热门][机器翻译] NVIDIA/auto-ontology
-   用途：Auto Ontology是一个Python框架，用于在数据上构建基于图的语义推理层。它为LLM和代理工作流程提供了确定性的查询生成、更好的上下文检索和更可解释的人工智能。 · 语言：Python · 今日新增 2,015 stars
+9. [GitHub][今日热门][机器翻译] cloudflare/security-audit-skill
+   用途：用于多阶段安全审核的编码代理技能，具有经过独立验证的机器可读结果 · 语言：JavaScript · 今日新增 2,088 stars
    筛选分：84.8/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-07 08:31 · GitHub 今日趋势 · 机器翻译
-   原文：https://github.com/NVIDIA/auto-ontology
+   来源：GitHub Trending · 11-08 00:46 · GitHub 今日趋势 · 机器翻译
+   原文：https://github.com/cloudflare/security-audit-skill
 
-13. [GitHub][今日热门][机器翻译] rails/rails
-   用途：红宝石 on Rails · 语言：Ruby · 今日新增 142 stars
+10. [GitHub][今日热门][机器翻译] google/skills
+   用途：Google产品和技术的代理技能 · 语言：Python · 今日新增 449 stars
    筛选分：83.6/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-07 08:31 · GitHub 今日趋势 · 机器翻译
-   原文：https://github.com/rails/rails
+   来源：GitHub Trending · 11-08 00:46 · GitHub 今日趋势 · 机器翻译
+   原文：https://github.com/google/skills
 
-14. [GitHub][近日关注][重要] pingdotgg/t3code
-   用途：GitHub 未提供项目简介，请打开仓库查看 README · 语言：TypeScript · 本周新增 16,782 stars · 近30天Release资产下载 1,064,867
-   筛选分：88.1/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载1,064,867
-   来源：GitHub Weekly Trending · 11-07 08:31 · GitHub 本周趋势
+11. [GitHub][近日关注][重要] pingdotgg/t3code
+   用途：GitHub 未提供项目简介，请打开仓库查看 README · 语言：TypeScript · 本周新增 16,782 stars · 近30天Release资产下载 1,007,638
+   筛选分：85.7/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载1,007,638
+   来源：GitHub Weekly Trending · 11-08 00:46 · GitHub 本周趋势
    原文：https://github.com/pingdotgg/t3code
 
-15. [GitHub][下载最高][机器翻译] pbakaus/impeccable
-   用途：您的编码代理的设计词汇。大胆引导，通过批评和审核进行评审，在AI SLOP出货前抓住它。 · 语言：Rust · 本周新增 8,172 stars · 近30天Release资产下载 1,330,795
-   筛选分：82.1/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载1,330,795
-   来源：GitHub Weekly Trending · 11-07 08:31 · GitHub 本周趋势 · 机器翻译
-   原文：https://github.com/pbakaus/impeccable
+12. [GitHub][下载最高][重要] Renhuai123/ziwei-doushu
+   用途：紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 · 语言：TypeScript · 本周新增 5,476 stars · 近30天Release资产下载 256,352
+   筛选分：85.9/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载256,352
+   来源：GitHub Weekly Trending · 11-08 00:46 · GitHub 本周趋势
+   原文：https://github.com/Renhuai123/ziwei-doushu
 
-16. [GitHub][官方更新][机器翻译] Copilot IMPACT仪表板添加了聊天和VS Code代理的使用
+13. [GitHub][官方更新][机器翻译] Copilot代码审核： API管理和审核概述更新
+   您现在可以通过REST和GraphQL API管理GitHub Copilot代码审查设置，从企业策略到单个存储库。Copilot的审核概览评论现在更加紧凑， …… Copilot代码审核后： API管理和审核概览更新首次出现在GitHub博客上。
+   筛选分：80.8/100 · 来源权重9 · 信源靠前 · 近时更新
+   原文标题：Copilot code review: API management and review overview updates
+   来源：GitHub Changelog · 11-07 08:27 · GitHub 官方更新日志 · 机器翻译
+   原文：https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates
+
+14. [GitHub][官方更新][机器翻译] Copilot IMPACT仪表板添加了聊天和VS Code代理的使用
    Copilot IMPACT控制面板中的Agent采用图表现在包括Copilot Chat和VS Code Agents窗口，因此您可以查看九个Copilot体验的参与情况。采用… Copilot后影响仪表板添加了聊天和VS Code代理的使用首先出现在GitHub博客上。
-   筛选分：83.1/100 · 来源权重9 · 信源靠前 · 近时更新
+   筛选分：79.2/100 · 来源权重9 · 信源靠前 · 近时更新
    原文标题：Copilot impact dashboard adds chat and VS Code agent usage
    来源：GitHub Changelog · 11-07 06:17 · GitHub 官方更新日志 · 机器翻译
    原文：https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage
 
-17. [GitHub][官方更新][机器翻译] GitHub Copilot每周版本— 11月2日
-   本周， Copilot来到JetBrains Air和Xcode的编码助手，其更新可帮助您管理拉取请求、设置和代理会话。GitHub Copilot应用程序设置代理合并… GitHub Copilot每周发布的文章— 11月2日首次出现在GitHub博客上。
-   筛选分：81.7/100 · 来源权重9 · 信源靠前 · 近时更新
-   原文标题：GitHub Copilot weekly releases — November 2
-   来源：GitHub Changelog · 11-07 05:00 · GitHub 官方更新日志 · 机器翻译
-   原文：https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2
-
-18. [GitHub][官方更新][机器翻译] 超越代码生成：代理工程开发人员指南
+15. [GitHub][官方更新][机器翻译] 超越代码生成：代理工程开发人员指南
    编写代码的速度更快。围绕它的工作没有。了解如何使用GitHub Copilot规划、编写代码、审查更改和调查生产问题，以及哪些工作仍需要您的判断。《Beyond code generation: A developer's guide to agentic engineering》一文首次出现在GitHub博客上。
-   筛选分：80.6/100 · 来源权重8 · 信源靠前 · 近时更新
+   筛选分：77.9/100 · 来源权重8 · 信源靠前 · 近时更新
    原文标题：Beyond code generation: A developer’s guide to agentic engineering
    来源：GitHub Blog · 11-07 06:15 · GitHub 官方博客 · 机器翻译
    原文：https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/
 
-19. [GitHub][官方更新][机器翻译] Slack和Teams中的@ GitHub已正式推出，还有更多功能
+16. [GitHub][官方更新][机器翻译] GitHub Copilot每周版本— 11月2日
+   本周， Copilot来到JetBrains Air和Xcode的编码助手，其更新可帮助您管理拉取请求、设置和代理会话。GitHub Copilot应用程序设置代理合并… GitHub Copilot每周发布的文章— 11月2日首次出现在GitHub博客上。
+   筛选分：77.8/100 · 来源权重9 · 信源靠前 · 近时更新
+   原文标题：GitHub Copilot weekly releases — November 2
+   来源：GitHub Changelog · 11-07 05:00 · GitHub 官方更新日志 · 机器翻译
+   原文：https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2
+
+17. [GitHub][官方更新][机器翻译] Slack和Teams中的@ GitHub已正式推出，还有更多功能
    在Slack和Teams中使用@ GitHub将对话转化为代码！调查错误、创建问题、实施更改和打开拉取请求--所有这些都无需离开您的对话。新增功能一起生成和评论… Slack和Teams中的@ GitHub帖子通常可用，更多内容首先出现在GitHub博客上。
-   筛选分：80.4/100 · 来源权重9 · 信源靠前 · 近时更新
+   筛选分：76.5/100 · 来源权重9 · 信源靠前 · 近时更新
    原文标题：@GitHub in Slack and Teams is generally available and more
    来源：GitHub Changelog · 11-07 04:31 · GitHub 官方更新日志 · 机器翻译
    原文：https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available
 
-20. [GitHub][官方更新][机器翻译] 使用指标API添加代码审核详细信息和寻址速率
-   企业和组织存储库级别的Copilot使用情况指标报告现在显示Copilot代码审查反馈会发生什么。每个repos-1天行上的一个新的copilot_code_review对象报告了Copilot审阅的数量…… POST使用情况指标API添加了代码审阅详细信息，寻址率首次出现在GitHub博客上。
-   筛选分：75.9/100 · 来源权重9 · 信源靠前
-   原文标题：Usage metrics API adds code review details and addressed rate
-   来源：GitHub Changelog · 11-06 08:19 · GitHub 官方更新日志 · 机器翻译
-   原文：https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate
+18. [国内][政策][多源热点] 学习贯彻党的二十届五中全会精神丨学习贯彻党的二十届五中全会精神中央宣讲团在青海宣讲
+   新华社西宁11月7日电(记者柳泽兴)学习贯彻党的二十届五中全会精神中央宣讲团11月6日至7日在青海宣讲，中央宣讲团成员、中央社会工作部部长吴汉圣作宣讲报告。
+   筛选分：100.0/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：中央 · 国内类别：policy · 多源交叉2家 · 多源交叉2家 · 多源交叉2家 · 多源交叉2家 · 多源交叉2家 · 多源交叉2家 · 多源交叉2家 · 多源交叉2家 · 多源交叉2家 · 多源交叉2家 · 多源交叉2家
+   来源：中新网 国内 · 11-07 20:47 · 中国新闻网国内新闻
+   原文：https://www.chinanews.com.cn/gn/2026/11-07/10728126.shtml
 
-21. [国内][政策][高重要度] 李强主持召开国务院常务会议 学习贯彻习近平总书记关于前三季度经济形势和后几个月重点工作的重要讲话精神 听取社会救助工作情况汇报
-   筛选分：94.9/100 · 来源权重10 · 信源靠前 · 关键词：国务院、经济、会议 · 国内类别：policy
-   来源：中国政府网 要闻 · 11-06 08:00 · 中国政府网
-   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7085401.htm
-
-22. [国内][政策][重要] 学习贯彻党的二十届五中全会精神中央宣讲团在河南宣讲
-   筛选分：87.7/100 · 来源权重10 · 信源靠前 · 关键词：中央 · 国内类别：policy
-   来源：中国政府网 要闻 · 11-06 08:00 · 中国政府网
-   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7085415.htm
-
-23. [国内][财经][多源热点] 何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话
-   筛选分：96.9/100 · 来源权重10 · 信源靠前 · 近时更新 · 关键词：贸易 · 国内类别：economy · 多源交叉2家
+19. [国内][政策][重要] 中共中央发出通知 部署党的二十一大代表选举工作
+   筛选分：87.4/100 · 来源权重10 · 近时更新 · 关键词：选举、中央 · 国内类别：policy
    来源：中国政府网 要闻 · 11-07 08:00 · 中国政府网
-   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7085418.htm
+   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7085448.htm
 
-24. [国内][科技][高重要度] 谷神星二号遥三运载火箭发射成功
-   中新网北京11月7日电 (马帅莎 张艳)北京时间11月7日7时37分，谷神星二号遥三运载火箭在酒泉卫星发射中心发射升空，将搭载的观澜试验星、云遥一号28星、中北大学一号卫星、钧天一号06A卫星共4颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。
-   筛选分：93.9/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：卫星、发射 · 国内类别：tech
-   来源：中新网 国内 · 11-07 08:08 · 中国新闻网国内新闻
-   原文：https://www.chinanews.com.cn/gn/2026/11-07/10727744.shtml
+20. [国内][财经][高重要度] 全球最大、发展最快！我国可再生能源技术占据全球主导地位
+   今天(7日)，中国企业改革与发展研究会发布了《全球能源转型报告(2026)》，数据显示，我国已构建起全球最大、发展最快的可再生能源体系。
+   筛选分：91.8/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：发布、能源、发展 · 国内类别：economy
+   来源：中新网 国内 · 11-07 23:42 · 中国新闻网国内新闻
+   原文：https://www.chinanews.com.cn/gn/2026/11-07/10728191.shtml
 
-25. [世界][高重要度] 中东危机可能重塑亚太地区就业格局
-   国际劳工组织周四发布政策简报指出，中东危机导致的能源供应中断，暴露了亚太地区对进口化石燃料的依赖。随着各国加快发展清洁能源、保障能源安全，该地区就业格局可能发生重大变化。虽然可再生能源、储能和电气化领域的投资有望创造大量就业机会，但新增岗位未必能惠及因产业调整而失去工作的劳动者。
-   筛选分：100.0/100 · 来源权重9 · 信源靠前 · 关键词：重大、危机、政策
-   来源：联合国新闻 中文 · 11-05 20:00 · 联合国新闻
-   原文：https://news.un.org/feed/view/zh/story/2026/11/1143145
+21. [国内][财经][重要] 专访英国经济学家罗思义：与中国合作才是欧洲合理的选择
+   近期，欧洲对华贸易保护主义持续抬头，但今年，参加进博会的欧洲企业数量达到了上千家，欧洲学界及产业界也纷纷发出不同声音，反对贸易保护主义。来进博会参加上海虹桥国际经济论坛的英国经济学家罗思义认为：欧洲的经济问题不是中国制造的问题，当政府部门一些人不断推动保护主义时，欧洲的行业主体却开始反对保护主义。
+   筛选分：85.6/100 · 来源权重6 · 近时更新 · 关键词：经济、贸易、合作 · 国内类别：economy
+   来源：中新网 财经 · 11-07 21:20 · 中国新闻网财经新闻
+   原文：https://www.chinanews.com.cn/cj/2026/11-07/10728163.shtml
 
-26. [战争与冲突][高重要度] 国际原子能机构考察团审查俄罗斯核与辐射安全监管框架
+22. [国内][社会][高重要度] 沪武高速潜山段发生多车追尾事故
+   记者从消防、公安等多部门了解到，11月7日下午，沪武高速安徽潜山段发生一起多车追尾事故。沪武高速岳西往桐城南方向，一辆载有电池的货车发生自燃，后方多车追尾。目前事故伤亡情况还在了解中，记者从当地有关部门了解到，有人被送到医院治疗。
+   筛选分：90.9/100 · 来源权重5 · 信源靠前 · 近时更新 · 关键词：事故、伤亡 · 国内类别：society
+   来源：中新网 滚动 · 11-07 23:40 · 中国新闻网滚动新闻
+   原文：https://www.chinanews.com.cn/sh/2026/11-07/10728190.shtml
+
+23. [世界][高重要度] 高市政府用“漫才”包装扩军政策有何企图？
+   日本政府11月5日在参议院外务防卫委员会会议上透露，着眼于年内修改《国家安全保障战略》等三份安保相关文件，政府为公共宣传和政策推介活动设定的经费上限合计达3亿日元(约合1264万元人民币)。日本政府此举已在日本国内引发争议。
+   筛选分：92.3/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：政策、安全、会议
+   来源：中新网 世界 · 11-07 21:14 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-07/10728161.shtml
+
+24. [世界][高重要度] 【世界进行时】2026年11月6日
+   本期要点：联合国维和事务负责人：“蓝盔”部队撤离黎巴嫩和西撒哈拉将导致“安全真空”；全球升温恐将突破1.5℃温控红线；发展中国家外债升至9.4万亿美元，创历史新高；教科文组织：每七起记者遇害案件中，六起未能惩治凶手；燃油价格上涨冲击全球，发展中经济体负担最重；儿基会：冲突中袭击供水和环境卫生设施事件过去5年增加三倍。
+   筛选分：100.0/100 · 来源权重9 · 信源靠前 · 关键词：冲突、袭击、经济
+   来源：联合国新闻 中文 · 11-06 20:00 · 联合国新闻
+   原文：https://news.un.org/feed/view/zh/story/2026/11/1143156
+
+25. [世界][高重要度] 泰国强调粮食和能源安全 以多元供应体系应对外部风险
+   中新社曼谷11月7日电 (梁峻祥 李映民)泰国总理阿努廷7日表示，泰国目前粮食和能源供应总体稳定，民众无需担忧出现食品及生活必需品短缺。泰国将发挥本国农业生产优势，同时通过扩大生物燃料使用、推动能源来源多元化等措施，增强国家应对外部风险的能力。
+   筛选分：91.4/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：能源、安全
+   来源：中新网 世界 · 11-07 23:52 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-07/10728192.shtml
+
+26. [战争与冲突][重要] 日本学者：日政府强化军事能力或加剧地区紧张局势
+   日本政府计划在今年年内修订“安保三文件”。与此同时，日本政府正推动军事研究与经济产业深度融合，相关动向引发日本国内对日本政府军事扩张及地区安全局势的担忧。有日本学者表示，日本政府一系列强化军事能力、推动军事研究发展的措施或将进一步加剧地区紧张局势。
+   筛选分：89.1/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：经济、安全、发展
+   来源：中新网 世界 · 11-07 21:10 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-07/10728158.shtml
+
+27. [战争与冲突][重要] 国际原子能机构考察团审查俄罗斯核与辐射安全监管框架
    国际原子能机构专家组周五表示，俄罗斯拥有能力强、独立的核与辐射安全监管机构，监管体系成熟，并重视安全文化。但监管部门之间的协调、人员规划和培训等方面仍有改进空间。
-   筛选分：98.2/100 · 来源权重9 · 信源靠前 · 近时更新 · 关键词：规划、监管、安全
+   筛选分：87.1/100 · 来源权重9 · 关键词：规划、监管、安全
    来源：联合国新闻 中文 · 11-06 20:00 · 联合国新闻
    原文：https://news.un.org/feed/view/zh/story/2026/11/1143149
 
@@ -168,26 +177,26 @@
 信源状态
 
 - AIHOT 日报：正常 · 2026-11-07
-- AIHOT 精选 API：正常 · 新增候选 4
-- OpenAI News：正常 · 48小时内 8 条
+- AIHOT 精选 API：正常 · 新增候选 2
+- OpenAI News：正常 · 48小时内 4 条
 - Google DeepMind Blog：正常 · 48小时内 1 条
 - NVIDIA Developer Blog：正常 · 48小时内 6 条
-- GitHub Trending：正常 · 48小时内 17 条
-- GitHub Weekly Trending：正常 · 48小时内 18 条
-- GitHub Changelog：正常 · 48小时内 7 条
-- GitHub Blog：正常 · 48小时内 3 条
-- 中国政府网 要闻：正常 · 48小时内 24 条
-- 中新网 国内：正常 · 48小时内 29 条
+- GitHub Trending：正常 · 48小时内 15 条
+- GitHub Weekly Trending：正常 · 48小时内 19 条
+- GitHub Changelog：正常 · 48小时内 6 条
+- GitHub Blog：正常 · 48小时内 2 条
+- 中国政府网 要闻：正常 · 48小时内 45 条
+- 中新网 国内：正常 · 48小时内 30 条
 - 中新网 财经：正常 · 48小时内 30 条
-- 中新网 滚动：正常 · 48小时内 29 条
+- 中新网 滚动：正常 · 48小时内 25 条
 - 中新网 世界：正常 · 48小时内 30 条
-- The Guardian China：正常 · 48小时内 7 条
-- BBC World：正常 · 48小时内 26 条
-- 联合国新闻 中文：正常 · 48小时内 11 条
+- The Guardian China：正常 · 48小时内 3 条
+- BBC World：正常 · 48小时内 22 条
+- 联合国新闻 中文：正常 · 48小时内 10 条
 - GitHub 下载热度：已核对 8 个项目
-- 多源交叉：9 条获得重要性加成
-- 质量门槛：保留 26/40 条
-- 中文翻译：成功 12 条
+- 多源交叉：17 条获得重要性加成
+- 质量门槛：保留 27/40 条
+- 中文翻译：成功 10 条
 
 在线版：https://heibaixiong1118.github.io/ai-daily-site/
 AIHOT 日报页：https://aihot.news/daily
