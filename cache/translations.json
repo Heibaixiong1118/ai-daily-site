@@ -171,5 +171,7 @@
   "Browser automation CLI for AI agents": "适用于AI代理的浏览器自动化CLI",
   "Agent Skills for Google products and technologies": "Google产品和技术的代理技能",
   "Copilot code review: API management and review overview updates": "Copilot代码审核： API管理和审核概述更新",
-  "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review overview updates appeared first on The GitHub Blog .": "您现在可以通过REST和GraphQL API管理GitHub Copilot代码审查设置，从企业策略到单个存储库。Copilot的审核概览评论现在更加紧凑， …… Copilot代码审核后： API管理和审核概览更新首次出现在GitHub博客上。"
+  "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review overview updates appeared first on The GitHub Blog .": "您现在可以通过REST和GraphQL API管理GitHub Copilot代码审查设置，从企业策略到单个存储库。Copilot的审核概览评论现在更加紧凑， …… Copilot代码审核后： API管理和审核概览更新首次出现在GitHub博客上。",
+  "Hunt down social media accounts by username across social networks": "通过社交网络中的用户名查找社交媒体帐户",
+  "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.": "NVIDIA Kubernetes引擎(NVKE)。裸机上GPU Kubernetes的管理平面。"
 }
