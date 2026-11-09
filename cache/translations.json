@@ -173,5 +173,7 @@
   "Copilot code review: API management and review overview updates": "Copilot代码审核： API管理和审核概述更新",
   "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review overview updates appeared first on The GitHub Blog .": "您现在可以通过REST和GraphQL API管理GitHub Copilot代码审查设置，从企业策略到单个存储库。Copilot的审核概览评论现在更加紧凑， …… Copilot代码审核后： API管理和审核概览更新首次出现在GitHub博客上。",
   "Hunt down social media accounts by username across social networks": "通过社交网络中的用户名查找社交媒体帐户",
-  "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.": "NVIDIA Kubernetes引擎(NVKE)。裸机上GPU Kubernetes的管理平面。"
+  "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.": "NVIDIA Kubernetes引擎(NVKE)。裸机上GPU Kubernetes的管理平面。",
+  "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API": "旨在帮助开发人员快速开始使用Claude API构建可部署应用程序的项目集合",
+  "An open source design system that's fully customizable and agent ready": "完全可定制和代理就绪的开源设计系统"
 }
