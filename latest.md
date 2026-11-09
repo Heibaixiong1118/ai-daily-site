@@ -1,134 +1,169 @@
 每日简报 · AI / 国内 / 世界 / 战争与冲突 · 2026-11-09
 
+提醒：AIHOT 最新日报日期为 2026-11-09，不是北京时间今天 2026-11-10；以下内容可能未包含最新发布。
+
 1. [今日重点][高重要度] NVIDIA 董事会宣布就 CEO 黄仁勋遭外国情报行动瞄准一事启动独立调查
    NVIDIA 董事会于 11 月 8 日发布声明，就近期有关创始人兼 CEO 黄仁勋成为外国情报行动目标的报道启动独立调查。调查由独立董事组成的委员会在外部独立律师协助下监督，黄仁勋全力配合。董事会表示没有理由认为国家安全或 NVIDIA 机密已受损，但调查将审视所有可用信息，并表示对黄仁勋及其领导团队有信心。
    筛选分：100.0/100 · AIHOT 日报头条
    来源：AIHOT 日报 · 11-09 08:00 · 聚合策展 · 请回原文核验
    原文：https://aihot.news/daily/2026-11-09
 
-2. [教程与观点][重要] GPT-Image-2.6 实测：10 个 GIF 玩法提示词与三项新能力评测
-   作者实测前两天上线的 GPT-Image-2.6，整理出 10 个 GIF 玩法提示词（黏土定格动画、表情包、剪辑贴纸、loading 图、PPT 动态图表、爆炸拆解图等）并测试三项新能力。
-   筛选分：77.0/100 · AIHOT 精选评分
-   来源：X：卡尔的 AI 沃茨 (@aiwarts) · 11-08 22:22 · 聚合精选 · 原始链接
-   原文：https://x.com/aiwarts/status/2119435411667980473
+2. [模型与产品][重要] Artificial Analysis 评测 Claude Fable 5.2：以 65 分登顶 Intelligence Index v5
+   Artificial Analysis 评测 Anthropic 发布的 Claude Fable 5.2，其在 Artificial Analysis Intelligence Index v5 以 65 分登顶，领先 Gemini 4 Carbon（60）和 Claude Opus 5.5（59）。
+   筛选分：81.0/100 · AIHOT 精选评分
+   来源：X：Artificial Analysis (@ArtificialAnlys) · 11-10 03:45 · 聚合精选 · 原始链接
+   原文：https://x.com/ArtificialAnlys/status/2119878995386982508
 
-3. [GitHub][今日热门][机器翻译] sherlock-project/sherlock
-   用途：通过社交网络中的用户名查找社交媒体帐户 · 语言：Python · 今日新增 2,373 stars
+3. [行业、政策与生态][重要] Nvidia CEO 黄仁勋婚外情风波削弱其对严格 AI 芯片出口管制的游说
+   据 Bloomberg 报道，Nvidia CEO 黄仁勋在全员备忘录中承认与被美国情报机构认定为疑似中国情报人员线人的 Alice Huang（Huang Le）存在婚外关系，董事会已启动独立董事主导的调查。
+   筛选分：85.0/100 · AIHOT 精选评分
+   来源：The Decoder：AI News（RSS） · 11-09 19:38 · 聚合精选 · 原始链接
+   原文：https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/
+
+4. [论文与研究][重要] Anthropic 用 1000 个 Claude Fable 5.2 智能体在沙箱内复现费马大定理形式化证明
+   Anthropic 的玩具实验中，1000 个运行 Claude Fable 5.2 早期版本的智能体在无 Prove2Me 平台和研究者指导的情况下复现了费马大定理的形式化证明，耗时 28.7 小时，输出 token 仅为原 9 月形式化的三分之一，证明长度为七分之一。
+   筛选分：83.0/100 · AIHOT 精选评分
+   来源：Anthropic：Claude.dev 开发者博客（RSS） · 11-09 20:00 · 聚合精选 · 原始链接
+   原文：https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/
+
+5. [教程与观点][重要] 耶鲁教授 Sonnenfeld 估计黄仁勋职位去留概率约为 50-50
+   Nvidia 董事会宣布对 CEO 黄仁勋启动独立调查后，TechCrunch 采访耶鲁教授 Jeffrey Sonnenfeld，他估计黄仁勋保住职位的概率约为 50-50。
+   筛选分：88.0/100 · AIHOT 精选评分
+   来源：TechCrunch：AI（RSS） · 11-09 13:26 · 聚合精选 · 原始链接
+   原文：https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/
+
+6. [AI 官方直采][机器翻译] 使用NVIDIA Holoscan 5让机器人手臂感到失重
+   图为手动引导机器人手臂，同时其电机提供足够的扭矩来支撑其重量并保持机器人直立。这个简单的互动，一个……
+   筛选分：66.0/100 · 官方发布 · AI相关度3 · 信源位次1
+   原文标题：Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5
+   来源：NVIDIA Developer Blog · 11-10 03:09 · NVIDIA 官方技术博客 · 机器翻译
+   原文：https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5/
+
+7. [AI 官方直采][机器翻译] ChatGPT Enterprise现已在AWS Marketplace中提供
+   ChatGPT Enterprise现已通过AWS Marketplace提供，帮助组织通过现有的AWS采购和计费关系简化采购。
+   筛选分：66.0/100 · 官方发布 · AI相关度3 · 信源位次1
+   原文标题：ChatGPT Enterprise now available in AWS Marketplace
+   来源：OpenAI News · 11-10 03:00 · OpenAI 官方发布 · 机器翻译
+   原文：https://openai.com/index/chatgpt-enterprise-aws-marketplace
+
+8. [GitHub][今日热门][机器翻译] anthropics/skills
+   用途：座席技能的公共存储库 · 语言：Python · 今日新增 1,052 stars
    筛选分：86.0/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-09 08:30 · GitHub 今日趋势 · 机器翻译
-   原文：https://github.com/sherlock-project/sherlock
+   来源：GitHub Trending · 11-10 05:19 · GitHub 今日趋势 · 机器翻译
+   原文：https://github.com/anthropics/skills
 
-4. [GitHub][今日热门][机器翻译] dsx-ai-factory/nvke
-   用途：NVIDIA Kubernetes引擎(NVKE)。裸机上GPU Kubernetes的管理平面。 · 语言：Go · 今日新增 345 stars
+9. [GitHub][今日热门][机器翻译] meta/astryx
+   用途：完全可定制和代理就绪的开源设计系统 · 语言：TypeScript · 今日新增 3,324 stars
    筛选分：84.8/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-09 08:30 · GitHub 今日趋势 · 机器翻译
-   原文：https://github.com/dsx-ai-factory/nvke
-
-5. [GitHub][今日热门][机器翻译] milind-soni/OpenMausBot
-   用途：使用机器人可以使用的虚拟机的开源Grok机器人替代方案 · 语言：TypeScript · 今日新增 1,439 stars
-   筛选分：83.6/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-09 08:30 · GitHub 今日趋势 · 机器翻译
-   原文：https://github.com/milind-soni/OpenMausBot
-
-6. [GitHub][近日关注][重要] pingdotgg/t3code
-   用途：GitHub 未提供项目简介，请打开仓库查看 README · 语言：TypeScript · 本周新增 15,379 stars · 近30天Release资产下载 1,060,027
-   筛选分：83.3/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载1,060,027
-   来源：GitHub Weekly Trending · 11-09 08:31 · GitHub 本周趋势
-   原文：https://github.com/pingdotgg/t3code
-
-7. [GitHub][下载最高][机器翻译] max-sixty/worktrunk
-   用途：Worktrunk是用于Git工作树管理的CLI ，专为并行AI代理工作流程而设计 · 语言：Rust · 本周新增 2,313 stars · 近30天Release资产下载 80,910
-   筛选分：86.1/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载80,910
-   来源：GitHub Weekly Trending · 11-09 08:31 · GitHub 本周趋势 · 机器翻译
-   原文：https://github.com/max-sixty/worktrunk
-
-8. [GitHub][本周热门][机器翻译] NVIDIA/auto-ontology
-   用途：Auto Ontology是一个Python框架，用于在数据上构建基于图的语义推理层。它为LLM和代理工作流程提供了确定性的查询生成、更好的上下文检索和更可解释的人工智能。 · 语言：Python · 本周新增 9,327 stars
-   筛选分：83.5/100 · 来源权重9 · 信源靠前 · 近时更新
-   来源：GitHub Weekly Trending · 11-09 08:31 · GitHub 本周趋势 · 机器翻译
-   原文：https://github.com/NVIDIA/auto-ontology
-
-9. [GitHub][今日热门][机器翻译] anthropics/claude-quickstarts
-   用途：旨在帮助开发人员快速开始使用Claude API构建可部署应用程序的项目集合 · 语言：Python · 今日新增 32 stars
-   筛选分：82.4/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-09 08:30 · GitHub 今日趋势 · 机器翻译
-   原文：https://github.com/anthropics/claude-quickstarts
-
-10. [GitHub][本周热门][机器翻译] thedotmack/claude-mem
-   用途：每个座席跨会话的持久上下文–捕获座席在会话期间执行的所有操作，使用AI对其进行压缩，并将相关上下文注入到未来的会话中。适用于Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等 · 语言：TypeScript · 本周新增 6,443 stars
-   筛选分：82.3/100 · 来源权重9 · 信源靠前 · 近时更新
-   来源：GitHub Weekly Trending · 11-09 08:31 · GitHub 本周趋势 · 机器翻译
-   原文：https://github.com/thedotmack/claude-mem
-
-11. [GitHub][今日热门][机器翻译] vercel-labs/agent-browser
-   用途：适用于AI代理的浏览器自动化CLI · 语言：Rust · 今日新增 815 stars
-   筛选分：81.2/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-09 08:30 · GitHub 今日趋势 · 机器翻译
-   原文：https://github.com/vercel-labs/agent-browser
-
-12. [GitHub][今日热门][机器翻译] meta/astryx
-   用途：完全可定制和代理就绪的开源设计系统 · 语言：TypeScript · 今日新增 875 stars
-   筛选分：80.0/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-09 08:30 · GitHub 今日趋势 · 机器翻译
+   来源：GitHub Trending · 11-10 05:19 · GitHub 今日趋势 · 机器翻译
    原文：https://github.com/meta/astryx
 
-13. [国内][政策][高重要度] 畅通教育科技人才良性循环 为新质生产力蓄势赋能
-   编者按： 发展新质生产力是推动高质量发展的内在要求和重要着力点。近日，中共中央、国务院印发《关于发展新质生产力的意见》，为加快发展新质生产力作出系统部署。三里河推出权威专家系列解读，阐释政策内涵、洞察发展大势。今日刊发国家发展改革委国际合作中心处长、研究员鲍淑君的署名文章《得打好这三张牌》。 发展新质生产力，关键靠什么？近日，中共中央、国务院印发的《关于发展新质生产力的意见》（以下简称《意见》）给出了明确回答，其中一项重要部署就是“统筹推进教育科技人才体制机制一体改革”。
-   筛选分：100.0/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：政策、国务院、中央 · 国内类别：policy
-   来源：中新网 财经 · 11-08 22:53 · 中国新闻网财经新闻
-   原文：https://www.chinanews.com.cn/cj/2026/11-08/10728567.shtml
+10. [GitHub][今日热门][机器翻译] sherlock-project/sherlock
+   用途：通过社交网络中的用户名查找社交媒体帐户 · 语言：Python · 今日新增 4,294 stars
+   筛选分：83.6/100 · 来源权重10 · 信源靠前 · 近时更新
+   来源：GitHub Trending · 11-10 05:19 · GitHub 今日趋势 · 机器翻译
+   原文：https://github.com/sherlock-project/sherlock
 
-14. [国内][政策][高重要度] 王小洪在云南调研时强调 提高政策措施的针对性有效性 因地制宜推动高质量发展
-   筛选分：90.5/100 · 来源权重10 · 信源靠前 · 关键词：政策、发展 · 国内类别：policy
-   来源：中国政府网 要闻 · 11-08 08:00 · 中国政府网
-   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7085550.htm
+11. [GitHub][近日关注][值得关注] pingdotgg/t3code
+   用途：GitHub 未提供项目简介，请打开仓库查看 README · 语言：TypeScript · 本周新增 15,379 stars
+   筛选分：73.9/100 · 来源权重9 · 近时更新 · 近期关注最高
+   来源：GitHub Weekly Trending · 11-10 05:19 · GitHub 本周趋势
+   原文：https://github.com/pingdotgg/t3code
 
-15. [国内][政策][多源热点] 学习贯彻党的二十届五中全会精神中央宣讲团在海南宣讲
-   筛选分：89.3/100 · 来源权重10 · 信源靠前 · 关键词：中央 · 国内类别：policy · 多源交叉2家
-   来源：中国政府网 要闻 · 11-08 08:00 · 中国政府网
-   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7085537.htm
+12. [GitHub][下载最高][机器翻译] max-sixty/worktrunk
+   用途：Worktrunk是用于Git工作树管理的CLI ，专为并行AI代理工作流程而设计 · 语言：Rust · 本周新增 2,313 stars · 近30天Release资产下载 85,416
+   筛选分：84.9/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载85,416
+   来源：GitHub Weekly Trending · 11-10 05:19 · GitHub 本周趋势 · 机器翻译
+   原文：https://github.com/max-sixty/worktrunk
 
-16. [国内][科技][高重要度] 我国成功发射卫星互联网低轨29组卫星
-   北京时间2026年11月9日4时24分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨29组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。
-   筛选分：100.0/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：航天、卫星、发射 · 国内类别：tech
-   来源：中新网 国内 · 11-09 06:40 · 中国新闻网国内新闻
-   原文：https://www.chinanews.com.cn/gn/2026/11-09/10728582.shtml
+13. [GitHub][官方更新][机器翻译] 密钥扫描检测GitHub Actions工作流日志中的密钥
+   GitHub密钥扫描现在可以检测GitHub Actions工作流日志中的密钥，以及问题、Wiki、讨论和拉取请求。操作工作流日志扫描在公开预览中可用。如何… POST Secret扫描检测GitHub Actions工作流日志中的密码首先出现在GitHub博客上。
+   筛选分：81.5/100 · 来源权重9 · 信源靠前 · 近时更新
+   原文标题：Secret scanning detects secrets in GitHub Actions workflow logs
+   来源：GitHub Changelog · 11-09 17:01 · GitHub 官方更新日志 · 机器翻译
+   原文：https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs
 
-17. [国内][社会][重要] 习言道｜永远做党和人民的忠诚卫士
-   烈火浓烟、抗洪抢险、地震救援……“火焰蓝”们用血肉之躯守护万家安宁。2018年11月9日，习近平总书记向国家综合性消防救援队伍授旗并致训词。全国消防日，一起重温总书记的谆谆寄语。
-   筛选分：88.4/100 · 来源权重5 · 信源靠前 · 近时更新 · 关键词：地震、救援 · 国内类别：society
-   来源：中新网 滚动 · 11-09 07:57 · 中国新闻网滚动新闻
-   原文：http://www.chinanews.com.cn/gn/shipin/2026/11-09/news1074278.shtml
+14. [GitHub][本周热门][机器翻译] vercel-labs/agent-desktop
+   用途：AI代理的计算机使用CLI · 语言：Rust · 本周新增 13,712 stars · 近30天Release资产下载 39,235
+   筛选分：87.3/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载39,235
+   来源：GitHub Weekly Trending · 11-10 05:19 · GitHub 本周趋势 · 机器翻译
+   原文：https://github.com/vercel-labs/agent-desktop
 
-18. [国内][社会][重要] 专访美中贸易全国委员会会长：美企不希望看到贸易保护主义抬头
-   本届进博会，美国企业参展面积继续名列第一，美国农业、消费品、高端装备、汽车、医疗保健等多个领域的企业对进博会寄予厚望，希望能通过进博会，在中国开拓新的市场。在今年的虹桥国际论坛上，美中贸易全国委员会会长谭森接受了总台记者的采访。他表示，美国企业不希望看到贸易保护主义抬头。
-   筛选分：86.8/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：市场、贸易、论坛 · 国内类别：society
-   来源：中新网 财经 · 11-08 21:35 · 中国新闻网财经新闻
-   原文：https://www.chinanews.com.cn/cj/2026/11-08/10728551.shtml
+15. [GitHub][本周热门][机器翻译] NVIDIA/auto-ontology
+   用途：Auto Ontology是一个Python框架，用于在数据上构建基于图的语义推理层。它为LLM和代理工作流程提供了确定性的查询生成、更好的上下文检索和更可解释的人工智能。 · 语言：Python · 本周新增 9,327 stars
+   筛选分：83.5/100 · 来源权重9 · 信源靠前 · 近时更新
+   来源：GitHub Weekly Trending · 11-10 05:19 · GitHub 本周趋势 · 机器翻译
+   原文：https://github.com/NVIDIA/auto-ontology
 
-19. [世界][高重要度] 南非公布地方选举结果 过半数市镇现“悬峙议会”
-   中新社约翰内斯堡11月8日电 (记者 孙翔)南非独立选举委员会8日晚公布2026年地方政府选举结果，执政党非洲人国民大会(简称非国大)得票率由2021年的45.59%降至30.76%，但仍位居首位。南非全国超过半数市镇议会出现“悬峙议会”，即没有任何政党获得绝对多数席位，地方政府组建面临多党谈判。
-   筛选分：95.4/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：谈判、选举
-   来源：中新网 世界 · 11-09 08:11 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-09/10728586.shtml
+16. [GitHub][今日热门][机器翻译] google-deepmind/mujoco
+   用途：与Contact的多关节动态。通用物理模拟器。 · 语言：C++ · 今日新增 579 stars
+   筛选分：82.4/100 · 来源权重10 · 信源靠前 · 近时更新
+   来源：GitHub Trending · 11-10 05:19 · GitHub 今日趋势 · 机器翻译
+   原文：https://github.com/google-deepmind/mujoco
 
-20. [世界][重要] 埃及列车脱轨事故已致7死112伤
-   当地时间11月8日，根据埃及卫生部的最新通报，当天发生在吉萨省阿亚特地区的列车脱轨事故，已造成7人死亡、112人受伤。其中45名伤者经治疗后情况好转，已出院。
-   筛选分：88.9/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：事故、死亡
-   来源：中新网 世界 · 11-09 05:54 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-09/10728579.shtml
+17. [GitHub][今日热门][机器翻译] anthropics/claude-quickstarts
+   用途：旨在帮助开发人员快速开始使用Claude API构建可部署应用程序的项目集合 · 语言：Python · 今日新增 560 stars
+   筛选分：81.2/100 · 来源权重10 · 信源靠前 · 近时更新
+   来源：GitHub Trending · 11-10 05:19 · GitHub 今日趋势 · 机器翻译
+   原文：https://github.com/anthropics/claude-quickstarts
 
-21. [战争与冲突][高重要度] 外媒：伊拉克库区天然气田遭不明来源无人机袭击
-   中新网11月9日电 据卡塔尔半岛电视台等外媒报道，伊拉克库尔德自治区(库区)安全部门消息人士称，位于伊库区苏莱曼尼亚省的豪尔穆尔天然气田遭不明来源的无人机袭击，受袭击影响，气田8日已停止生产。
-   筛选分：94.2/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：袭击、安全
-   来源：中新网 世界 · 11-09 08:02 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-09/10728597.shtml
+18. [国内][政策][高重要度] 中国学者发起人工智能赋能政策研究计划入选联合国科学议程
+   中新网北京11月9日电 (记者 孙自法)第七届智库科学与工程国际研讨会11月8日至10日在北京举行，记者从会上获悉，由中国科学院科技战略咨询研究院院长潘教峰研究员牵头发起的“从证据到方案：人工智能驱动的政策模拟与情景分析”研究计划，2026年成功入选联合国“2024—2033年科学促进可持续发展国际十年”。
+   筛选分：99.5/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：政策、科技、人工智能 · 国内类别：policy
+   来源：中新网 国内 · 11-09 21:14 · 中国新闻网国内新闻
+   原文：https://www.chinanews.com.cn/gn/2026/11-09/10729111.shtml
 
-22. [战争与冲突][重要] 哥伦比亚一军事基地遇袭 致3死8伤
-   中新社北京11月8日电 波哥大消息：据哥伦比亚军方通报，该国北部玻利瓦尔省一处军事基地当地时间7日遭携带爆炸装置的无人机袭击，造成3名军人死亡、8名军人重伤，另有多人受不同程度伤害。
-   筛选分：86.9/100 · 来源权重7 · 近时更新 · 关键词：袭击、爆炸、死亡
-   来源：中新网 世界 · 11-08 11:10 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-08/10728275.shtml
+19. [国内][政策][多源热点] 学习贯彻党的二十届五中全会精神中央宣讲团报告会在广东举行
+   筛选分：93.4/100 · 来源权重10 · 信源靠前 · 近时更新 · 关键词：中央 · 国内类别：policy · 多源交叉2家
+   来源：中国政府网 要闻 · 11-09 08:00 · 中国政府网
+   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7085619.htm
+
+20. [国内][政策][多源热点] 李强签署国务院令 公布《中医药传统知识保护条例》
+   筛选分：87.2/100 · 来源权重10 · 信源靠前 · 近时更新 · 关键词：国务院 · 国内类别：policy · 多源交叉2家
+   来源：中国政府网 要闻 · 11-09 08:00 · 中国政府网
+   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7085599.htm
+
+21. [国内][财经][高重要度] 新西兰作家尤金·道尔：全球气候行动中，中国是“房间里成熟的大人”
+   中新网安塔利亚11月9日电 (记者 魏园)“在我看来，中国是‘房间里成熟的大人’。”《联合国气候变化框架公约》第三十一次缔约方大会(COP31)于11月9日至20日在土耳其安塔利亚举行。关注中东问题以及亚太地区和平与安全的新西兰作家尤金·道尔(Eugene Doyle)接受中新网记者专访时表示，很多人仍未真正意识到中国对全球能源转型的贡献有多大，应对气候变化需要的是行动而非贸易壁垒，地缘政治竞争不应成为各国推进气候合作的障碍。
+   筛选分：98.9/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：贸易、能源、安全 · 国内类别：economy
+   来源：中新网 财经 · 11-09 22:29 · 中国新闻网财经新闻
+   原文：https://www.chinanews.com.cn/cj/2026/11-09/10729152.shtml
+
+22. [国内][财经][重要] 第四届中俄地方投资发展与贸易合作大会在沈阳开幕
+   中新网沈阳11月9日电 (记者 韩宏)第四届中俄地方投资发展与贸易合作大会9日在沈阳开幕。
+   筛选分：88.8/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：贸易、投资、合作 · 国内类别：economy
+   来源：中新网 国内 · 11-09 20:49 · 中国新闻网国内新闻
+   原文：https://www.chinanews.com.cn/gn/2026/11-09/10729090.shtml
+
+23. [世界][高重要度] 突发：土耳其一钢铁厂发生爆炸 已致多名工人受伤
+   中新网11月9日电 据外媒报道，当地时间9日，土耳其西部伊兹密尔一座钢铁厂发生爆炸并引发火灾，已致多名工人受伤。
+   筛选分：94.7/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：突发、爆炸
+   来源：中新网 世界 · 11-09 18:14 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-09/10728990.shtml
+
+24. [世界][高重要度] 强厄尔尼诺或致全球经济损失11万亿美元
+   国际农业发展基金与土耳其农业和林业部周一联合发布报告警告，强厄尔尼诺事件可能在未来五至六年内给全球经济造成高达11万亿美元的损失，并对粮食安全产生重大而持久的影响。
+   筛选分：100.0/100 · 来源权重9 · 信源靠前 · 近时更新 · 关键词：重大、发布、经济
+   来源：联合国新闻 中文 · 11-09 20:00 · 联合国新闻
+   原文：https://news.un.org/feed/view/zh/story/2026/11/1143165
+
+25. [世界][重要] 泰国商务部与泰国商会加强合作应对全球贸易挑战
+   中新社曼谷11月9日电 (梁峻祥 李映民)泰国商务部9日与泰国商会举行会谈，并就加强政商合作、提升泰国企业竞争力及应对全球贸易环境变化等议题达成共识。
+   筛选分：87.3/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：贸易、合作
+   来源：中新网 世界 · 11-09 23:01 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-09/10729156.shtml
+
+26. [战争与冲突][重要] 伊朗称“两日计划”依然有效 霍尔木兹海峡能否开放取决于美方
+   中新社北京11月9日电 综合消息：伊朗外交部长阿拉格齐、外交部发言人巴加埃9日分别表示，“受够了”无休止的战争，伊方提出的“两日计划”依然有效。霍尔木兹海峡能否开放取决于美国的政治意愿和决策。
+   筛选分：86.8/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：战争
+   来源：中新网 世界 · 11-09 21:42 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-09/10729129.shtml
+
+27. [战争与冲突][高重要度] 联合国：乌克兰平民伤亡持续增加 冬季人道主义风险加剧
+   联合国两位高级官员周一在安理会通报乌克兰局势时表示，随着俄罗斯持续加大对乌克兰人口密集区、民用基础设施和能源设施的袭击，乌克兰平民伤亡不断增加，人道主义局势持续恶化。随着冬季临近，电力、供暖和供水中断将使更多平民面临危险。他们呼吁各方立即停止袭击，保护平民，并确保人道主义援助安全、畅通无阻地送达。
+   筛选分：100.0/100 · 来源权重9 · 信源靠前 · 近时更新 · 关键词：袭击、伤亡、能源
+   来源：联合国新闻 中文 · 11-09 20:00 · 联合国新闻
+   原文：https://news.un.org/feed/view/zh/story/2026/11/1143163
 
 战争栏目说明：内容来自公开报道与冲突研究机构。交战方说法、伤亡数字和战果可能无法独立核实，请以原文时间和来源判断。
 
@@ -137,26 +172,26 @@
 信源状态
 
 - AIHOT 日报：正常 · 2026-11-09
-- AIHOT 精选 API：正常 · 新增候选 2
-- OpenAI News：正常 · 48小时内无新内容
+- AIHOT 精选 API：正常 · 新增候选 11
+- OpenAI News：正常 · 48小时内 1 条
 - Google DeepMind Blog：正常 · 48小时内无新内容
-- NVIDIA Developer Blog：正常 · 48小时内无新内容
-- GitHub Trending：正常 · 48小时内 9 条
-- GitHub Weekly Trending：正常 · 48小时内 17 条
-- GitHub Changelog：正常 · 48小时内无新内容
+- NVIDIA Developer Blog：正常 · 48小时内 3 条
+- GitHub Trending：正常 · 48小时内 11 条
+- GitHub Weekly Trending：正常 · 48小时内 14 条
+- GitHub Changelog：正常 · 48小时内 1 条
 - GitHub Blog：正常 · 48小时内无新内容
-- 中国政府网 要闻：正常 · 48小时内 4 条
-- 中新网 国内：正常 · 48小时内 30 条
+- 中国政府网 要闻：正常 · 48小时内 15 条
+- 中新网 国内：正常 · 48小时内 29 条
 - 中新网 财经：正常 · 48小时内 30 条
-- 中新网 滚动：正常 · 48小时内 28 条
+- 中新网 滚动：正常 · 48小时内 27 条
 - 中新网 世界：正常 · 48小时内 30 条
-- The Guardian China：正常 · 48小时内 5 条
-- BBC World：正常 · 48小时内 22 条
-- 联合国新闻 中文：正常 · 48小时内 1 条
+- The Guardian China：正常 · 48小时内 8 条
+- BBC World：正常 · 48小时内 25 条
+- 联合国新闻 中文：正常 · 48小时内 5 条
 - GitHub 下载热度：已核对 8 个项目
-- 多源交叉：3 条获得重要性加成
-- 质量门槛：保留 22/33 条
-- 中文翻译：成功 9 条
+- 多源交叉：12 条获得重要性加成
+- 质量门槛：保留 27/40 条
+- 中文翻译：成功 11 条
 
 在线版：https://heibaixiong1118.github.io/ai-daily-site/
 AIHOT 日报页：https://aihot.news/daily
