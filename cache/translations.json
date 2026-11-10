@@ -187,5 +187,14 @@
   "Control Room: A central system to track and stop model workloads across our research infrastructure": "控制室：一个中央系统，用于跟踪和停止整个研究基础设施的模型工作负载",
   "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.": "了解OpenAI的控制室如何在我们的研究基础设施中跟踪模型工作负载，并在出现安全问题或安全问题时快速阻止它们。",
   "Claude Fable 5.2 in GitHub Copilot": "GitHub Copilot中的Claude Fable 5.2",
-  "Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable… The post Claude Fable 5.2 in GitHub Copilot appeared first on The GitHub Blog .": "Anthropic最新的寓言模型Claude Fable 5.2现已在GitHub Copilot中正式推出。您可以将其用于跨大型代码库的复杂多步骤编码任务。在早期测试中，寓言…… GitHub Copilot中的Claude Fable 5.2帖子首先出现在GitHub博客上。"
+  "Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable… The post Claude Fable 5.2 in GitHub Copilot appeared first on The GitHub Blog .": "Anthropic最新的寓言模型Claude Fable 5.2现已在GitHub Copilot中正式推出。您可以将其用于跨大型代码库的复杂多步骤编码任务。在早期测试中，寓言…… GitHub Copilot中的Claude Fable 5.2帖子首先出现在GitHub博客上。",
+  "Agent Substrate: Advancing Kubernetes for Agents at Scale": "Agent Substrate ：大规模推进针对Agent的Kubernetes",
+  "AI agents spend most of their time idle, waiting on a human prompt, a tool result or a model response. Kubernetes wasn’t built for that. Running one Pod per...": "人工智能代理大部分时间都处于闲置状态，等待人工提示、工具结果或模型响应。Kubernetes不是为此而构建的。每运行一个Pod...",
+  "Production-grade engineering skills for AI coding agents.": "AI编码代理的生产级工程技能。",
+  "C++ language server now auto-configures MSBuild builds": "C + +语言服务器现在自动配置MSBuild生成",
+  "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a… The post C++ language server now auto-configures MSBuild builds appeared first on The GitHub Blog .": "Microsoft C + + Language Server for GitHub Copilot CLI现在捆绑了其MSBuild编译命令提取器并自动调用它。代理不再需要发现和运行…… POST C + +语言服务器现在自动配置MSBuild构建首次出现在GitHub博客上。",
+  "Dependabot alerts will pause on inactive repositories": "Dependabot警报将在非活动存储库上暂停",
+  "Starting December 8, 2026, GitHub will turn off Dependabot alerts on most repositories with no activity in the past year. Their existing alerts are archived, not deleted, and you can… The post Dependabot alerts will pause on inactive repositories appeared first on The GitHub Blog .": "从2026年12月8日起， GitHub将在过去一年没有活动的大多数存储库上关闭Dependabot警报。他们现有的警报将被存档，而不是删除，您可以...... Dependabot发布的警报将暂停在GitHub博客上首次出现的非活动存储库上。",
+  "Git security vulnerabilities announced": "Git安全漏洞公告",
+  "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog .": "Git正在发布更新，以解决影响递归克隆、引用处理、合并、二进制补丁和导入的六个安全漏洞。以下是用户需要了解的信息。发布的Git安全漏洞首次出现在GitHub博客上。"
 }
