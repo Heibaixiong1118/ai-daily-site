@@ -183,5 +183,9 @@
   "Public repository for Agent Skills": "座席技能的公共存储库",
   "Secret scanning detects secrets in GitHub Actions workflow logs": "密钥扫描检测GitHub Actions工作流日志中的密钥",
   "GitHub secret scanning now detects secrets in GitHub Actions workflow logs, in addition to issues, wikis, discussions, and pull requests. Actions workflow log scanning is available in public preview. How… The post Secret scanning detects secrets in GitHub Actions workflow logs appeared first on The GitHub Blog .": "GitHub密钥扫描现在可以检测GitHub Actions工作流日志中的密钥，以及问题、Wiki、讨论和拉取请求。操作工作流日志扫描在公开预览中可用。如何… POST Secret扫描检测GitHub Actions工作流日志中的密码首先出现在GitHub博客上。",
-  "Multi-Joint dynamics with Contact. A general purpose physics simulator.": "与Contact的多关节动态。通用物理模拟器。"
+  "Multi-Joint dynamics with Contact. A general purpose physics simulator.": "与Contact的多关节动态。通用物理模拟器。",
+  "Control Room: A central system to track and stop model workloads across our research infrastructure": "控制室：一个中央系统，用于跟踪和停止整个研究基础设施的模型工作负载",
+  "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.": "了解OpenAI的控制室如何在我们的研究基础设施中跟踪模型工作负载，并在出现安全问题或安全问题时快速阻止它们。",
+  "Claude Fable 5.2 in GitHub Copilot": "GitHub Copilot中的Claude Fable 5.2",
+  "Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable… The post Claude Fable 5.2 in GitHub Copilot appeared first on The GitHub Blog .": "Anthropic最新的寓言模型Claude Fable 5.2现已在GitHub Copilot中正式推出。您可以将其用于跨大型代码库的复杂多步骤编码任务。在早期测试中，寓言…… GitHub Copilot中的Claude Fable 5.2帖子首先出现在GitHub博客上。"
 }
