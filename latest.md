@@ -1,158 +1,154 @@
-每日简报 · AI / 国内 / 世界 / 战争与冲突 · 2026-11-10
+每日简报 · AI / 国内 / 世界 / 战争与冲突 · 2026-11-11
 
-提醒：AIHOT 最新日报日期为 2026-11-10，不是北京时间今天 2026-11-11；以下内容可能未包含最新发布。
-
-1. [今日重点][高重要度] Anthropic 发布 Claude Fable 5.2 与 Claude Mythos 5.2
-   Anthropic 发布 Claude Fable 5.2 和 Claude Mythos 5.2，两者为同一底层模型，Mythos 需通过 Cyber 或 Life Sciences Verification Program 申请访问。
+1. [今日重点][高重要度] Google DeepMind 发布 Gemini 4 Carbon 前沿模型
+   Google DeepMind 正式向开发者、企业、科学家和普通用户开放 Gemini 4 Carbon，定位为其最强前沿模型，主打网络安全能力与复杂知识工作、软件工程、科学推理中的长程智能体工作流。
    筛选分：100.0/100 · AIHOT 日报头条
-   来源：AIHOT 日报 · 11-10 08:00 · 聚合策展 · 请回原文核验
-   原文：https://aihot.news/daily/2026-11-10
+   来源：AIHOT 日报 · 11-11 08:00 · 聚合策展 · 请回原文核验
+   原文：https://aihot.news/daily/2026-11-11
 
-2. [模型与产品][高重要度] Meta 发布最小最高效模型 Muse Ember，主打智能体高频任务
-   Meta 发布 Muse Ember（muse-ember-1.0），定位最小最高效的复杂推理执行模型，面向工具调用、编码子任务、路由、抽取和长文档解析等智能体日常重复任务。
+2. [模型与产品][高重要度] MiniMax 发布开源图像生成模型 H3-Image，10 秒内生成 4K 图像
+   MiniMax 发布基于 H3 的开源权重图像生成模型 H3-Image，支持文生图、参考图生成和图像编辑，可生成 4096 × 4096 的 4K 图像，速度最高达主流方案的 5 倍。
    筛选分：90.5/100 · AIHOT 日报精编
-   来源：Meta AI：Research Blog（网页） · 聚合策展 · 原始链接
-   原文：https://research.meta.ai/blog/muse-ember
+   来源：MiniMax：Blog（网页） · 聚合策展 · 原始链接
+   原文：https://www.minimax.io/blog/minimax-h3-image
 
-3. [模型与产品][重要] 字节发布 Seedream 5.5 图像创作模型：支持 100 轮编辑与原生 RGBA 透明输出
-   字节 Seed 发布新一代图像创作模型 Seedream 5.5，带来三项升级：非编辑区域像素级保持、支持围绕同一作品多达 100 轮连续编辑；新增原生 RGBA 透明素材生成，直接输出带 Alpha 通道的图像，省去抠图；改善光照材质与皮肤纹理表现，并显著提升文字渲染能力。
+3. [模型与产品][重要] Anthropic 发布 Claude Whiteboards 和 Claude Sheets，Claude Dashboards 转正为 Claude Data
+   Anthropic 推出 Claude Whiteboards 和 Claude Sheets 测试版，Claude Dashboards 正式可用并更名为 Claude Data，三款产品面向所有付费计划开放。
    筛选分：89.0/100 · AIHOT 日报精编
-   来源：字节 Seed：Research Feed（网页内嵌数据） · 聚合策展 · 原始链接
-   原文：https://seed.bytedance.com/zh/blog/%E7%94%9F%E6%88%90%E6%9B%B4%E7%9C%9F%E5%AE%9E-%E7%99%BE%E8%BD%AE%E7%BC%96%E8%BE%91%E6%9B%B4%E7%A8%B3%E5%AE%9A-seedream-5-5-%E5%8F%91%E5%B8%83
+   来源：Claude：Blog（网页） · 聚合策展 · 原始链接
+   原文：https://claude.com/blog/sheets-whiteboards-data
 
-4. [行业、政策与生态][重要] Ed Zitron 长文剖析黄仁勋丑闻与 NVIDIA 疑似借 Megaspeed 向中国走私 GPU
-   Ed Zitron 长文梳理黄仁勋承认与 Megaspeed CEO Alice Huang 的婚外情事件，并整合 Bloomberg、纽约时报、金融时报与 Culper Research 的报道，指 Megaspeed 疑似作为转口实体将 NVIDIA GPU 非法流入中国。
-   筛选分：84.0/100 · AIHOT 精选评分
-   来源：Ed Zitron 长文 / Where’s Your Ed At（RSS） · 11-11 01:43 · 聚合精选 · 原始链接
-   原文：https://www.wheresyoured.at/jensens-bizarre-adventure/
+4. [行业、政策与生态][重要] Anthropic 再次修订 S-1：宣布已达责任扩展政策能力阈值，IPO 定价 $70-$78
+   Anthropic 再次修订 IPO 申请文件 S-1（Amendment No. 2），宣布已越过其 Responsible Scaling Policy 设定的阈值，即 AI 正大幅加快 AI 研究速度、需更强安全检查。这一判断基于其对未来模型的预期而非现有模型的表现，一周前的文件还只说"可能即将"越过。文件同时将 IPO 发行价定为每股 $70 至 $78。
+   筛选分：85.0/100 · AIHOT 精选评分
+   来源：X：Rohan Paul (@rohanpaul_ai) · 11-11 03:04 · 聚合精选 · 原始链接
+   原文：https://x.com/rohanpaul_ai/status/2120231037569790385
 
-5. [行业、政策与生态][重要] Anthropic 将 IPO 发行价区间定为 70 至 78 美元，隐含估值达 1.404 万亿美元
-   Anthropic 在更新后的 IPO 招股文件中将发行价区间定为每股 70 至 78 美元，共发行 8.25 亿股 A 类股，预计募资 577.5 亿至 643.5 亿美元，若按区间上限定价隐含估值可达 1.404 万亿美元，高于其 5 月融资时的 9650 亿美元估值。
-   筛选分：82.0/100 · AIHOT 精选评分
-   来源：TechCrunch：AI（RSS） · 11-10 22:01 · 聚合精选 · 原始链接
-   原文：https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/
+5. [行业、政策与生态][重要] Anthropic 启动 IPO 路演，拟发行 8.25 亿股 A 类普通股并申请以代码 ANT 上市纳斯达克
+   Anthropic 启动拟议 IPO 路演，拟发行 825,000,000 股 A 类普通股，其中 801,351,354 股由 Anthropic 发售、23,648,646 股由部分现有股东出售，Anthropic 不获后者出售所得款项。
+   筛选分：84.5/100 · AIHOT 日报精编
+   来源：Anthropic：Newsroom（网页） · 聚合策展 · 原始链接
+   原文：https://www.anthropic.com/news/roadshow-launch
 
-6. [论文与研究][重要] Google DeepMind 用 AlphaProof Code 对 Signal 协议机器码完成形式化安全验证
-   Google DeepMind 发布 AlphaProof Code 多智能体形式化验证框架，并首次对广泛部署协议 Signal 的生产机器码完成形式化安全验证。
-   筛选分：79.0/100 · AIHOT 精选评分
-   来源：X：Rohan Paul (@rohanpaul_ai) · 11-10 23:38 · 聚合精选 · 原始链接
-   原文：https://x.com/rohanpaul_ai/status/2120179172836622832
-
-7. [论文与研究][重要] Anthropic 测试 Claude Fable 5.2 端到端设计三种电子设备并制作可用原型
-   Anthropic 与 Diode Computers 合作，让 Claude Fable 5.2 从简单提示词出发完成免提音箱、语音助手中枢和电子宠物三种设备的设计，包括 PCB 布局、CAD 建模、固件编写和 DFM 检查，三块电路板直接由工厂按设计文件制造，原型经数周使用仍正常工作。
-   筛选分：78.5/100 · AIHOT 日报精编
-   来源：Anthropic：Research（发表成果 · 网页） · 聚合策展 · 原始链接
-   原文：https://www.anthropic.com/research/claude-electronics-design
-
-8. [教程与观点][重要] Gary Marcus 质疑 Anthropic 1.4 万亿美元 IPO 估值
-   Gary Marcus 评论 Anthropic 拟以最高 1.4 万亿美元估值 IPO，称该公司除一个异常季度外从未盈利，未来负债接近 9000 亿美元。他引用 Q2 环比增长 147% 而 Q3 降至 47% 的数据，认为 tokenmaxxing 退潮与中国竞品崛起使万亿估值失去依据，并援引 S-1 中公司自认成本将上升、收入增速难以为继的表述。
-   筛选分：84.0/100 · AIHOT 精选评分
-   来源：Gary Marcus：The Road to AI We Can Trust（RSS） · 11-10 22:37 · 聚合精选 · 原始链接
-   原文：https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo
-
-9. [AI 官方直采][机器翻译] Agent Substrate ：大规模推进针对Agent的Kubernetes
-   人工智能代理大部分时间都处于闲置状态，等待人工提示、工具结果或模型响应。Kubernetes不是为此而构建的。每运行一个Pod...
-   筛选分：82.5/100 · 官方发布 · AI相关度12 · 信源位次2
-   原文标题：Agent Substrate: Advancing Kubernetes for Agents at Scale
-   来源：NVIDIA Developer Blog · 11-10 23:05 · NVIDIA 官方技术博客 · 机器翻译
-   原文：https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/
-
-10. [GitHub][今日热门][机器翻译] meta/astryx
-   用途：完全可定制和代理就绪的开源设计系统 · 语言：TypeScript · 今日新增 3,111 stars
+6. [GitHub][今日热门][机器翻译] meta/astryx
+   用途：完全可定制和代理就绪的开源设计系统 · 语言：TypeScript · 今日新增 3,108 stars
    筛选分：86.0/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-11 02:30 · GitHub 今日趋势 · 机器翻译
+   来源：GitHub Trending · 11-11 08:30 · GitHub 今日趋势 · 机器翻译
    原文：https://github.com/meta/astryx
 
-11. [GitHub][今日热门][机器翻译] anthropics/skills
-   用途：座席技能的公共存储库 · 语言：Python · 今日新增 1,676 stars
+7. [GitHub][今日热门][机器翻译] anthropics/skills
+   用途：座席技能的公共存储库 · 语言：Python · 今日新增 1,679 stars
    筛选分：84.8/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-11 02:30 · GitHub 今日趋势 · 机器翻译
+   来源：GitHub Trending · 11-11 08:30 · GitHub 今日趋势 · 机器翻译
    原文：https://github.com/anthropics/skills
 
-12. [GitHub][今日热门][机器翻译] addyosmani/agent-skills
+8. [GitHub][今日热门][机器翻译] addyosmani/agent-skills
    用途：AI编码代理的生产级工程技能。 · 语言：JavaScript · 今日新增 465 stars
    筛选分：83.6/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-11 02:30 · GitHub 今日趋势 · 机器翻译
+   来源：GitHub Trending · 11-11 08:30 · GitHub 今日趋势 · 机器翻译
    原文：https://github.com/addyosmani/agent-skills
 
-13. [GitHub][近日关注][值得关注] pingdotgg/t3code
-   用途：GitHub 未提供项目简介，请打开仓库查看 README · 语言：TypeScript · 本周新增 13,448 stars
+9. [GitHub][近日关注][值得关注] pingdotgg/t3code
+   用途：GitHub 未提供项目简介，请打开仓库查看 README · 语言：TypeScript · 本周新增 11,979 stars
    筛选分：67.9/100 · 来源权重9 · 近时更新 · 近期关注最高
-   来源：GitHub Weekly Trending · 11-11 02:30 · GitHub 本周趋势
+   来源：GitHub Weekly Trending · 11-11 08:31 · GitHub 本周趋势
    原文：https://github.com/pingdotgg/t3code
 
-14. [GitHub][下载最高][机器翻译] milind-soni/OpenMausBot
-   用途：使用机器人可以使用的虚拟机的开源Grok机器人替代方案 · 语言：TypeScript · 本周新增 8,325 stars · 近30天Release资产下载 450,456
-   筛选分：85.9/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载450,456
-   来源：GitHub Weekly Trending · 11-11 02:30 · GitHub 本周趋势 · 机器翻译
+10. [GitHub][下载最高][机器翻译] milind-soni/OpenMausBot
+   用途：使用机器人可以使用的虚拟机的开源Grok机器人替代方案 · 语言：TypeScript · 本周新增 8,951 stars · 近30天Release资产下载 439,597
+   筛选分：85.9/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载439,597
+   来源：GitHub Weekly Trending · 11-11 08:31 · GitHub 本周趋势 · 机器翻译
    原文：https://github.com/milind-soni/OpenMausBot
 
-15. [GitHub][官方更新][机器翻译] C + +语言服务器现在自动配置MSBuild生成
+11. [GitHub][官方更新][机器翻译] GitHub Copilot中的Gemini 4 Carbon
+   Google的最新型号Gemini 4 Carbon现已在GitHub Copilot中正式推出。它专为复杂的编码、代理和推理任务而设计，侧重于安全代码生成…… GitHub Copilot中的Gemini 4 Carbon后期首次出现在GitHub博客上。
+   筛选分：82.7/100 · 来源权重9 · 信源靠前 · 近时更新
+   原文标题：Gemini 4 Carbon in GitHub Copilot
+   来源：GitHub Changelog · 11-11 03:26 · GitHub 官方更新日志 · 机器翻译
+   原文：https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot
+
+12. [GitHub][官方更新][机器翻译] C + +语言服务器现在自动配置MSBuild生成
    Microsoft C + + Language Server for GitHub Copilot CLI现在捆绑了其MSBuild编译命令提取器并自动调用它。代理不再需要发现和运行…… POST C + +语言服务器现在自动配置MSBuild构建首次出现在GitHub博客上。
-   筛选分：83.3/100 · 来源权重9 · 信源靠前 · 近时更新
+   筛选分：81.1/100 · 来源权重9 · 信源靠前 · 近时更新
    原文标题：C++ language server now auto-configures MSBuild builds
    来源：GitHub Changelog · 11-11 01:04 · GitHub 官方更新日志 · 机器翻译
    原文：https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds
 
-16. [GitHub][官方更新][机器翻译] Dependabot警报将在非活动存储库上暂停
-   从2026年12月8日起， GitHub将在过去一年没有活动的大多数存储库上关闭Dependabot警报。他们现有的警报将被存档，而不是删除，您可以...... Dependabot发布的警报将暂停在GitHub博客上首次出现的非活动存储库上。
-   筛选分：81.6/100 · 来源权重9 · 信源靠前 · 近时更新
-   原文标题：Dependabot alerts will pause on inactive repositories
-   来源：GitHub Changelog · 11-10 22:20 · GitHub 官方更新日志 · 机器翻译
-   原文：https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories
-
-17. [GitHub][官方更新][机器翻译] Git安全漏洞公告
+13. [GitHub][官方更新][机器翻译] Git安全漏洞公告
    Git正在发布更新，以解决影响递归克隆、引用处理、合并、二进制补丁和导入的六个安全漏洞。以下是用户需要了解的信息。发布的Git安全漏洞首次出现在GitHub博客上。
-   筛选分：80.9/100 · 来源权重8 · 信源靠前 · 近时更新
+   筛选分：79.9/100 · 来源权重8 · 信源靠前 · 近时更新
    原文标题：Git security vulnerabilities announced
    来源：GitHub Blog · 11-11 02:00 · GitHub 官方博客 · 机器翻译
    原文：https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/
 
-18. [GitHub][官方更新][机器翻译] GitHub Copilot中的Claude Fable 5.2
-   Anthropic最新的寓言模型Claude Fable 5.2现已在GitHub Copilot中正式推出。您可以将其用于跨大型代码库的复杂多步骤编码任务。在早期测试中，寓言…… GitHub Copilot中的Claude Fable 5.2帖子首先出现在GitHub博客上。
-   筛选分：76.8/100 · 来源权重9 · 信源靠前
-   原文标题：Claude Fable 5.2 in GitHub Copilot
-   来源：GitHub Changelog · 11-10 00:46 · GitHub 官方更新日志 · 机器翻译
-   原文：https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot
+14. [GitHub][官方更新][机器翻译] Dependabot警报将在非活动存储库上暂停
+   从2026年12月8日起， GitHub将在过去一年没有活动的大多数存储库上关闭Dependabot警报。他们现有的警报将被存档，而不是删除，您可以...... Dependabot发布的警报将暂停在GitHub博客上首次出现的非活动存储库上。
+   筛选分：79.4/100 · 来源权重9 · 信源靠前 · 近时更新
+   原文标题：Dependabot alerts will pause on inactive repositories
+   来源：GitHub Changelog · 11-10 22:20 · GitHub 官方更新日志 · 机器翻译
+   原文：https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories
 
-19. [GitHub][官方更新][机器翻译] 密钥扫描检测GitHub Actions工作流日志中的密钥
-   GitHub密钥扫描现在可以检测GitHub Actions工作流日志中的密钥，以及问题、Wiki、讨论和拉取请求。操作工作流日志扫描在公开预览中可用。如何… POST Secret扫描检测GitHub Actions工作流日志中的密码首先出现在GitHub博客上。
-   筛选分：74.3/100 · 来源权重9 · 信源靠前
-   原文标题：Secret scanning detects secrets in GitHub Actions workflow logs
-   来源：GitHub Changelog · 11-09 17:01 · GitHub 官方更新日志 · 机器翻译
-   原文：https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs
+15. [GitHub][官方更新][机器翻译] 更丰富的GitHub仪表板
+   自从新的控制面板体验成为默认设置以来，我们从开发人员那里得知，它占用的空间太大，显示的内容太少。慷慨的填充、包装的标题和低默认值……帖子A更多信息的GitHub仪表板首先出现在GitHub博客上。
+   筛选分：77.6/100 · 来源权重9 · 信源靠前 · 近时更新
+   原文标题：A more informative GitHub dashboard
+   来源：GitHub Changelog · 11-10 18:34 · GitHub 官方更新日志 · 机器翻译
+   原文：https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard
 
-20. [国内][政策][高重要度] 胡军：产业向新向绿让中国经济增长动能更加强劲
+16. [国内][政策][高重要度] 胡军：产业向新向绿让中国经济增长动能更加强劲
    中新网安塔利亚11月10日电(记者 魏园 陈溯 徐峻杰)当地时间11月10日，在土耳其安塔利亚举行的《联合国气候变化框架公约》第三十一次缔约方大会(COP31)中国角主题边会上，习近平生态文明思想研究中心主任、生态环境部环境与经济政策研究中心主任胡军发布题为《“绿水青山就是金山银山”——中国绿色发展之路》的智库报告，并围绕中国绿色发展的理念、实践与世界意义展开探讨。
-   筛选分：99.5/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：政策、发布、经济 · 国内类别：policy
+   筛选分：98.5/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：政策、发布、经济 · 国内类别：policy
    来源：中新网 财经 · 11-10 23:28 · 中国新闻网财经新闻
    原文：https://www.chinanews.com.cn/cj/2026/11-10/10729860.shtml
 
-21. [国内][政策][高重要度] 学习贯彻党的二十届五中全会精神中央宣讲团报告会在国务院办公厅机关举行
-   筛选分：94.3/100 · 来源权重10 · 信源靠前 · 近时更新 · 关键词：国务院、中央 · 国内类别：policy
+17. [国内][政策][多源热点] 学习贯彻党的二十届五中全会精神中央宣讲团报告会在国务院办公厅机关举行
+   筛选分：93.7/100 · 来源权重10 · 信源靠前 · 关键词：国务院、中央 · 国内类别：policy · 多源交叉2家
    来源：中国政府网 要闻 · 11-10 08:00 · 中国政府网
    原文：https://www.gov.cn/yaowen/liebiao/202611/content_7085720.htm
 
-22. [国内][科技][多源热点] 张国清在上海调研时强调 持续提升产业创新能力 更好服务支撑经济高质量发展
-   筛选分：87.3/100 · 来源权重10 · 近时更新 · 关键词：经济、发展 · 国内类别：tech · 多源交叉2家
+18. [国内][政策][重要] “训练”AI模型输出淫秽图片牟利，开发者获刑
+   2026年10月，《法治日报》记者了解到，浙江省余姚市人民法院审结一起利用生成式人工智能制作淫秽物品牟利的案件。
+   筛选分：86.2/100 · 来源权重5 · 信源靠前 · 近时更新 · 关键词：法院、人工智能 · 国内类别：policy
+   来源：中新网 滚动 · 11-11 08:03 · 中国新闻网滚动新闻
+   原文：https://www.chinanews.com.cn/fz/2026/11-11/10729895.shtml
+
+19. [国内][财经][高重要度] 【视频】何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话
+   筛选分：94.7/100 · 来源权重10 · 信源靠前 · 关键词：经济、贸易 · 国内类别：economy
    来源：中国政府网 要闻 · 11-10 08:00 · 中国政府网
-   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7085693.htm
+   原文：https://tv.cctv.com/2026/11/10/VIDE6l0LRbuHxWMKBkRsLDmN261110.shtml
 
-23. [世界][重要] 英国发布今冬首个低温健康黄色警报
-   中新网伦敦11月10日电 (记者 欧阳开宇))英国卫生安全局(UKHSA)10日发布2026#8209;2027年冬季首个低温健康黄色警报，警报覆盖英格兰西北部及西米德兰兹地区，生效时间为当地11月12日上午9时至14日中午12时，英格兰其余地区暂不受影响。
-   筛选分：87.4/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：发布、安全
-   来源：中新网 世界 · 11-10 22:00 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-10/10729842.shtml
+20. [国内][科技][多源热点] 【视频】张国清在上海调研时强调 持续提升产业创新能力 更好服务支撑经济高质量发展
+   筛选分：93.5/100 · 来源权重10 · 信源靠前 · 关键词：经济、发展 · 国内类别：tech · 多源交叉2家
+   来源：中国政府网 要闻 · 11-10 08:00 · 中国政府网
+   原文：https://tv.cctv.com/2026/11/10/VIDEdQESRBRKM7GeOuM7DCLO261110.shtml
 
-24. [世界][高重要度] 强厄尔尼诺或致全球经济损失11万亿美元
+21. [世界][高重要度] 保加利亚连环车祸已致12死 政府宣布全国哀悼
+   中新网11月11日电 据英国广播公司(BBC)等外媒报道，当地时间10日，保加利亚东部城市扬博尔附近一条高速公路发生两起严重连环车祸事故，涉及数十辆轿车和重型货车。保加利亚总理拉德夫表示，事故已造成12人死亡。
+   筛选分：92.7/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：事故、死亡
+   来源：中新网 世界 · 11-11 07:19 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-11/10729883.shtml
+
+22. [世界][高重要度] 强厄尔尼诺或致全球经济损失11万亿美元
    国际农业发展基金与土耳其农业和林业部周一联合发布报告警告，强厄尔尼诺事件可能在未来五至六年内给全球经济造成高达11万亿美元的损失，并对粮食安全产生重大而持久的影响。
-   筛选分：100.0/100 · 来源权重9 · 信源靠前 · 关键词：重大、发布、经济
+   筛选分：96.6/100 · 来源权重9 · 关键词：重大、发布、经济
    来源：联合国新闻 中文 · 11-09 20:00 · 联合国新闻
    原文：https://news.un.org/feed/view/zh/story/2026/11/1143165
 
+23. [世界][重要] 第九届巴黎和平论坛开幕 聚焦“从主权到合作”
+   中新社巴黎11月10日电 (记者 李洋)第九届巴黎和平论坛当地时间10日在巴黎开幕。
+   筛选分：85.4/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：合作、论坛
+   来源：中新网 世界 · 11-11 07:56 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-11/10729889.shtml
+
+24. [战争与冲突][高重要度] 俄美乌时隔9个月再谈 欧洲争取上桌 俄乌互袭不止
+   新一轮俄罗斯、美国和乌克兰三方会谈11月10日在阿联酋首都阿布扎比举行，探讨推动乌克兰危机政治解决的途径。首日会谈持续近4小时，这也是今年2月谈判陷入停滞以来，三方时隔9个月重启面对面磋商，会谈将于11日继续进行。乌方称会谈富有建设性，美方评价积极，而俄方对停火持谨慎态度。与此同时，俄乌之间的军事互袭仍在继续。专家认为，各方的政治考量并不一致，推动谈判的节奏也不同步，难以实质性形成突破。
+   筛选分：100.0/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：停火、谈判、危机
+   来源：中新网 世界 · 11-11 06:50 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-11/10729880.shtml
+
 25. [战争与冲突][高重要度] 联合国：乌克兰平民伤亡持续增加 冬季人道主义风险加剧
    联合国两位高级官员周一在安理会通报乌克兰局势时表示，随着俄罗斯持续加大对乌克兰人口密集区、民用基础设施和能源设施的袭击，乌克兰平民伤亡不断增加，人道主义局势持续恶化。随着冬季临近，电力、供暖和供水中断将使更多平民面临危险。他们呼吁各方立即停止袭击，保护平民，并确保人道主义援助安全、畅通无阻地送达。
-   筛选分：100.0/100 · 来源权重9 · 信源靠前 · 关键词：袭击、伤亡、能源
+   筛选分：94.2/100 · 来源权重9 · 关键词：袭击、伤亡、能源
    来源：联合国新闻 中文 · 11-09 20:00 · 联合国新闻
    原文：https://news.un.org/feed/view/zh/story/2026/11/1143163
 
@@ -162,27 +158,27 @@
 
 信源状态
 
-- AIHOT 日报：正常 · 2026-11-10
-- AIHOT 精选 API：正常 · 新增候选 20
-- OpenAI News：正常 · 48小时内 6 条
+- AIHOT 日报：正常 · 2026-11-11
+- AIHOT 精选 API：正常 · 新增候选 15
+- OpenAI News：正常 · 48小时内 7 条
 - Google DeepMind Blog：正常 · 48小时内 3 条
 - NVIDIA Developer Blog：正常 · 48小时内 7 条
 - GitHub Trending：正常 · 48小时内 12 条
 - GitHub Weekly Trending：正常 · 48小时内 14 条
-- GitHub Changelog：正常 · 48小时内 4 条
+- GitHub Changelog：正常 · 48小时内 6 条
 - GitHub Blog：正常 · 48小时内 1 条
-- 中国政府网 要闻：正常 · 48小时内 27 条
+- 中国政府网 要闻：正常 · 48小时内 18 条
 - 中新网 国内：正常 · 48小时内 30 条
 - 中新网 财经：正常 · 48小时内 30 条
-- 中新网 滚动：正常 · 48小时内 27 条
+- 中新网 滚动：正常 · 48小时内 29 条
 - 中新网 世界：正常 · 48小时内 30 条
-- The Guardian China：正常 · 48小时内 9 条
-- BBC World：正常 · 48小时内 31 条
-- 联合国新闻 中文：正常 · 48小时内 8 条
+- The Guardian China：正常 · 48小时内 8 条
+- BBC World：正常 · 48小时内 37 条
+- 联合国新闻 中文：正常 · 48小时内 13 条
 - GitHub 下载热度：已核对 8 个项目
-- 多源交叉：2 条获得重要性加成
+- 多源交叉：10 条获得重要性加成
 - 质量门槛：保留 25/40 条
-- 中文翻译：成功 10 条
+- 中文翻译：成功 9 条
 
 在线版：https://heibaixiong1118.github.io/ai-daily-site/
 AIHOT 日报页：https://aihot.news/daily
