@@ -204,5 +204,6 @@
   "Issue types and fields are available for personal accounts": "个人账号可以使用问题类型和字段",
   "Issue types and issue fields are now generally available on repositories owned by personal accounts. This brings the same planning capabilities to individual developers and open source maintainers to standardize… The post Issue types and fields are available for personal accounts appeared first on The GitHub Blog .": "问题类型和问题字段现已在个人账户拥有的代码仓库中普遍可用。这为个人开发者和开源维护者提供了相同的规划功能，以便实现标准化……文章“个人账户可以使用问题类型和字段”最初发布于GitHub博客。",
   "GitHub App support for Enterprise Copilot seat management": "GitHub 应用对 Enterprise Copilot 座席管理的支持",
-  "Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible… The post GitHub App support for Enterprise Copilot seat management appeared first on The GitHub Blog .": "企业版GitHub应用现在可以调用企业级Copilot席位管理API，以控制为哪些用户和企业团队分配Copilot席位。Copilot席位管理API现已开放……文章《GitHub App支持企业Copilot席位管理》最初发布于GitHub博客。"
+  "Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible… The post GitHub App support for Enterprise Copilot seat management appeared first on The GitHub Blog .": "企业版GitHub应用现在可以调用企业级Copilot席位管理API，以控制为哪些用户和企业团队分配Copilot席位。Copilot席位管理API现已开放……文章《GitHub App支持企业Copilot席位管理》最初发布于GitHub博客。",
+  "Gemini 4 Carbon is now available": "Gemini 4 Carbon 现已上市"
 }
