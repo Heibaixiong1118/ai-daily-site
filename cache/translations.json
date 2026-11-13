@@ -209,5 +209,20 @@
   "Holiday Extras is rethinking what it can build with Codex": "Holiday Extras正在重新思考它可以利用Codex打造什么",
   "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.": "借助Codex，Holiday Extras将客户专业知识转化为更出色的应用程序、更高的预订转化率和新的增长可能性。",
   "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security": "OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于查找、验证和修复安全漏洞。npm：https://www.npmjs.com/package/@openai/codex-security",
-  "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.": "Node 版本管理器 - 符合 POSIX 标准的 bash 脚本，用于管理多个活动的 node.js 版本。"
+  "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.": "Node 版本管理器 - 符合 POSIX 标准的 bash 脚本，用于管理多个活动的 node.js 版本。",
+  "Gondola doubles revenue as its team builds more with Codex": "Gondola 的团队使用 Codex 构建更多内容，收入翻番",
+  "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.": "Gondola 帮助创意人士获得认可并找到工作，Codex 将首席工程师的产出提高了 50%，ChatGPT 则简化了日常工作。",
+  "How Amplitude ships product improvements in 1–2 days with OpenAI": "Amplitude如何借助OpenAI在1–2天内推出产品改进",
+  "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.": "Amplitude 的主动式产品代理 Wave 主要基于 OpenAI 模型构建，它可以识别需要构建的内容，帮助团队使用编码代理发布变更，并衡量其影响。",
+  "Keep your coding agent up to date with the latest web best practices": "让您的编码代理始终掌握最新的网络最佳实践",
+  "Actions for ARM32 Linux & Windows retirement": "针对 ARM32 Linux 和 Windows 退役的操作",
+  "GitHub Actions hosted runners will be ending support for ARM32 job execution on Windows and Linux by 8th Dec 2026. This follows our end of support for node20 where Node… The post Actions for ARM32 Linux & Windows retirement appeared first on The GitHub Blog .": "GitHub Actions 托管 Runner 将于 2026 年 12 月 8 日停止对 Windows 和 Linux 上 ARM32 作业执行的支持。此前，我们已停止对node20的支持，其中Node… 文章《ARM32 Linux和Windows版Actions即将停用》最初发布于GitHub博客。",
+  "GitHub availability report: October 2026": "GitHub 可用性报告：2026 年 10 月",
+  "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .": "10月份，我们经历了八起导致GitHub各项服务性能下降的事件。这篇文章“GitHub可用性报告：2026年10月”最初发布在GitHub博客上。",
+  "Secret scanning detects Cloudflare service tokens": "“密钥扫描”检测到 Cloudflare 服务令牌",
+  "Secret scanning now detects Cloudflare service tokens. Detectors added Secret scanning now automatically detects the following new secret type in your repositories. Provider Secret type Cloudflare cloudflare_access_service_token Partner secrets are… The post Secret scanning detects Cloudflare service tokens appeared first on The GitHub Blog .": "密钥扫描现可检测Cloudflare服务令牌。已添加检测器 密钥扫描现在会自动检测您的仓库中以下新的密钥类型。提供商密钥类型Cloudflare cloudflare_access_service_token合作伙伴密钥是……文章《密钥扫描可检测到Cloudflare服务令牌》最初发布于GitHub博客。",
+  "Build once, run on any agent: A practical guide to agent skills": "一次构建，在任何代理上运行：代理技能实用指南",
+  "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog .": "代理技能将可重复的工程工作记录在文件中，供团队审查和重复使用，而工具、项目上下文和权限仍仅限于运行它们的主机。这篇文章《一次构建，在任何代理上运行：代理技能实用指南》最初发布在GitHub博客上。",
+  "Public monitoring alerts now have direct links": "公共监控提醒现已提供直接链接",
+  "You can now access individual public monitoring alerts with a direct link to each alert. In your enterprise’s Public monitoring view, click an alert number to open the alert. You… The post Public monitoring alerts now have direct links appeared first on The GitHub Blog .": "您现在可以通过指向每个警报的直接链接访问各个公开监控警报。在您所在企业的“公开监控”视图中，点击警报编号即可打开该警报。您……这篇文章《公开监控警报现已提供直接链接》最初发布在GitHub博客上。"
 }
