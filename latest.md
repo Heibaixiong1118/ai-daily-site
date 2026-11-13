@@ -1,5 +1,7 @@
 每日简报 · AI / 国内 / 世界 / 战争与冲突 · 2026-11-13
 
+提醒：AIHOT 最新日报日期为 2026-11-13，不是北京时间今天 2026-11-14；以下内容可能未包含最新发布。
+
 1. [今日重点][高重要度] NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO
    NVIDIA 董事会宣布 Jensen Huang 即刻辞去总裁、CEO 及董事职务，CFO Colette Kress 被任命为临时 CEO，直至选定永久继任者，董事会已启动内外部人选遴选。
    筛选分：100.0/100 · AIHOT 日报头条
@@ -18,154 +20,162 @@
    来源：Claude：Blog（网页） · 聚合策展 · 原始链接
    原文：https://claude.com/blog/claude-meetings
 
-4. [行业、政策与生态][高重要度] 黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末
+4. [模型与产品][重要] Anthropic 建议把 Claude Opus 5.5 作为知识工作的日常主力模型
+   Anthropic 宣布 Claude Opus 5.5 成为 Pro、Max、Ultra 和 Team 套餐的默认模型，并推荐将其作为研究、分析和写作等知识工作的日常主力。
+   筛选分：89.0/100 · AIHOT 日报精编
+   来源：Claude：Blog（网页） · 聚合策展 · 原始链接
+   原文：https://claude.com/blog/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work
+
+5. [行业、政策与生态][高重要度] AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO
+   Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年后辞去 CEO、总裁和董事职务，CFO Colette Kress 出任临时 CEO，SEC 文件显示董事会于 11 月 11 日接受辞呈，此前董事会已就 NYT 报道的绯闻事件展开独立调查。
+   筛选分：94.0/100 · AIHOT 精选评分
+   来源：Latent Space（RSS） · 11-13 17:04 · 聚合精选 · 原始链接
+   原文：https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/
+
+6. [行业、政策与生态][高重要度] 黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末
    英伟达公告黄仁勋辞去总裁、CEO和董事职务，即刻生效，股价开盘下跌14个点。作者依据《纽约时报》、The Information 等报道梳理脉络：从2022年A100、H100对华禁售，到 Megaspeed 采购争议、黄乐被情报机构认定涉间谍活动，再到婚外情曝光后董事会于10月29日起14天内收网，黄仁勋在英伟达33年的时代就此结束。
    筛选分：92.0/100 · AIHOT 精选评分
    来源：公众号：数字生命卡兹克 · 11-13 07:56 · 聚合精选 · 原始链接
    原文：https://mp.weixin.qq.com/s/ToplAo9NHP356Fu-hbYlsg
 
-5. [行业、政策与生态][高重要度] SemiAnalysis 分析黄仁勋辞任 Nvidia CEO 背后的出口管制博弈
-   SemiAnalysis 发表长文分析黄仁勋不再担任 Nvidia CEO 一事，认为其去职与美国情报界推动、针对中国远程访问 GPU 的 RASA 法案推进有关。
-   筛选分：90.0/100 · AIHOT 精选评分
-   来源：SemiAnalysis 长文 RSS（RSS） · 11-13 02:06 · 聚合精选 · 原始链接
-   原文：https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen
+7. [AI 官方直采][机器翻译] 在车载计算和延迟限制范围内运行自动驾驶推理模型
+   自动驾驶汽车（AV）的开发者需要推理模型，这些模型能够在车载系统的计算和延迟限制范围内运行。较大的模型提供……
+   筛选分：74.5/100 · 官方发布 · AI相关度8 · 信源位次2
+   原文标题：Running AV Reasoning Models Within Onboard Compute and Latency Limits
+   来源：NVIDIA Developer Blog · 11-14 01:17 · NVIDIA 官方技术博客 · 机器翻译
+   原文：https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits/
 
-6. [教程与观点][重要] OpenRouter 详解自纠错网站本地化流水线：GPT-6.1 Sol 翻译 7 种语言全站约 $460
-   OpenRouter 上线简体中文、日语等 7 种语言 Beta 本地化，并详解配套的自纠错翻译流水线：GPT-6.1 Sol 翻译 16,918 条字符串，经代码检查、同模型校验和每日 AI 审查重试，最坏情况每条约 20 次模型调用。全站重译 7 种语言约 $460，约为 Smartling 机器翻译牌价的 6%，错误报告会转化为术语规则、风格注释或评测用例。
-   筛选分：77.0/100 · AIHOT 日报精编
-   来源：OpenRouter：Announcements（RSS） · 聚合策展 · 原始链接
-   原文：https://openrouter.ai/blog/announcements/openrouter-in-8-languages/
+8. [AI 官方直采][机器翻译] 隆重推出ChatGPT钱包
+   隆重推出 ChatGPT 钱包，这是 ChatGPT Work、Codex 和 dots 中的客服代表在获得用户批准并使用现有银行卡保护措施完成购买的一种安全方式。
+   筛选分：70.0/100 · 官方发布 · AI相关度5 · 信源位次1
+   原文标题：Introducing ChatGPT Wallet
+   来源：OpenAI News · 11-13 23:00 · OpenAI 官方发布 · 机器翻译
+   原文：https://openai.com/index/introducing-chatgpt-wallet
 
-7. [AI 官方直采][机器翻译] Gondola 的团队使用 Codex 构建更多内容，收入翻番
-   Gondola 帮助创意人士获得认可并找到工作，Codex 将首席工程师的产出提高了 50%，ChatGPT 则简化了日常工作。
-   筛选分：66.5/100 · 官方发布 · AI相关度4 · 信源位次2
-   原文标题：Gondola doubles revenue as its team builds more with Codex
-   来源：OpenAI News · 11-12 20:00 · OpenAI 官方发布 · 机器翻译
-   原文：https://openai.com/business/customer-stories/gondola
+9. [AI 官方直采][机器翻译] 当一个 GPU 不够用时：使用 vLLM 在两个 NVIDIA DGX Station 上部署 GLM-5.3
+   在本地运行前沿规模的模型意味着要将模型的所有权重都保存在 GPU 内存中；最大的模型不再能容纳在一台机器上。两台 NVIDIA DGX Station……
+   筛选分：70.0/100 · 官方发布 · AI相关度5 · 信源位次1
+   原文标题：When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM
+   来源：NVIDIA Developer Blog · 11-13 06:40 · NVIDIA 官方技术博客 · 机器翻译
+   原文：https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/
 
-8. [AI 官方直采][机器翻译] Amplitude如何借助OpenAI在1–2天内推出产品改进
-   Amplitude 的主动式产品代理 Wave 主要基于 OpenAI 模型构建，它可以识别需要构建的内容，帮助团队使用编码代理发布变更，并衡量其影响。
-   筛选分：66.0/100 · 官方发布 · AI相关度3 · 信源位次1
-   原文标题：How Amplitude ships product improvements in 1–2 days with OpenAI
-   来源：OpenAI News · 11-13 04:00 · OpenAI 官方发布 · 机器翻译
-   原文：https://openai.com/business/customer-stories/amplitude
-
-9. [GitHub][今日热门][机器翻译] GoogleChrome/modern-web-guidance-src
-   用途：让您的编码代理始终掌握最新的网络最佳实践 · 语言：TypeScript · 今日新增 739 stars
+10. [GitHub][今日热门][机器翻译] alibaba/open-code-review
+   用途：安全、快速、高效，经阿里巴巴规模的实战检验。混合架构代码审查工具：确定性管道 + LLM 代理、精确的行级注释、内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。 · 语言：Go · 今日新增 206 stars
    筛选分：86.0/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-13 08:30 · GitHub 今日趋势 · 机器翻译
+   来源：GitHub Trending · 11-14 02:25 · GitHub 今日趋势 · 机器翻译
+   原文：https://github.com/alibaba/open-code-review
+
+11. [GitHub][今日热门][机器翻译] GoogleChrome/modern-web-guidance-src
+   用途：让您的编码代理始终掌握最新的网络最佳实践 · 语言：TypeScript · 今日新增 1,875 stars
+   筛选分：84.8/100 · 来源权重10 · 信源靠前 · 近时更新
+   来源：GitHub Trending · 11-14 02:25 · GitHub 今日趋势 · 机器翻译
    原文：https://github.com/GoogleChrome/modern-web-guidance-src
 
-10. [GitHub][今日热门][机器翻译] openai/codex-security
-   用途：OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于查找、验证和修复安全漏洞。npm：https://www.npmjs.com/package/@openai/codex-security · 语言：TypeScript · 今日新增 643 stars
-   筛选分：84.8/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-13 08:30 · GitHub 今日趋势 · 机器翻译
+12. [GitHub][今日热门][机器翻译] openai/codex-security
+   用途：OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于查找、验证和修复安全漏洞。npm：https://www.npmjs.com/package/@openai/codex-security · 语言：TypeScript · 今日新增 754 stars
+   筛选分：83.6/100 · 来源权重10 · 信源靠前 · 近时更新
+   来源：GitHub Trending · 11-14 02:25 · GitHub 今日趋势 · 机器翻译
    原文：https://github.com/openai/codex-security
 
-11. [GitHub][今日热门][机器翻译] nvm-sh/nvm
-   用途：Node 版本管理器 - 符合 POSIX 标准的 bash 脚本，用于管理多个活动的 node.js 版本。 · 语言：Shell · 今日新增 63 stars
-   筛选分：83.6/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-13 08:30 · GitHub 今日趋势 · 机器翻译
-   原文：https://github.com/nvm-sh/nvm
+13. [GitHub][近日关注][机器翻译] sherlock-project/sherlock
+   用途：通过社交网络中的用户名查找社交媒体帐户 · 语言：Python · 本周新增 14,381 stars
+   筛选分：83.5/100 · 来源权重9 · 信源靠前 · 近时更新 · 近期关注最高
+   来源：GitHub Weekly Trending · 11-14 02:25 · GitHub 本周趋势 · 机器翻译
+   原文：https://github.com/sherlock-project/sherlock
 
-12. [GitHub][近日关注][机器翻译] cloudflare/security-audit-skill
-   用途：用于多阶段安全审核的编码代理技能，具有经过独立验证的机器可读结果 · 语言：JavaScript · 本周新增 10,700 stars
-   筛选分：78.7/100 · 来源权重9 · 信源靠前 · 近时更新 · 近期关注最高
-   来源：GitHub Weekly Trending · 11-13 08:31 · GitHub 本周趋势 · 机器翻译
-   原文：https://github.com/cloudflare/security-audit-skill
+14. [GitHub][下载最高][机器翻译] milind-soni/OpenMausBot
+   用途：使用机器人可以使用的虚拟机的开源Grok机器人替代方案 · 语言：TypeScript · 本周新增 9,104 stars · 近30天Release资产下载 649,695
+   筛选分：87.1/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载649,695
+   来源：GitHub Weekly Trending · 11-14 02:25 · GitHub 本周趋势 · 机器翻译
+   原文：https://github.com/milind-soni/OpenMausBot
 
-13. [GitHub][下载最高][机器翻译] zed-industries/zed
-   用途：以思维速度编写代码– Zed是Atom和Tree-sitter创建者的高性能多人代码编辑器。 · 语言：Rust · 本周新增 2,339 stars · 近30天Release资产下载 2,032,107
-   筛选分：82.1/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载2,032,107
-   来源：GitHub Weekly Trending · 11-13 08:31 · GitHub 本周趋势 · 机器翻译
-   原文：https://github.com/zed-industries/zed
+15. [GitHub][官方更新][机器翻译] 使用 REST API 管理代码仓库的 AI 扫描
+   现在，您可以使用REST API在组织和仓库级别启用或禁用GitHub代码扫描的仓库AI扫描功能。此公开预览版添加了repository_scan…文章《使用REST API管理代码仓库的AI扫描》最初发布于GitHub博客。
+   筛选分：82.5/100 · 来源权重9 · 信源靠前 · 近时更新
+   原文标题：Manage AI Scan for repositories using the REST API
+   来源：GitHub Changelog · 11-13 20:22 · GitHub 官方更新日志 · 机器翻译
+   原文：https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api
 
-14. [GitHub][官方更新][机器翻译] 针对 ARM32 Linux 和 Windows 退役的操作
+16. [GitHub][官方更新][机器翻译] 针对 ARM32 Linux 和 Windows 退役的操作
    GitHub Actions 托管 Runner 将于 2026 年 12 月 8 日停止对 Windows 和 Linux 上 ARM32 作业执行的支持。此前，我们已停止对node20的支持，其中Node… 文章《ARM32 Linux和Windows版Actions即将停用》最初发布于GitHub博客。
-   筛选分：82.9/100 · 来源权重9 · 信源靠前 · 近时更新
+   筛选分：78.7/100 · 来源权重9 · 信源靠前 · 近时更新
    原文标题：Actions for ARM32 Linux & Windows retirement
    来源：GitHub Changelog · 11-13 04:59 · GitHub 官方更新日志 · 机器翻译
    原文：https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement
 
-15. [GitHub][官方更新][机器翻译] GitHub 可用性报告：2026 年 10 月
+17. [GitHub][官方更新][机器翻译] GitHub 可用性报告：2026 年 10 月
    10月份，我们经历了八起导致GitHub各项服务性能下降的事件。这篇文章“GitHub可用性报告：2026年10月”最初发布在GitHub博客上。
-   筛选分：81.0/100 · 来源权重8 · 信源靠前 · 近时更新
+   筛选分：78.0/100 · 来源权重8 · 信源靠前 · 近时更新
    原文标题：GitHub availability report: October 2026
    来源：GitHub Blog · 11-13 08:20 · GitHub 官方博客 · 机器翻译
    原文：https://github.blog/news-insights/company-news/github-availability-report-october-2026/
 
-16. [GitHub][官方更新][机器翻译] “密钥扫描”检测到 Cloudflare 服务令牌
-   密钥扫描现可检测Cloudflare服务令牌。已添加检测器 密钥扫描现在会自动检测您的仓库中以下新的密钥类型。提供商密钥类型Cloudflare cloudflare_access_service_token合作伙伴密钥是……文章《密钥扫描可检测到Cloudflare服务令牌》最初发布于GitHub博客。
-   筛选分：80.7/100 · 来源权重9 · 信源靠前 · 近时更新
-   原文标题：Secret scanning detects Cloudflare service tokens
-   来源：GitHub Changelog · 11-12 22:38 · GitHub 官方更新日志 · 机器翻译
-   原文：https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare
-
-17. [GitHub][官方更新][机器翻译] 一次构建，在任何代理上运行：代理技能实用指南
+18. [GitHub][官方更新][机器翻译] 一次构建，在任何代理上运行：代理技能实用指南
    代理技能将可重复的工程工作记录在文件中，供团队审查和重复使用，而工具、项目上下文和权限仍仅限于运行它们的主机。这篇文章《一次构建，在任何代理上运行：代理技能实用指南》最初发布在GitHub博客上。
-   筛选分：79.5/100 · 来源权重8 · 信源靠前 · 近时更新
+   筛选分：76.5/100 · 来源权重8 · 信源靠前 · 近时更新
    原文标题：Build once, run on any agent: A practical guide to agent skills
    来源：GitHub Blog · 11-13 06:54 · GitHub 官方博客 · 机器翻译
    原文：https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/
 
-18. [GitHub][官方更新][机器翻译] 公共监控提醒现已提供直接链接
-   您现在可以通过指向每个警报的直接链接访问各个公开监控警报。在您所在企业的“公开监控”视图中，点击警报编号即可打开该警报。您……这篇文章《公开监控警报现已提供直接链接》最初发布在GitHub博客上。
-   筛选分：79.5/100 · 来源权重9 · 信源靠前 · 近时更新
-   原文标题：Public monitoring alerts now have direct links
-   来源：GitHub Changelog · 11-12 22:37 · GitHub 官方更新日志 · 机器翻译
-   原文：https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links
+19. [GitHub][官方更新][机器翻译] “密钥扫描”检测到 Cloudflare 服务令牌
+   密钥扫描现可检测Cloudflare服务令牌。已添加检测器 密钥扫描现在会自动检测您的仓库中以下新的密钥类型。提供商密钥类型Cloudflare cloudflare_access_service_token合作伙伴密钥是……文章《密钥扫描可检测到Cloudflare服务令牌》最初发布于GitHub博客。
+   筛选分：76.5/100 · 来源权重9 · 信源靠前
+   原文标题：Secret scanning detects Cloudflare service tokens
+   来源：GitHub Changelog · 11-12 22:38 · GitHub 官方更新日志 · 机器翻译
+   原文：https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare
 
-19. [国内][政策][多源热点] 【视频】李强主持国务院第二十二次专题学习
-   筛选分：92.7/100 · 来源权重10 · 信源靠前 · 关键词：国务院 · 国内类别：policy · 多源交叉2家
-   来源：中国政府网 要闻 · 11-12 08:00 · 中国政府网
-   原文：https://tv.cctv.com/2026/11/12/VIDEgg9AYwPnNQYvOoheNHnw261112.shtml
+20. [国内][政策][多源热点] 国务院任免国家工作人员（2026年11月13日）
+   筛选分：92.5/100 · 来源权重10 · 信源靠前 · 近时更新 · 关键词：国务院 · 国内类别：policy · 多源交叉2家
+   来源：中国政府网 要闻 · 11-13 08:00 · 中国政府网
+   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7085956.htm
 
-20. [国内][政策][重要] 学习贯彻党的二十届五中全会精神中央宣讲团在外交部宣讲
-   新华社北京11月12日电 中央宣讲团成员、中共中央政治局委员、中央外办主任王毅11月12日在外交部宣讲党的二十届五中全会精神。中央外办、外交部、国家国际发展合作署、全国对外友协有关负责同志及党员干部代表参加。
-   筛选分：88.7/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：中央、合作、发展 · 国内类别：policy
-   来源：中新网 国内 · 11-13 08:06 · 中国新闻网国内新闻
-   原文：https://www.chinanews.com.cn/gn/2026/11-13/10731259.shtml
+21. [国内][财经][高重要度] 全球首座半潜式风电制氢平台拖航启程
+   中新社广东江门11月13日电 (记者 郭军)江门海事局13日完成全球首座半潜式风电制氢平台“申海氢能1号”离开广东江门新会水域的拖带护航任务，有力保障了这一国家级海洋新能源重大装备的安全离港。
+   筛选分：98.3/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：重大、能源、安全 · 国内类别：economy
+   来源：中新网 财经 · 11-13 22:27 · 中国新闻网财经新闻
+   原文：https://www.chinanews.com.cn/cj/2026/11-13/10731848.shtml
 
-21. [国内][政策][多源热点] 国务院任免国家工作人员（2026年11月12日）
-   筛选分：86.7/100 · 来源权重10 · 信源靠前 · 关键词：国务院 · 国内类别：policy · 多源交叉2家
-   来源：中国政府网 要闻 · 11-12 08:00 · 中国政府网
-   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7085891.htm
+22. [国内][财经][高重要度] 从“看多”到“做多” 全球资本长期看好中国资产
+   中新网上海11月13日电 (高志苗 康玉湛)2026年上海证券交易所国际投资者大会12日至13日在上海召开，来自全球五大洲的近400位机构代表参会。在当前国际经济金融环境复杂多变、全球资产配置深度再平衡的背景下，国际投资者对中国资产的态度不再简单地“看多”，而是从估值修复、主题投资回归到对基本面的重新审视。
+   筛选分：94.0/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：经济、金融、证券 · 国内类别：economy
+   来源：中新网 财经 · 11-13 21:41 · 中国新闻网财经新闻
+   原文：https://www.chinanews.com.cn/cj/2026/11-13/10731818.shtml
 
-22. [国内][科技][高重要度] 海南新组建空天集团 注册资金100亿元
-   中新网海口11月12日(记者 王晓斌)记者从海南省新闻办12日举行的发布会获悉，海南省委、省政府已明确“以场带产”发展航天产业，新组建注册资金100亿元的海南空天集团。该集团将作为文昌航天城园区的投建运主体，推动火箭、卫星和信息产业链落地。
-   筛选分：91.6/100 · 来源权重6 · 近时更新 · 关键词：发布、航天、卫星 · 国内类别：tech
-   来源：中新网 财经 · 11-12 21:56 · 中国新闻网财经新闻
-   原文：https://www.chinanews.com.cn/cj/2026/11-12/10731206.shtml
+23. [国内][科技][重要] 《颠覆性技术产业化指数报告（2026）》在天津发布
+   中新网天津11月13日电 (薛淳月 孙翼飞)13日，《颠覆性技术产业化指数报告(2026)》在天津举行的2026企业科技创新发展论坛上发布。报告认为，全球颠覆性技术产业化进入关键窗口期，中国首次站在未来产业范式未定的起跑线上。
+   筛选分：88.2/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：发布、科技、论坛 · 国内类别：tech
+   来源：中新网 财经 · 11-13 21:42 · 中国新闻网财经新闻
+   原文：https://www.chinanews.com.cn/cj/2026/11-13/10731808.shtml
 
-23. [世界][高重要度] 英国三季度经济延续复苏态势
-   中新社伦敦11月12日电 (记者 欧阳开宇)英国官方最新公布数据显示，英国第三季度经济延续复苏态势，增速走强，创下2024年一季度以来最高水平，顶住地缘冲突、能源涨价等多重外部压力，经济韧性超市场预期。
-   筛选分：99.5/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：冲突、经济、市场
-   来源：中新网 世界 · 11-13 04:46 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-13/10731238.shtml
+24. [国内][社会][重要] 新疆阿克苏地区库车市发生5.0级地震
+   中新网11月14日电 据中国地震台网微博消息，中国地震台网正式测定：11月14日00时17分在新疆阿克苏地区库车市(北纬42.22度，东经83.64度)发生5.0级地震，震源深度20千米。
+   筛选分：85.2/100 · 来源权重5 · 信源靠前 · 近时更新 · 关键词：地震 · 国内类别：society
+   来源：中新网 滚动 · 11-14 00:34 · 中国新闻网滚动新闻
+   原文：https://www.chinanews.com.cn/sh/2026/11-14/10731870.shtml
 
-24. [世界][高重要度] 世卫组织：刚果（金）埃博拉疫情应对面临安全局势动荡等多重障碍
-   世界卫生组织总干事谭德塞周三表示，刚果民主共和国（刚果（金））埃博拉疫情仍然是一起引起国际关注的公共卫生突发事件。目前，该国八个省份已报告近1.1万例确诊病例，死亡人数超过5300人。尽管部分地区疫情传播速度有所放缓，但新的疫情热点仍在出现，应对工作面临安全局势动荡等多重障碍。
-   筛选分：95.0/100 · 来源权重9 · 信源靠前 · 关键词：突发、死亡、安全
-   来源：联合国新闻 中文 · 11-11 20:00 · 联合国新闻
-   原文：https://news.un.org/feed/view/zh/story/2026/11/1143176
+25. [世界][高重要度] “投资中国”比荷卢企业圆桌会在布鲁塞尔举行
+   中新社布鲁塞尔11月13日电 (记者 德永健)“投资中国”比利时、荷兰、卢森堡企业圆桌会13日在布鲁塞尔举行，中国商务部副部长兼国际贸易谈判副代表凌激主持会议，飞利浦、索尔维、安赛乐米塔尔等近30家比荷卢企业及比中经贸委员会等商协会代表参会。
+   筛选分：100.0/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：谈判、贸易、投资
+   来源：中新网 世界 · 11-13 23:18 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-13/10731866.shtml
 
-25. [战争与冲突][高重要度] 胡塞武装宣布对沙特发起四次军事行动，打击石油设施及空军基地
-   中新网11月13日电 据土耳其阿纳多卢通讯社(AA)报道，当地时间12日，也门胡塞武装发布声明称，使用无人机和弹道导弹对沙特阿拉伯的石油设施和军事目标发起四次军事行动。
-   筛选分：95.3/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：导弹、发布
-   来源：中新网 世界 · 11-13 07:27 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-13/10731249.shtml
+26. [世界][高重要度] 世卫组织：各国加大国内投资以巩固结核病防治成果
+   世界卫生组织周四发布的《2026年全球结核病报告》显示，全球结核病防治持续取得进展，结核病发病和死亡人数均有所下降。2024年至2025年间，各国结核病防治国内资金投入增长14%，达到56亿美元，在一定程度上抵消了规模相近的国际资金减少。
+   筛选分：93.8/100 · 来源权重9 · 信源靠前 · 关键词：死亡、发布、投资
+   来源：联合国新闻 中文 · 11-12 20:00 · 联合国新闻
+   原文：https://news.un.org/feed/view/zh/story/2026/11/1143187
 
-26. [战争与冲突][高重要度] 【专题报道|前方视野】人类是否会失去对战争的有效控制——人工智能时代的安全隐忧
-   在国际社会围绕生成式人工智能及其产业竞争和经济机遇展开热烈讨论之际，另一个同样深刻却较少进入公众视野的问题正在浮现：当人工智能越来越深入地融入情报分析、军事决策和作战行动时，人类是否还能始终掌握战争的节奏与边界？联合国裁军研究所认为，这已经不再是一个关于未来的假设，而是正在发生的现实。
-   筛选分：100.0/100 · 来源权重9 · 信源靠前 · 关键词：战争、经济、人工智能
-   来源：联合国新闻 中文 · 11-11 20:00 · 联合国新闻
-   原文：https://news.un.org/feed/view/zh/story/2026/11/1143178
+27. [世界][高重要度] 土耳其媒体人：共建“一带一路”为绿色能源合作带来重大机遇 | 新闻会客厅
+   中新网伊斯坦布尔11月13日电(魏园 王高飞 薛凌桥)当地时间11月12日，“中国-土耳其生态文明与绿色转型对话会”于《联合国气候变化框架公约》第三十一次缔约方大会(COP31)期间，在土耳其伊斯坦布尔举办。土耳其《国家频道》主编纳迪尔·特梅洛格鲁(Nadir Temelo#287;lu)在会上表示，气候危机不仅是环境问题，也是一个关乎公平正义的问题。共建“一带一路”倡议框架下的绿色能源合作项目，为其他国家提供了重大机遇。
+   筛选分：95.2/100 · 来源权重7 · 近时更新 · 关键词：重大、危机、能源
+   来源：中新网 世界 · 11-13 18:37 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-13/10731654.shtml
 
-27. [战争与冲突][重要] 美国华盛顿发生枪击事件 已致1死4伤
-   中新网11月13日电 据美国全国广播公司(NBC)当地时间12日报道，华盛顿警方表示，洛根环岛街区发生枪击事件，已致1人死亡、4人受伤，其中一名伤者伤势危重。
-   筛选分：85.1/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：死亡
-   来源：中新网 世界 · 11-13 07:24 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-13/10731248.shtml
+28. [战争与冲突][高重要度] 世界粮食计划署：对苏丹数百万民众而言，援助是“唯一的希望”
+   世界粮食计划署新任执行主任在完成对苏丹的首次实地考察后警告称，资金削减正加剧该国的饥饿危机。在考察期间，他探望了因冲突流离失所、正为养活孩子而苦苦挣扎的家庭。
+   筛选分：94.6/100 · 来源权重9 · 信源靠前 · 关键词：冲突、危机
+   来源：联合国新闻 中文 · 11-12 20:00 · 联合国新闻
+   原文：https://news.un.org/feed/view/zh/story/2026/11/1143188
 
 战争栏目说明：内容来自公开报道与冲突研究机构。交战方说法、伤亡数字和战果可能无法独立核实，请以原文时间和来源判断。
 
@@ -174,26 +184,26 @@
 信源状态
 
 - AIHOT 日报：正常 · 2026-11-13
-- AIHOT 精选 API：正常 · 新增候选 12
+- AIHOT 精选 API：正常 · 新增候选 10
 - OpenAI News：正常 · 48小时内 6 条
 - Google DeepMind Blog：正常 · 48小时内 1 条
-- NVIDIA Developer Blog：正常 · 48小时内无新内容
-- GitHub Trending：正常 · 48小时内 13 条
-- GitHub Weekly Trending：正常 · 48小时内 11 条
+- NVIDIA Developer Blog：正常 · 48小时内 2 条
+- GitHub Trending：正常 · 48小时内 12 条
+- GitHub Weekly Trending：正常 · 48小时内 15 条
 - GitHub Changelog：正常 · 48小时内 4 条
 - GitHub Blog：正常 · 48小时内 2 条
-- 中国政府网 要闻：正常 · 48小时内 13 条
+- 中国政府网 要闻：正常 · 48小时内 20 条
 - 中新网 国内：正常 · 48小时内 30 条
 - 中新网 财经：正常 · 48小时内 30 条
-- 中新网 滚动：正常 · 48小时内 26 条
+- 中新网 滚动：正常 · 48小时内 29 条
 - 中新网 世界：正常 · 48小时内 30 条
-- The Guardian China：正常 · 48小时内 11 条
-- BBC World：正常 · 48小时内 30 条
-- 联合国新闻 中文：正常 · 48小时内 9 条
+- The Guardian China：正常 · 48小时内 13 条
+- BBC World：正常 · 48小时内 24 条
+- 联合国新闻 中文：正常 · 48小时内 8 条
 - GitHub 下载热度：已核对 8 个项目
-- 多源交叉：12 条获得重要性加成
-- 质量门槛：保留 27/40 条
-- 中文翻译：成功 12 条
+- 多源交叉：11 条获得重要性加成
+- 质量门槛：保留 28/40 条
+- 中文翻译：成功 13 条
 
 在线版：https://heibaixiong1118.github.io/ai-daily-site/
 AIHOT 日报页：https://aihot.news/daily
