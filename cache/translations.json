@@ -242,5 +242,12 @@
   "Gemini 4 Hydrogen in GitHub Copilot": "GitHub Copilot 中的 Gemini 4 Hydrogen",
   "Gemini 4 Hydrogen, Google’s latest Flash model, is now generally available in GitHub Copilot. It is designed for fast, efficient agentic coding, tool use, and multistep workflows, with improved instruction… The post Gemini 4 Hydrogen in GitHub Copilot appeared first on The GitHub Blog .": "Google 最新 Flash 模型 Gemini 4 Hydrogen 现已在 GitHub Copilot 中全面推出。它专为快速、高效的代理编码、工具使用和多步工作流程而设计，并改进了指令…… 博文《GitHub Copilot 中的 Gemini 4 Hydrogen》最初发布于 GitHub 博客。",
   "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.": "用于随时掌握最新动态并掌控代理的工作空间——塑造、决策、规划、注释、审核代码、与团队共享，并一键将所有反馈发送给代理。",
-  "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.": "面向股票投资者和交易者的 Claude Code 技能——市场分析、技术图表、经济日历、筛选器和交易策略制定。"
+  "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.": "面向股票投资者和交易者的 Claude Code 技能——市场分析、技术图表、经济日历、筛选器和交易策略制定。",
+  "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA": "使用 cuDLA 在 NVIDIA Jetson AGX Orin 上以 Python 运行原生 DLA 推理",
+  "AI applications at the edge often need to run multiple neural networks within limited compute and power budgets. NVIDIA Deep Learning Accelerator (DLA)...": "边缘端的人工智能应用通常需要在有限的计算和功耗预算内运行多个神经网络。NVIDIA 深度学习加速器 (DLA)…",
+  "Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton": "使用 NVIDIA cuPhoton 运行 GPU 加速的黑洞干涉测量",
+  "Imaging black holes is challenging because they are distant and appear tiny in the sky—for example, M87*’s observed ring spans just 42 microarcseconds. The...": "拍摄黑洞的图像具有挑战性，因为它们距离遥远，在天空中显得很小——例如，M87*的观测环仅跨越42微角秒。",
+  "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.": "使用 Univer Office SDK 构建您自己的 AI Office。将编辑、计算、协作和文件处理功能集成到您的产品中，供人和 AI 代理使用。基于可扩展的开源核心构建。",
+  "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.": "AG-UI：代理-用户交互协议。将代理引入前端应用程序。",
+  "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.": "一个专为与 Stitch MCP 服务器配合使用而设计的 Agent Skill 库。每项技能均遵循 Agent Skills 开放标准，以便与 Antigravity、Gemini CLI、Claude Code、Cursor 等编程代理兼容。"
 }
