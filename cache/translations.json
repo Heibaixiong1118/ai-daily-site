@@ -249,5 +249,8 @@
   "Imaging black holes is challenging because they are distant and appear tiny in the sky—for example, M87*’s observed ring spans just 42 microarcseconds. The...": "拍摄黑洞的图像具有挑战性，因为它们距离遥远，在天空中显得很小——例如，M87*的观测环仅跨越42微角秒。",
   "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.": "使用 Univer Office SDK 构建您自己的 AI Office。将编辑、计算、协作和文件处理功能集成到您的产品中，供人和 AI 代理使用。基于可扩展的开源核心构建。",
   "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.": "AG-UI：代理-用户交互协议。将代理引入前端应用程序。",
-  "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.": "一个专为与 Stitch MCP 服务器配合使用而设计的 Agent Skill 库。每项技能均遵循 Agent Skills 开放标准，以便与 Antigravity、Gemini CLI、Claude Code、Cursor 等编程代理兼容。"
+  "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.": "一个专为与 Stitch MCP 服务器配合使用而设计的 Agent Skill 库。每项技能均遵循 Agent Skills 开放标准，以便与 Antigravity、Gemini CLI、Claude Code、Cursor 等编程代理兼容。",
+  "A step toward defining the Standard Model on a lattice": "朝着在格点上定义标准模型迈出的一步",
+  "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.": "探索标准模型的候选非微扰格定义，以及GPT-6 Astra如何帮助将这一想法转化为详细的证明。",
+  "Chrome DevTools for coding agents": "适用于编码代理的 Chrome DevTools"
 }
