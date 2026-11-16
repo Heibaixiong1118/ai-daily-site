@@ -252,5 +252,15 @@
   "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.": "一个专为与 Stitch MCP 服务器配合使用而设计的 Agent Skill 库。每项技能均遵循 Agent Skills 开放标准，以便与 Antigravity、Gemini CLI、Claude Code、Cursor 等编程代理兼容。",
   "A step toward defining the Standard Model on a lattice": "朝着在格点上定义标准模型迈出的一步",
   "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.": "探索标准模型的候选非微扰格定义，以及GPT-6 Astra如何帮助将这一想法转化为详细的证明。",
-  "Chrome DevTools for coding agents": "适用于编码代理的 Chrome DevTools"
+  "Chrome DevTools for coding agents": "适用于编码代理的 Chrome DevTools",
+  "NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0": "NVIDIA Vera Rubin NVL72 在 MLPerf 端点 v1.0 中引领智能体推理性能",
+  "Agentic workloads are demanding more from inference systems. AI agents carry growing conversation histories across turns and generate a mix of reasoning, tool...": "智能体工作负载对推理系统的要求越来越高。AI 代理在多轮对话中承载着不断增长的对话历史，并生成推理、工具……的组合。",
+  "Broadening access to AI for scientists": "拓宽科学家使用人工智能的途径",
+  "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.": "我们正在扩展“面向学术研究人员的ChatGPT”计划，以便为全球20万名研究人员提供对我们前沿模型的免费访问权限。",
+  "GitHub Copilot models deprecated on November 16, 2026": "GitHub Copilot 模型将于 2026 年 11 月 16 日弃用",
+  "As of today, November 16, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Note… The post GitHub Copilot models deprecated on November 16, 2026 appeared first on The GitHub Blog .": "截至今天（2026 年 11 月 16 日），我们已在大多数 GitHub Copilot 体验（包括 Copilot Chat、内联编辑、提问和代理模式以及代码补全）中弃用以下模型。请注意……文章《GitHub Copilot 模型将于 2026 年 11 月 16 日弃用》最初发布在 GitHub 博客上。",
+  "Bulk start AI Scan for repositories": "批量启动存储库的 AI 扫描",
+  "AI Scan for repositories finds security vulnerabilities on your repository’s default branch. It covers languages CodeQL doesn’t support and finds additional issues in languages CodeQL already analyzes. Findings appear in… The post Bulk start AI Scan for repositories appeared first on The GitHub Blog .": "针对代码仓库的AI扫描会在您代码仓库的默认分支上发现安全漏洞。它涵盖了 CodeQL 不支持的语言，并在 CodeQL 已分析的语言中发现其他问题。结果显示在……这篇文章《批量启动代码仓库的AI扫描》最初发布在GitHub博客上。",
+  "Take GitHub Mobile with you on iPhone Duo": "在 iPhone Duo 上随身携带 GitHub Mobile",
+  "GitHub Mobile now supports iPhone Duo, with a layout that adapts when unfolded and vertical tabs to help you move between key areas like Copilot, Pull Requests, Issues, and Notifications.… The post Take GitHub Mobile with you on iPhone Duo appeared first on The GitHub Blog .": "GitHub Mobile现已支持iPhone Duo，其布局可在展开时进行自适应，并提供垂直选项卡，帮助您在Copilot、拉取请求、问题和通知等关键区域之间切换。……这篇文章《在iPhone Duo上使用GitHub Mobile》最初发布在GitHub博客上。"
 }
