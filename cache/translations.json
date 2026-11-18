@@ -284,5 +284,11 @@
   "Introducing GPT-6.2 Astra and Sol": "隆重推出 GPT-6.2 Astra 和 Sol",
   "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.": "隆重推出 GPT‑6.2 Astra 和 Sol，在 ChatGPT Work、Codex 和 API 中以更低的成本提供更出色的专业输出、编码、计算机使用和效率。",
   "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available": "OpenAI的GPT-6.2 Astra和GPT-6.2 Sol现已推出",
-  "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol are now generally available in GitHub Copilot. Both models are designed for agentic coding and code review, with stronger coding judgment than earlier GPT-6… The post OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available appeared first on The GitHub Blog .": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已在 GitHub Copilot 中全面推出。这两个模型均专为代理式编码和代码审查而设计，其编码判断能力比早期的GPT-6更强……文章《OpenAI的GPT-6.2 Astra和GPT-6.2 Sol现已推出》最初发布于GitHub博客。"
+  "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol are now generally available in GitHub Copilot. Both models are designed for agentic coding and code review, with stronger coding judgment than earlier GPT-6… The post OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available appeared first on The GitHub Blog .": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已在 GitHub Copilot 中全面推出。这两个模型均专为代理式编码和代码审查而设计，其编码判断能力比早期的GPT-6更强……文章《OpenAI的GPT-6.2 Astra和GPT-6.2 Sol现已推出》最初发布于GitHub博客。",
+  "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos": "在 NVIDIA Cosmos 中使用两个提示构建可用于训练的物理 AI 数据集",
+  "World model accuracy starts with high-quality, diverse training datasets. Yet capturing rare defects, nighttime incidents, and other challenging scenarios is...": "世界模型的准确性始于高质量、多样化的训练数据集。然而，捕捉罕见的缺陷、夜间事故和其他具有挑战性的场景是……",
+  "Cursor plugin specification and official plugins": "Cursor 插件规范和官方插件",
+  "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/": "“CLI-Anything：让所有软件都具备原生代理功能” -- CLI-Hub：https://clianything.cc/",
+  "Security risk assessments run automatically on GitHub Team": "安全风险评估在 GitHub 团队中自动运行",
+  "GitHub security risk assessments now run automatically for organizations on GitHub Team. Organization admins and security managers can review findings from the free assessments to identify exposed credentials and code… The post Security risk assessments run automatically on GitHub Team appeared first on The GitHub Blog .": "GitHub安全风险评估现已针对GitHub Team上的组织自动运行。组织管理员和安全经理可以查看免费评估的结果，以识别泄露的凭据和代码……文章《安全风险评估在GitHub Team上自动运行》最初发布于GitHub博客。"
 }
