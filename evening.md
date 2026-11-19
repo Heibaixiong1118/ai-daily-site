@@ -1,75 +1,77 @@
-晚间简报 · 08:30 后新增要闻 · 2026-11-18
+晚间简报 · 08:30 后新增要闻 · 2026-11-19
 
-1. [晚间新增][模型与产品][重要] OpenAI 发布 GPT-6.2 Astra 和 Sol：更便宜但口碑分化，Anthropic 仍握最强模型
-   Latent Space 汇总 OpenAI 发布的 GPT-6.2 Astra 和 Sol：Artificial Analysis 测得 Sol 以约 15% 的单任务成本追平 9 月的 Astra，新 Astra 以 62 分位居 Intelligence Index 第二，仅次于 Fable 5.2 的 65 分，两者均为 1M 上下文、128K 输出。
-   筛选分：83.0/100 · AIHOT 精选评分
-   来源：Latent Space（RSS） · 11-18 18:19 · 聚合精选 · 原始链接
-   原文：https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/
+1. [晚间新增][行业、政策与生态][高重要度] Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%
+   Anthropic 在纳斯达克完成 IPO，开盘几分钟内股价达 111.50 美元，较 83 美元发行价高出 33%，发行价已超过公司此前 70 至 78 美元的预期区间。本次发行募资超过 810 亿美元，叠加同期私募融资后公司现金储备预计达 2200 亿美元；按开盘价计算市值超过 2 万亿美元，CEO Dario Amodei 在开盘致辞中强调公司对安全的承诺。
+   筛选分：90.0/100 · AIHOT 精选评分
+   来源：TechCrunch：AI（RSS） · 11-20 00:59 · 聚合精选 · 原始链接
+   原文：https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/
 
-2. [晚间新增][行业、政策与生态][重要] Nvidia 临时 CEO Colette Kress 表示董事会不会恢复黄仁勋的 CEO 职务
-   Nvidia 临时 CEO Colette Kress 在 Jim Cramer 的节目上表示，董事会已决定不会恢复黄仁勋（Jensen）的 CEO 职务，称这就是董事会的决定和官方声明。此前董事 Harvey Jones 在昨天的首次财报电话会上表示，董事会一致接受其辞职且无意让其复任。完整采访见 CNBC Mad Money，完整视频见 CNBC Television YouTube 频道。
-   筛选分：89.0/100 · AIHOT 精选评分
-   来源：X：Rohan Paul (@rohanpaul_ai) · 11-18 13:30 · 聚合精选 · 原始链接
-   原文：https://x.com/rohanpaul_ai/status/2122925474485870983
+2. [晚间新增][行业、政策与生态][重要] indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟
+   indigo 转发 @YahooFinance 的画面，Dario Amodei 在 Nasdaq 为 Anthropic IPO 敲响开市钟。作者恭喜这家最"人类"的科技公司上市，并调侃其敲钟鼓掌的样子怎么像是 AI 生成的。
+   筛选分：86.0/100 · AIHOT 精选评分
+   来源：X：indigo (@indigox) · 11-20 01:14 · 聚合精选 · 原始链接
+   原文：https://x.com/indigox/status/2123464879961186584
 
-3. [晚间新增][论文与研究][重要] Wiz 披露 NGINX 两个 HTTP/2 无需认证远程代码执行漏洞 CVE-2026-123633 与 CVE-2026-123007
-   Wiz Research 与 Ikotas Labs、Rapid7 等团队独立发现 NGINX 两个 Critical 远程代码执行漏洞，CVSS 4.0 评分 9.2，已与 F5 协调并于 2026-11-18 发布修复。
-   筛选分：84.0/100 · AIHOT 精选评分
-   来源：Wiz：Research（安全研究） · 11-18 23:13 · 聚合精选 · 原始链接
-   原文：https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities
+3. [晚间新增][行业、政策与生态][重要] Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元
+   TechCrunch 分析 Anthropic IPO 如何检验 AI 行业的循环融资模式。Amazon 14.7% 股份价值超 1590 亿美元，Google 13.7% 股份约 1490 亿美元；Nvidia、AMD、Microsoft、Broadcom、Micron、TSMC 还以 83 美元/股参与 260 亿美元私募。
+   筛选分：85.0/100 · AIHOT 精选评分
+   来源：TechCrunch：AI（RSS） · 11-19 22:54 · 聚合精选 · 原始链接
+   原文：https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/
 
-4. [晚间新增][GitHub][今日热门] HKUDS/CLI-Anything
-   用途：“CLI-Anything：让所有软件都具备原生代理功能” -- CLI-Hub：https://clianything.cc/ · 语言：Python · 今日新增 384 stars
-   筛选分：83.6/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-19 03:15 · GitHub 今日趋势 · 机器翻译
-   原文：https://github.com/HKUDS/CLI-Anything
+4. [晚间新增][GitHub][今日热门] elementalsouls/Claude-BugHunter
+   用途：用于漏洞挖掘和外部红队工作的 Claude Code 技能包——82 项技能、15 个斜杠命令、681 个披露报告模式（涵盖 24 个核心漏洞类别），以及企业身份 + 基础设施攻击矩阵。 · 语言：Python · 今日新增 1,353 stars
+   筛选分：86.0/100 · 来源权重10 · 信源靠前 · 近时更新
+   来源：GitHub Trending · 11-20 03:22 · GitHub 今日趋势 · 机器翻译
+   原文：https://github.com/elementalsouls/Claude-BugHunter
 
-5. [晚间新增][GitHub][官方更新] 安全风险评估在 GitHub 团队中自动运行
-   GitHub安全风险评估现已针对GitHub Team上的组织自动运行。组织管理员和安全经理可以查看免费评估的结果，以识别泄露的凭据和代码……文章《安全风险评估在GitHub Team上自动运行》最初发布于GitHub博客。
-   原文标题：Security risk assessments run automatically on GitHub Team
-   筛选分：83.1/100 · 来源权重9 · 信源靠前 · 近时更新
-   来源：GitHub Changelog · 11-19 00:54 · GitHub 官方更新日志 · 机器翻译
-   原文：https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team
+5. [晚间新增][GitHub][官方更新] Azure DevOps 企业级实时迁移现已正式推出
+   从Azure DevOps Services到GitHub Enterprise Cloud的企业实时迁移（ELM）（含数据驻留）现已正式发布。您可以在团队继续工作的同时迁移您的代码仓库，然后……文章《从Azure DevOps进行企业实时迁移现已正式发布》最初发布于GitHub博客。
+   原文标题：Enterprise Live Migrations from Azure DevOps generally available
+   筛选分：83.4/100 · 来源权重9 · 信源靠前 · 近时更新
+   来源：GitHub Changelog · 11-20 02:50 · GitHub 官方更新日志 · 机器翻译
+   原文：https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available
 
-6. [晚间新增][国内][政策] “国常会上有人表态不会再频繁救市了”系谣言
-   中新社北京11月18日电 (记者 陈康亮)中国资本市场辟谣平台18日发布消息称，近日，互联网上传播关于“国常会(国务院常务会议)上有人表态不会再频繁救市了”相关信息。经核查，该信息为谣言。
-   筛选分：97.1/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：国务院、发布、市场 · 国内类别：policy
-   来源：中新网 财经 · 11-18 22:54 · 中国新闻网财经新闻
-   原文：https://www.chinanews.com.cn/cj/2026/11-18/10734213.shtml
+6. [晚间新增][国内][科技] （深圳APEC）外媒聚焦APEC：开放合作为亚太发展凝聚共识
+   中新社北京11月19日电 综合消息：亚太经合组织(APEC)第三十三次领导人非正式会议18日至19日在中国深圳举行。多家外媒聚焦深圳科技创新与城市发展，关注会议释放的开放合作信号，认为维护贸易开放、深化区域合作、推动创新发展，仍是亚太经济体的共同关切。
+   筛选分：100.0/100 · 来源权重5 · 信源靠前 · 近时更新 · 关键词：经济、贸易、科技 · 国内类别：tech
+   来源：中新网 滚动 · 11-19 23:45 · 中国新闻网滚动新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-19/10734981.shtml
 
-7. [晚间新增][国内][综合] 习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会
-   筛选分：89.6/100 · 来源权重10 · 信源靠前 · 近时更新 · 关键词：会议 · 国内类别：other · 多源交叉2家
-   来源：中国政府网 要闻 · 11-18 08:00 · 中国政府网
-   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7086589.htm
+7. [晚间新增][国内][科技] 彭丽媛同亚太经合组织经济体领导人或代表配偶参观“岭南非遗传承与创新”主题展
+   筛选分：90.2/100 · 来源权重10 · 信源靠前 · 近时更新 · 关键词：经济 · 国内类别：tech · 多源交叉2家
+   来源：中国政府网 要闻 · 11-19 08:00 · 中国政府网
+   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7086738.htm
 
-8. [晚间新增][国内][综合] 2026年APEC工商领导人峰会发布深圳倡议
-   筛选分：88.0/100 · 来源权重10 · 信源靠前 · 近时更新 · 关键词：发布 · 国内类别：other · 多源交叉2家
-   来源：中国政府网 要闻 · 11-18 08:00 · 中国政府网
-   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7086571.htm
+8. [晚间新增][国内][财经] （深圳APEC）2026年亚太经合组织领导人深圳展望发布
+   中新社深圳11月19日电 2026年亚太经合组织领导人深圳展望19日发布。展望重申，亚太经合组织是区域经济合作的首要平台，将遵循自主自愿、非约束性和协商一致的合作原则，致力于将亚太经合组织打造成一个更加现代、高效、务实的理念孵化器。
+   筛选分：89.0/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：发布、经济、合作 · 国内类别：economy · 多源交叉2家
+   来源：中新网 国内 · 11-19 22:37 · 中国新闻网国内新闻
+   原文：https://www.chinanews.com.cn/gn/2026/11-19/10734961.shtml
 
-9. [晚间新增][世界][重要] 日本新潟县佐渡附近发生5.0级地震
-   中新网东京11月18日电 (记者 朱晨曦)据日本气象厅消息，当地时间18日18时37分(北京时间17时37分)，日本新潟县佐渡附近发生5.0级地震。日本气象厅说该地震不会引发海啸。
-   筛选分：88.4/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：地震
-   来源：中新网 世界 · 11-18 21:45 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-18/10734352.shtml
+9. [晚间新增][世界][高重要度] 货币基金组织总裁：人工智能将成为影响全球竞争力和经济增长的重要因素
+   国际货币基金组织总裁格奥尔基耶娃周四在中国深圳举行的2026年亚太经合组织经济领导人会议上表示，人工智能正在对全球经济增长产生实质性影响，将成为影响中期竞争力、生产率和经济增长的重要因素。她同时指出，全球通胀上升、公共债务增加以及结构性改革滞后等问题仍对经济前景构成挑战，各国需要加快采取政策行动。
+   筛选分：100.0/100 · 来源权重9 · 信源靠前 · 近时更新 · 关键词：政策、经济、人工智能
+   来源：联合国新闻 中文 · 11-19 20:00 · 联合国新闻
+   原文：https://news.un.org/feed/view/zh/story/2026/11/1143226
 
-10. [晚间新增][世界][重要] 新加坡总理发文称赞深圳的变化令人瞩目，期待在APEC会议与各方交流
-   中新网11月18日电 综合报道，新加坡总理黄循财18日在社交媒体上发文称，他到中国深圳出席亚太经济合作组织(APEC)领导人非正式会议，并称期待与有关方展开富有成效的讨论。
-   筛选分：87.4/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：经济、合作、会议
-   来源：中新网 世界 · 11-18 19:35 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-18/10734301.shtml
+10. [晚间新增][世界][重要] 韩国前第一夫人金建希首案终审被判有期徒刑4年
+   中新社首尔11月19日电(金旭 林珺)韩国大法院(最高法院)19日就韩国前总统尹锡悦妻子金建希涉嫌操纵股价、收受贿赂等案件作出终审判决，判处其有期徒刑4年，并处罚金5000万韩元(约合人民币25万元)。这是韩国最高法院首次就金建希相关案件作出裁定。
+   筛选分：82.4/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：法院
+   来源：中新网 世界 · 11-19 21:54 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-19/10734932.shtml
 
-11. [晚间新增][世界][重要] 外媒聚焦APEC盛会：相约深圳，中国为世界带来新机遇
-   中新网11月18日电 亚太经合组织(APEC)第三十三次领导人非正式会议将于11月18日至19日在深圳举行。本次APEC盛会持续引发国际媒体广泛关注。多家外媒认为，中国始终致力于推动亚太走开放合作之路，为世界经济发展带来新机遇，注入新动力。
-   筛选分：83.9/100 · 来源权重7 · 近时更新 · 关键词：经济、合作、会议
-   来源：中新网 世界 · 11-18 16:20 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-18/10734139.shtml
+11. [晚间新增][世界][重要] 深耕中国、看好深圳：美国工商界人士期待借APEC深化中美经贸合作
+   中新网深圳11月19日电（张东方 戴悦 宫宏宇）2026年APEC领导人会议周期间，多位美国工商界人士接受记者采访时表示，APEC是推动区域贸易便利化、加强政策沟通协调的重要平台，期待依托这一机制，在数字支付、无纸化贸易等多领域深化合作。
+   筛选分：80.9/100 · 来源权重7 · 近时更新 · 关键词：政策、贸易、合作
+   来源：中新网 世界 · 11-19 11:49 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-19/10734557.shtml
 
-12. [晚间新增][战争与冲突][高重要度] 原子能机构：伊朗核查工作陷入停滞 乌克兰核设施安全风险持续加剧
-   国际原子能机构总干事格罗西周三在维也纳向理事会介绍机构工作情况时表示，伊朗核查监督工作因无法获取相关信息和进入核设施而陷入停滞，乌克兰军事冲突持续威胁核设施安全，朝鲜核计划也在进一步推进。与此同时，全球核电发展势头增强，原子能机构将继续推动核能和平利用和核技术国际合作。
-   筛选分：100.0/100 · 来源权重9 · 信源靠前 · 近时更新 · 关键词：冲突、安全、合作
-   来源：联合国新闻 中文 · 11-18 20:00 · 联合国新闻
-   原文：https://news.un.org/feed/view/zh/story/2026/11/1143220
+12. [晚间新增][战争与冲突][机器翻译] 联合国最高法院裁定缅甸对罗兴亚少数民族实施种族灭绝
+   国际法院的这一前所未有的判决涉及2017年造成数千人死亡的军事镇压。
+   原文标题：Myanmar committed genocide against Rohingya minority, top UN court rules
+   筛选分：80.6/100 · 来源权重8 · 信源靠前 · 近时更新
+   来源：BBC World · 11-20 00:55 · BBC 国际新闻 · 机器翻译
+   原文：https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss
 
 晚间在线版：https://heibaixiong1118.github.io/ai-daily-site/evening.html
 
@@ -77,24 +79,24 @@
 
 信源状态
 
-- AIHOT 日报：正常 · 2026-11-18
+- AIHOT 日报：正常 · 2026-11-19
 - AIHOT 精选 API：正常 · 新增候选 19
-- OpenAI News：正常 · 48小时内 9 条
-- Google DeepMind Blog：正常 · 48小时内无符合栏目的内容
+- OpenAI News：正常 · 48小时内 8 条
+- Google DeepMind Blog：正常 · 48小时内 1 条
 - NVIDIA Developer Blog：正常 · 48小时内 5 条
-- GitHub Trending：正常 · 48小时内 20 条
-- GitHub Weekly Trending：正常 · 48小时内 16 条
-- GitHub Changelog：正常 · 48小时内 10 条
-- GitHub Blog：正常 · 48小时内 2 条
-- 中国政府网 要闻：正常 · 48小时内 45 条
+- GitHub Trending：正常 · 48小时内 16 条
+- GitHub Weekly Trending：正常 · 48小时内 13 条
+- GitHub Changelog：正常 · 48小时内 9 条
+- GitHub Blog：正常 · 48小时内 1 条
+- 中国政府网 要闻：正常 · 48小时内 36 条
 - 中新网 国内：正常 · 48小时内 30 条
 - 中新网 财经：正常 · 48小时内 30 条
-- 中新网 滚动：正常 · 48小时内 29 条
+- 中新网 滚动：正常 · 48小时内 28 条
 - 中新网 世界：正常 · 48小时内 30 条
-- The Guardian China：正常 · 48小时内 6 条
-- BBC World：正常 · 48小时内 33 条
-- 联合国新闻 中文：正常 · 48小时内 8 条
+- The Guardian China：正常 · 48小时内 13 条
+- BBC World：正常 · 48小时内 35 条
+- 联合国新闻 中文：正常 · 48小时内 7 条
 - GitHub 下载热度：已核对 8 个项目
 - 多源交叉：11 条获得重要性加成
 - 质量门槛：保留 26/40 条
-- 中文翻译：成功 12 条
+- 中文翻译：成功 1 条
