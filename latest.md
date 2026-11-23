@@ -1,157 +1,123 @@
-每日简报 · AI / 国内 / 世界 / 战争与冲突 · 2026-11-22
+每日简报 · AI / 国内 / 世界 / 战争与冲突 · 2026-11-23
 
-1. [今日重点][高重要度] Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿
-   Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。
+1. [今日重点][高重要度] OpenAI 提议以困惑度作为行业共享指标并公开内部预训练测量数据
+   OpenAI 撰文提议将 perplexity（交叉熵损失）确立为跨模型开发者比较和安全标准的共享指标，并公开其内部预训练测量数据。
    筛选分：100.0/100 · AIHOT 日报头条
-   来源：AIHOT 日报 · 11-22 08:00 · 聚合策展 · 请回原文核验
-   原文：https://aihot.news/daily/2026-11-22
+   来源：AIHOT 日报 · 11-23 08:00 · 聚合策展 · 请回原文核验
+   原文：https://aihot.news/daily/2026-11-23
 
-2. [模型与产品][高重要度] Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug
-   Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台（模型串 Qwen/Qwen4-Max），1M token 上下文，截至 2026 年 11 月 22 日 7 折。
+2. [行业、政策与生态][高重要度] MiniCPM 8B 成为老挝国家模型，端侧小模型加速落地多国
+   面壁智能转发并认同 @xiaoanlab 对 MiniCPM 端侧落地的观察：截至 2026 年 11 月 MiniCPM 下载量超过 7000 万，其 8B 老挝国家模型接入老挝政府 G-Chat v2 通讯软件，老挝翻译在国际基准上超过 GPT-4o。马来西亚用 VoxCPM2 做语音交互，肯尼亚一家银行在其上运行端侧风控 Agent，开发者基于它推出离线应用；小模型之争正从参数量转向谁真正嵌入日常系统。
    筛选分：92.0/100 · AIHOT 日报精编
-   来源：Together AI 研究与产品博客（RSS） · 聚合策展 · 原始链接
-   原文：https://www.together.ai/blog/qwen4-max
+   来源：X：面壁智能 OpenBMB (@OpenBMB) · 聚合策展 · 原始链接
+   原文：https://x.com/OpenBMB/status/2124464239670964531
 
-3. [行业、政策与生态][高重要度] Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件
-   Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。
-   筛选分：90.5/100 · AIHOT 日报精编
-   来源：Together AI 研究与产品博客（RSS） · 聚合策展 · 原始链接
-   原文：https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026
+3. [行业、政策与生态][重要] Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确
+   Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge 的黎曼猜想证明正确。Alpöge 于 2026 年 11 月 20 日以 1700 万行 Lean 代码发布该证明，数十人独立运行得到相同结果，且验证程序被设计为可证明不会接受有缺陷的证明。
+   筛选分：85.0/100 · AIHOT 精选评分
+   来源：The Decoder：AI News（RSS） · 11-22 19:08 · 聚合精选 · 原始链接
+   原文：https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/
 
-4. [论文与研究][重要] 研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露
-   研究者在经过 OpenRouter 等 AI 路由的请求中埋入 200 万个金丝雀链接，测试敏感信息是否会沿 AI 服务链泄露，结果显示这些数据像筛子一样大量外泄。
-   筛选分：87.5/100 · AIHOT 日报精编
-   来源：Ars Technica：AI（RSS） · 聚合策展 · 原始链接
-   原文：https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/
+4. [教程与观点][重要] 用户实测用 MiniCPM5-2B 在 Mac 上本地跑通体检报告分析
+   用户@cxjwin 分享在 Mac（M4 Pro、48GB）上用 Homebrew 装 llama.cpp 跑 minicpm5-2b、colima 起 Docker 本地运行开源项目 Mirobody 的实测：14 页 PDF 首次处理漏掉 3 页扫描版化验单，截图单独上传后 58 行化验数值逐项与原件对上，其中 20 行成功映射到 LOINC 标准编码，肌酐因名称歧义留空未猜。问超标指标时 2B 模型走 11 步找到全部 5 项箭头指标，但把一项在范围内的血糖误判为超标。接 Claude Code 时改用演示账号避免数据上传。Mirobody 由…
+   筛选分：89.0/100 · AIHOT 日报精编
+   来源：X：面壁智能 OpenBMB (@OpenBMB) · 聚合策展 · 原始链接
+   原文：https://x.com/OpenBMB/status/2124461770043785636
 
-5. [论文与研究][重要] Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限
-   Columbia 和 MIT 的论文展示 Claude 发现的算法在 3SUM 和全对最短路径（APSP）上取得多项式改进，3SUM 达到 O(n^1.9992)、APSP 达到 O(n^2.9995)，推翻了 3SUM 和 APSP 假设。
-   筛选分：86.0/100 · AIHOT 日报精编
-   来源：X：Rohan Paul (@rohanpaul_ai) · 聚合策展 · 原始链接
-   原文：https://x.com/rohanpaul_ai/status/2124213113583174076
+5. [教程与观点][重要] 菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可
+   2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德（James Maynard）在采访中表示，他认为 Anthropic 数学家莱文特·阿尔珀格（Levent Alpöge）与 Claude 合作完成的黎曼猜想证明是正确的，依据是该证明已通过 Lean 库形式化验证并经独立核实，且阿尔珀格过往有可靠记录。
+   筛选分：85.0/100 · AIHOT 精选评分
+   来源：IT之家·人工智能 · 11-22 17:35 · 聚合精选 · 原始链接
+   原文：https://www.ithome.com/1/030/677.htm
 
 6. [GitHub][今日热门][机器翻译] elementalsouls/Claude-BugHunter
-   用途：用于漏洞挖掘和外部红队工作的 Claude Code 技能包——82 项技能、15 个斜杠命令、681 个披露报告模式（涵盖 24 个核心漏洞类别），以及企业身份 + 基础设施攻击矩阵。 · 语言：Python · 今日新增 1,803 stars
+   用途：用于漏洞挖掘和外部红队工作的 Claude Code 技能包——82 项技能、15 个斜杠命令、681 个披露报告模式（涵盖 24 个核心漏洞类别），以及企业身份 + 基础设施攻击矩阵。 · 语言：Python · 今日新增 1,716 stars
    筛选分：86.0/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-22 08:31 · GitHub 今日趋势 · 机器翻译
+   来源：GitHub Trending · 11-23 08:31 · GitHub 今日趋势 · 机器翻译
    原文：https://github.com/elementalsouls/Claude-BugHunter
 
 7. [GitHub][今日热门][机器翻译] obra/superpowers
-   用途：有效的代理技能框架和软件开发方法。 · 语言：Shell · 今日新增 883 stars
+   用途：有效的代理技能框架和软件开发方法。 · 语言：Shell · 今日新增 788 stars
    筛选分：84.8/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-22 08:31 · GitHub 今日趋势 · 机器翻译
+   来源：GitHub Trending · 11-23 08:31 · GitHub 今日趋势 · 机器翻译
    原文：https://github.com/obra/superpowers
 
 8. [GitHub][今日热门][机器翻译] HKUDS/CLI-Anything
-   用途：“CLI-Anything：让所有软件都具备原生代理功能” -- CLI-Hub：https://clianything.cc/ · 语言：Python · 今日新增 769 stars
+   用途：“CLI-Anything：让所有软件都具备原生代理功能” -- CLI-Hub：https://clianything.cc/ · 语言：Python · 今日新增 699 stars
    筛选分：83.6/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-22 08:31 · GitHub 今日趋势 · 机器翻译
+   来源：GitHub Trending · 11-23 08:31 · GitHub 今日趋势 · 机器翻译
    原文：https://github.com/HKUDS/CLI-Anything
 
 9. [GitHub][近日关注][机器翻译] dream-num/univer
-   用途：使用 Univer Office SDK 构建您自己的 AI Office。将编辑、计算、协作和文件处理功能集成到您的产品中，供人和 AI 代理使用。基于可扩展的开源核心构建。 · 语言：TypeScript · 本周新增 7,240 stars
+   用途：使用 Univer Office SDK 构建您自己的 AI Office。将编辑、计算、协作和文件处理功能集成到您的产品中，供人和 AI 代理使用。基于可扩展的开源核心构建。 · 语言：TypeScript · 本周新增 6,436 stars
    筛选分：70.3/100 · 来源权重9 · 近时更新 · 近期关注最高
-   来源：GitHub Weekly Trending · 11-22 08:31 · GitHub 本周趋势 · 机器翻译
+   来源：GitHub Weekly Trending · 11-23 08:31 · GitHub 本周趋势 · 机器翻译
    原文：https://github.com/dream-num/univer
 
 10. [GitHub][下载最高][机器翻译] backnotprop/plannotator
-   用途：用于随时掌握最新动态并掌控代理的工作空间——塑造、决策、规划、注释、审核代码、与团队共享，并一键将所有反馈发送给代理。 · 语言：TypeScript · 本周新增 3,396 stars · 近30天Release资产下载 54,958
-   筛选分：88.5/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载54,958
-   来源：GitHub Weekly Trending · 11-22 08:31 · GitHub 本周趋势 · 机器翻译
+   用途：用于随时掌握最新动态并掌控代理的工作空间——塑造、决策、规划、注释、审核代码、与团队共享，并一键将所有反馈发送给代理。 · 语言：TypeScript · 本周新增 2,815 stars · 近30天Release资产下载 55,803
+   筛选分：88.5/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载55,803
+   来源：GitHub Weekly Trending · 11-23 08:31 · GitHub 本周趋势 · 机器翻译
    原文：https://github.com/backnotprop/plannotator
 
-11. [GitHub][官方更新][机器翻译] 安全建议权限现已正式推出
-   组织所有者现在可以通过自定义仓库角色，让人们处理仓库安全建议，包括私有漏洞报告。您不再需要将他们设为代码仓库管理员或授予…… 博文《安全建议权限现已正式推出》最初发布于GitHub博客。
-   筛选分：79.1/100 · 来源权重9 · 信源靠前
-   原文标题：Security advisory permissions are now generally available
-   来源：GitHub Changelog · 11-21 05:49 · GitHub 官方更新日志 · 机器翻译
-   原文：https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available
-
-12. [GitHub][官方更新][机器翻译] GitHub Enterprise Server 3.23 候选版本
-   GitHub Enterprise Server (GHES) 3.23现已发布，并在整个平台上引入了新功能。以下是3.23版本的一些亮点：在使用GitHub项目时，您……这篇文章《GitHub Enterprise Server 3.23候选版本》最初发布在GitHub博客上。
-   筛选分：77.7/100 · 来源权重9 · 信源靠前
-   原文标题：GitHub Enterprise Server 3.23 release candidate
-   来源：GitHub Changelog · 11-21 04:41 · GitHub 官方更新日志 · 机器翻译
-   原文：https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate
-
-13. [GitHub][官方更新][机器翻译] 将您最喜爱的代码仓库置顶到您的仪表板
-   使用新的“收藏的仓库”版块，选择要在仪表板上显示的仓库。如果未启用新的仪表板体验，“热门仓库”将保持不变。选择“编辑”或“添加代码仓库”以……这篇文章《将您最喜爱的代码仓库置顶到仪表板》最初发表在 GitHub 博客上。
-   筛选分：75.4/100 · 来源权重9 · 信源靠前
-   原文标题：Pin your favorite repositories to your dashboard
-   来源：GitHub Changelog · 11-20 22:12 · GitHub 官方更新日志 · 机器翻译
-   原文：https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard
-
-14. [GitHub][官方更新][机器翻译] GitHub Desktop 现在支持每个主机使用多个账户
-   GitHub Desktop 现在允许您在同一主机上使用多个账户登录，包括 GitHub.com、GitHub Enterprise Server 和 GHE.com。这是最……之一。文章“GitHub Desktop 现在支持每个主机使用多个账户”最初发布于 GitHub 博客。
-   筛选分：72.2/100 · 来源权重9 · 信源靠前
-   原文标题：GitHub Desktop now supports multiple accounts per host
-   来源：GitHub Changelog · 11-20 10:06 · GitHub 官方更新日志 · 机器翻译
-   原文：https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host
-
-15. [GitHub][本周热门][机器翻译] alibaba/open-code-review
-   用途：安全、快速、高效，经阿里巴巴规模的实战检验。混合架构代码审查工具：确定性管道 + LLM 代理、精确的行级注释、内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。 · 语言：Go · 本周新增 4,032 stars · 近30天Release资产下载 32,238
-   筛选分：84.9/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载32,238
-   来源：GitHub Weekly Trending · 11-22 08:31 · GitHub 本周趋势 · 机器翻译
+11. [GitHub][本周热门][机器翻译] alibaba/open-code-review
+   用途：安全、快速、高效，经阿里巴巴规模的实战检验。混合架构代码审查工具：确定性管道 + LLM 代理、精确的行级注释、内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。 · 语言：Go · 本周新增 3,700 stars · 近30天Release资产下载 31,783
+   筛选分：84.9/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载31,783
+   来源：GitHub Weekly Trending · 11-23 08:31 · GitHub 本周趋势 · 机器翻译
    原文：https://github.com/alibaba/open-code-review
 
-16. [国内][政策][高重要度] 外媒记者看深圳：一座实至名归的“APEC之城”
-   国际在线消息(记者 谢诗佳 冯启坤)：亚太经合组织第三十三次领导人非正式会议日前圆满落下帷幕。在外媒记者眼中，APEC会议既是记录亚太合作进程的现场，也是观察中国改革开放、科技创新与城市发展的窗口。他们认为，深圳作为APEC举办城市实至名归。深圳现代化的城市风貌、随处可见的科技应用、便捷的交通和友善的市民，都给他们留下了深刻印象。有记者表示，希望把深圳在科技创新和城市长远规划方面的经验介绍给本国读者。
-   筛选分：94.1/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：规划、科技、合作 · 国内类别：policy
-   来源：中新网 国内 · 11-21 20:59 · 中国新闻网国内新闻
-   原文：https://www.chinanews.com.cn/gn/2026/11-21/10735905.shtml
+12. [GitHub][今日热门][重要] jingyaogong/minimind
+   用途：🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. · 语言：Python · 今日新增 473 stars
+   筛选分：82.4/100 · 来源权重10 · 信源靠前 · 近时更新
+   来源：GitHub Trending · 11-23 08:31 · GitHub 今日趋势
+   原文：https://github.com/jingyaogong/minimind
 
-17. [国内][财经][高重要度] 10月份工业经济总体平稳 发展质量持续提升
-   筛选分：90.7/100 · 来源权重10 · 信源靠前 · 关键词：经济、发展 · 国内类别：economy
-   来源：中国政府网 要闻 · 11-21 08:00 · 中国政府网
-   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7086999.htm
+13. [GitHub][今日热门][机器翻译] cursor/plugins
+   用途：Cursor 插件规范和官方插件 · 语言：TypeScript · 今日新增 294 stars
+   筛选分：81.2/100 · 来源权重10 · 信源靠前 · 近时更新
+   来源：GitHub Trending · 11-23 08:31 · GitHub 今日趋势 · 机器翻译
+   原文：https://github.com/cursor/plugins
 
-18. [国内][财经][重要] 中国驻沙特大使馆再次提醒在沙中资机构和中国公民注意安全
-   中新网11月21日电 据中国驻沙特大使馆微信公众号消息，近来，沙特首都利雅得等多地频繁遭导弹和无人机袭击。据媒体报道，部分袭击造成人员伤亡，有机场、建筑物、能源电力设施等受损，局部地区出现短时停水电断网等情况。多地学校继续线上授课，部分当地机构和企业人员居家办公。利雅得哈立德国王国际机场部分恢复运营，但多地机场航班经常出现异常。局势还有可能进一步恶化。
-   筛选分：85.6/100 · 来源权重6 · 近时更新 · 关键词：袭击、导弹、伤亡 · 国内类别：economy
-   来源：中新网 国内 · 11-21 18:23 · 中国新闻网国内新闻
-   原文：https://www.chinanews.com.cn/gn/2026/11-21/10735774.shtml
+14. [GitHub][本周热门][机器翻译] GoogleChrome/modern-web-guidance-src
+   用途：让您的编码代理始终掌握最新的网络最佳实践 · 语言：TypeScript · 本周新增 3,575 stars
+   筛选分：81.1/100 · 来源权重9 · 信源靠前 · 近时更新
+   来源：GitHub Weekly Trending · 11-23 08:31 · GitHub 本周趋势 · 机器翻译
+   原文：https://github.com/GoogleChrome/modern-web-guidance-src
 
-19. [国内][社会][高重要度] 《创新职普融通》年度报告上海发布 AI时代职普融通成教育创新战略选择
-   中新网上海11月21日电(记者 陈静)长三角教育发展研究院《创新职普融通》年度报告(下称：报告)21日“出炉”。报告认为，人工智能时代的到来为破解教育困境带来重大契机，推进职业教育与普通教育的融合，引导学生“像科学家一样思考、像工程师一样实践”，坚持手脑并重、做学合一，已成为教育创新的必然战略选择。
-   筛选分：95.1/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：重大、发布、人工智能 · 国内类别：society
-   来源：中新网 财经 · 11-21 21:06 · 中国新闻网财经新闻
-   原文：https://www.chinanews.com.cn/cj/2026/11-21/10735892.shtml
+15. [GitHub][今日热门][机器翻译] firecrawl/firecrawl
+   用途：知识基础设施让您的座席变得更加聪明。通过一个 API 搜索、抓取和访问 550 多个数据提供商。 · 语言：TypeScript · 今日新增 915 stars
+   筛选分：80.0/100 · 来源权重10 · 信源靠前 · 近时更新
+   来源：GitHub Trending · 11-23 08:31 · GitHub 今日趋势 · 机器翻译
+   原文：https://github.com/firecrawl/firecrawl
 
-20. [世界][重要] 墨西哥抓获大毒枭“矮子伊西德罗”
-   新华社墨西哥城11月21日电(记者吴昊 翟淑睿)墨西哥国防部21日发布公报说，在墨美双边情报合作框架下，墨特种部队20日在西北部锡那罗亚州瓜萨韦市逮捕美国联邦调查局“十大通缉要犯”之一、绰号“矮子伊西德罗”的毒枭福斯托·伊西德罗。
-   筛选分：85.7/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：发布、合作
-   来源：中新网 世界 · 11-22 06:14 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-22/10735936.shtml
+16. [国内][财经][重要] 重大工程有序推进 助力经济民生发展
+   这几天，一批重大工程建设有序推进，未来将推动经济民生发展。
+   筛选分：88.2/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：重大、经济、发展 · 国内类别：economy
+   来源：中新网 财经 · 11-22 21:50 · 中国新闻网财经新闻
+   原文：https://www.chinanews.com.cn/cj/2026/11-22/10736202.shtml
 
-21. [世界][高重要度] 【世界进行时】2026年11月20日
-   本期要点：国际法院裁定缅甸对罗兴亚人实施种族灭绝；古特雷斯呼吁就“杀人机器人”制定具有法律约束力的文书；苏丹：无人机袭击激增对平民造成的致命影响；儿基会：全球每四分钟就有一名儿童死于暴力；联合国报告：干扰内分泌化学物质可能在出生前影响人体健康；经巴拿马北上人流减少九成，拉美移民转向新路线。
-   筛选分：93.2/100 · 来源权重9 · 信源靠前 · 关键词：袭击、法院
-   来源：联合国新闻 中文 · 11-20 20:00 · 联合国新闻
-   原文：https://news.un.org/feed/view/zh/story/2026/11/1143245
+17. [国内][财经][重要] 加强能源保供 全力保障群众温暖过冬
+   筛选分：85.3/100 · 来源权重10 · 信源靠前 · 关键词：能源 · 国内类别：economy
+   来源：中国政府网 要闻 · 11-22 08:00 · 中国政府网
+   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7087010.htm
 
-22. [世界][重要] 菲律宾达沃机场发生客机紧急迫降 146人安全撤离
-   中新网马尼拉11月21日电 一架从中国香港飞往巴布亚新几内亚的客机21日凌晨因右侧发动机出现火警警报，在菲律宾南部达沃国际机场紧急迫降。机上146名乘客及机组人员全部安全撤离，无人员受伤。初步检查发现，飞机右侧起落架4个机轮受损。
-   筛选分：85.3/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：紧急、安全
-   来源：中新网 世界 · 11-21 20:26 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-21/10735857.shtml
+18. [世界][重要] 特朗普点赞中俄美元首会晤气氛“热烈”，是“多年来最具重大意义”的国际会晤之一
+   中新网11月22日电 综合外媒报道，当地时间20日，美国总统特朗普在白宫举行的新闻发布会上表示，日前在中国深圳举行的亚太经合组织领导人非正式会议是一场非常成功的经济会议，美国、中国和俄罗斯三国领导人还举行了首次三方会晤，这是“多年来最具重大意义”的国际会晤之一。
+   筛选分：88.9/100 · 来源权重7 · 近时更新 · 关键词：重大、发布、经济
+   来源：中新网 世界 · 11-22 19:12 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-22/10736151.shtml
 
-23. [战争与冲突][高重要度] 伊朗革命卫队称袭击美军在巴林两处基地防空雷达
-   新华社德黑兰11月21日电(记者刁慧琳 沙达提)据伊朗伊斯兰共和国通讯社21日报道，伊朗伊斯兰革命卫队当天发表声明称，革命卫队航空航天部队使用导弹和无人机袭击了美国在巴林里法和阿瓦利两处军事基地的防空雷达。
-   筛选分：100.0/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：袭击、导弹、航天
-   来源：中新网 世界 · 11-22 06:10 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-22/10735934.shtml
+19. [世界][重要] 日本熊本县发生4.1级地震 多地有震感
+   中新网11月23日电 据日本广播协会(NHK)报道，当地时间23日2时46分左右，日本熊本县天草、芦北地区发生4.1级地震，震源深度10公里。
+   筛选分：86.7/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：地震
+   来源：中新网 世界 · 11-23 07:24 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-23/10736227.shtml
 
-24. [战争与冲突][高重要度] 约旦河西岸：定居者袭击事件创纪录 联合国敦促以色列保护农民
-   联合国机构和人道主义非政府组织周五表示，在今年被占领的约旦河西岸橄榄收获季期间，以色列定居者发动了400多次袭击，造成人员伤亡或财产损失——这一数字超过了以往任何一个收获季。
-   筛选分：94.8/100 · 来源权重9 · 信源靠前 · 关键词：袭击、伤亡
-   来源：联合国新闻 中文 · 11-20 20:00 · 联合国新闻
-   原文：https://news.un.org/feed/view/zh/story/2026/11/1143241
-
-25. [战争与冲突][高重要度] 沙特称拦截3枚胡塞武装导弹 也门媒体称沙特袭击致41死
-   中新社北京11月21日电 据沙特《利雅得报》当地时间21日凌晨报道，沙特阿拉伯主导的多国联军称摧毁了也门胡塞武装向沙特首都利雅得发射的三枚弹道导弹。
-   筛选分：93.0/100 · 来源权重7 · 近时更新 · 关键词：袭击、导弹、发射
-   来源：中新网 世界 · 11-21 11:33 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-21/10735663.shtml
+20. [战争与冲突][高重要度] 内塔尼亚胡被曝正考虑单独对伊朗动武
+   当地时间22日，据以色列方面消息，以色列看守政府总理内塔尼亚胡正考虑在未经美国批准的情况下单独对伊朗发动袭击。以军军事情报局在近日一场闭门会议中警告，此举可能引发多条战线同时爆发冲突。
+   筛选分：98.0/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：冲突、袭击、会议
+   来源：中新网 世界 · 11-23 06:39 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-23/10736221.shtml
 
 战争栏目说明：内容来自公开报道与冲突研究机构。交战方说法、伤亡数字和战果可能无法独立核实，请以原文时间和来源判断。
 
@@ -159,27 +125,27 @@
 
 信源状态
 
-- AIHOT 日报：正常 · 2026-11-22
-- AIHOT 精选 API：正常 · 新增候选 0
+- AIHOT 日报：正常 · 2026-11-23
+- AIHOT 精选 API：正常 · 新增候选 3
 - OpenAI News：正常 · 48小时内 1 条
 - Google DeepMind Blog：正常 · 48小时内无新内容
 - NVIDIA Developer Blog：正常 · 48小时内无新内容
 - GitHub Trending：正常 · 48小时内 16 条
 - GitHub Weekly Trending：正常 · 48小时内 13 条
-- GitHub Changelog：正常 · 48小时内 4 条
+- GitHub Changelog：正常 · 48小时内无新内容
 - GitHub Blog：正常 · 48小时内无新内容
-- 中国政府网 要闻：正常 · 48小时内 9 条
+- 中国政府网 要闻：正常 · 48小时内 4 条
 - 中新网 国内：正常 · 48小时内 30 条
 - 中新网 财经：正常 · 48小时内 30 条
-- 中新网 滚动：正常 · 48小时内 26 条
+- 中新网 滚动：正常 · 48小时内 28 条
 - 中新网 世界：正常 · 48小时内 30 条
-- The Guardian China：正常 · 48小时内 5 条
-- BBC World：正常 · 48小时内 27 条
-- 联合国新闻 中文：正常 · 48小时内 11 条
+- The Guardian China：正常 · 48小时内 4 条
+- BBC World：正常 · 48小时内 26 条
+- 联合国新闻 中文：正常 · 48小时内无新内容
 - GitHub 下载热度：已核对 8 个项目
-- 多源交叉：3 条获得重要性加成
-- 质量门槛：保留 25/37 条
-- 中文翻译：成功 10 条
+- 多源交叉：2 条获得重要性加成
+- 质量门槛：保留 20/37 条
+- 中文翻译：成功 9 条
 
 在线版：https://heibaixiong1118.github.io/ai-daily-site/
 AIHOT 日报页：https://aihot.news/daily
