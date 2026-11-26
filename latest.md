@@ -1,171 +1,165 @@
-每日简报 · AI / 国内 / 世界 / 战争与冲突 · 2026-11-25
+每日简报 · AI / 国内 / 世界 / 战争与冲突 · 2026-11-26
 
-1. [今日重点][高重要度] Claude 推出 Install as app：artifacts 可安装为 Mac 和 Windows 桌面应用
-   Anthropic 在 Mac 和 Windows 版 Claude 中以 beta 形式推出 Install as app，artifacts 可创建、运行并分享为独立桌面应用，拥有自己的图标和窗口，底层 artifact 更新时应用自动同步。
+1. [今日重点][高重要度] Anthropic 复盘 Messages API 从 Python 迁移到 Rust 的校验方法
+   Anthropic 介绍如何将 Messages API 从 Python 迁移到 Rust，并把生产系统本身当作校验器。该 API 流量从 2024 年初到 2026 年秋增长约 1800 倍，迁移后每请求 CPU 降低约 70%，首 token 中位时间缩短约 20%，且未停服或冻结功能开发。
    筛选分：100.0/100 · AIHOT 日报头条
-   来源：AIHOT 日报 · 11-25 08:00 · 聚合策展 · 请回原文核验
-   原文：https://aihot.news/daily/2026-11-25
+   来源：AIHOT 日报 · 11-26 08:00 · 聚合策展 · 请回原文核验
+   原文：https://aihot.news/daily/2026-11-26
 
-2. [模型与产品][高重要度] Cognition 发布 SWE-2.1 及高速版 SWE-2.1 Lightning
-   Cognition 发布 SWE-2.1，基于 Kimi K3 纯强化学习训练，在 FrontierCode 2.0、Terminal-Bench 4.1 等基准上较 SWE-2 大幅提升，ExploitBench 达 80%、ExploitGym 捕获 27.3% flags，网络安全能力显著增强。
+2. [模型与产品][高重要度] Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10
+   Sand.ai 凌晨发布 480B 全模态视频模型 MAGI-2，作者实测后认为其质量达到 Seedance 2.3 左右水准，1080P 下每秒 0.5 元、价格约为 Seedance 2.5 的 1/10。
    筛选分：92.0/100 · AIHOT 日报精编
-   来源：Cognition 模型 / Devin 博客（网页） · 聚合策展 · 原始链接
-   原文：https://cognition.com/blog/swe-2-1
+   来源：公众号：数字生命卡兹克 · 聚合策展 · 原始链接
+   原文：https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw
 
-3. [模型与产品][重要] Anthropic 为 Claude 推出 Skills over MCP 公测及 Tasks、Elicitation 等更新
-   Anthropic 宣布 Skills over MCP 在 Claude 与 Claude Code 进入公开测试，MCP 服务器可在工具之外发布技能，按需加载以降低上下文占用。
-   筛选分：89.0/100 · AIHOT 日报精编
-   来源：Claude：Blog（网页） · 聚合策展 · 原始链接
-   原文：https://claude.com/blog/skills-over-mcp-tasks-and-more
+3. [模型与产品][高重要度] 腾讯开源模型 Hy4 Flash 上线 Fireworks serverless
+   腾讯新开源模型 Hy4 Flash 现已在 Fireworks serverless 上可用。该模型为 MoE 架构，总参数约 220B、每 token 激活约 12B，1M token 上下文窗口（Fireworks 上线时为 512K），支持文本和图像输入，面向文档处理、研究、办公和 Agent 工作流。
+   筛选分：90.5/100 · AIHOT 日报精编
+   来源：Fireworks AI（网页） · 聚合策展 · 原始链接
+   原文：https://fireworks.ai/blog/hy4-flash-on-fireworks/
 
-4. [行业、政策与生态][重要] ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单
-   ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧急讨论 Nvidia 董事会在美国政府表态后一致恢复黄仁勋职务，以及美国商务部同日将 Megaspeed 列入实体清单。节目围绕出口管制执法、实体清单是否附加外国直接产品规则（FDPR）、国会相关立法（AI Overwatch、MATCH、RASA）的覆盖范围与局限，以及政策与股市波动之间的互动展开分析。
+4. [行业、政策与生态][重要] 42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录
+   42 州总检察长介入 Character.AI 的破产程序，试图阻止其拍卖用户私密聊天数据。相关声明称数据集包含超过 2100 万美国账户的聊天记录，其中逾 210 万属于未成年人，还涉及 IP 地址等信息；目前唯一披露的匿名竞拍方为 2026 年 11 月 13 日在特拉华州注册的 Smirks and Pangs Acquisition LLC，拍卖定于 12 月 1 日。
    筛选分：84.5/100 · AIHOT 日报精编
-   来源：ChinaTalk（RSS） · 聚合策展 · 原始链接
-   原文：https://www.chinatalk.media/p/jensen-returns
+   来源：TechCrunch：AI（RSS） · 聚合策展 · 原始链接
+   原文：https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/
 
-5. [行业、政策与生态][重要] Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day
-   Amazon 威胁情报报告称，黑客在开源 AI 渗透测试框架 Cairn 上运行的 AI 智能体，仅凭一句「获取 shell 权限」的指令，就自主发现并利用了一个开源医学影像 AI 应用中未修补的路径遍历 0-day，从映射 API 到任意写文件仅用约 11 分钟，随后写入 Python 反向 shell payload 并以 root 权限获得控制。
+5. [行业、政策与生态][重要] 黄仁勋回归后 Nvidia 仍面临 Megaspeed 芯片出口合规调查
+   TechCrunch 分析指出，黄仁勋回归 Nvidia CEO 后，公司仍面临多方对其 GPU 出口合规问题的调查。新加坡数据中心运营商 Megaspeed 被指违反美国出口管制，将先进 GPU 转运至中国。美国司法部于 2024 年启动调查，新加坡方面于 2025 年展开类似调查，加州总检察长办公室及美国证券交易委员会也关注 Nvidia 的相关披露。Nvidia 表示将停止向中国销售许可芯片，并计划设立首席合规官及董事会出口管制委员会。
    筛选分：83.0/100 · AIHOT 日报精编
-   来源：Ars Technica：AI（RSS） · 聚合策展 · 原始链接
-   原文：https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/
+   来源：TechCrunch：AI（RSS） · 聚合策展 · 原始链接
+   原文：https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/
 
-6. [论文与研究][重要] OpenAI 发布 preprint：湿实验验证 GPT-6 系列模型具备内在蛋白质设计能力
-   OpenAI 发布新 preprint，报告通过湿实验室验证 GPT-6 系列模型具备内在蛋白质设计能力。模型可依靠推理和代码设计新的蛋白质形状与序列，无需调用专用生物学模型来生成，详情见 openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/。
+6. [论文与研究][重要] 矩阵乘法指数被证明精确为 9/4
+   Greg Brockman 转发 OpenAI 的 Sebastien Bubeck 消息：在 10 月 6 日发布给出矩阵乘法指数 9/4 新上界后，模型继续工作于下界并宣布 9/4 是紧的，下界此前毫无已知结果。Bubeck 称这是他从未想过有生之年能看到的结果，并指出根据 Yin Tat Lee 等人的旧结果，这也意味着线性规划可在 n^{9/4} 时间内求解。
+   筛选分：81.5/100 · AIHOT 日报精编
+   来源：X：Greg Brockman (@gdb) · 聚合策展 · 原始链接
+   原文：https://x.com/gdb/status/2125418102049628201
+
+7. [论文与研究][重要] MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%
+   MIT 和 Microsoft 的新论文《AI-Assisted Programming and Labor Demand》利用 5,414 家跨国公司（覆盖 38% 美国程序员）的 GitHub 合同审查时点构造自然实验，估计 Copilot 采用对劳动力需求的影响。
    筛选分：80.0/100 · AIHOT 日报精编
-   来源：X：OpenAI (@OpenAI) · 聚合策展 · 原始链接
-   原文：https://x.com/OpenAI/status/2125334383490105601
+   来源：X：Rohan Paul (@rohanpaul_ai) · 聚合策展 · 原始链接
+   原文：https://x.com/rohanpaul_ai/status/2125461932111229203
 
-7. [AI 官方直采][机器翻译] Clay 通过 Codex 和 ChatGPT 帮助销售团队取得成功
-   ChatGPT 和 Codex 集成有助于 Clay 的用户研究交易，并将数据转化为市场投放策略，而 GPT-6 模型则负责推理。
-   筛选分：73.5/100 · 官方发布 · AI相关度9 · 信源位次4
-   原文标题：Clay helps sales teams win with Codex and ChatGPT
-   来源：OpenAI News · 11-24 08:00 · OpenAI 官方发布 · 机器翻译
-   原文：https://openai.com/business/customer-stories/clay-plugins-openai
+8. [AI 官方直采][机器翻译] 如何使用 Hugging Face Diffusers 在本地 AI 设备上运行 NVIDIA Cosmos 3
+   当模型权重和中间数据超过可用 GPU 内存时，在本地运行视频生成模型可能会面临挑战。NVIDIA Cosmos 3 Nano 是一个……
+   筛选分：70.5/100 · 官方发布 · AI相关度6 · 信源位次2
+   原文标题：How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers
+   来源：NVIDIA Developer Blog · 11-25 02:44 · NVIDIA 官方技术博客 · 机器翻译
+   原文：https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/
 
-8. [GitHub][今日热门][机器翻译] elementalsouls/Claude-BugHunter
-   用途：用于漏洞挖掘和外部红队工作的Claude Code技能包——84项技能、15个斜杠命令、681个披露报告模式（涵盖24个核心漏洞类别），以及企业身份+基础设施攻击矩阵。 · 语言：Python · 今日新增 1,826 stars
+9. [GitHub][今日热门][机器翻译] elementalsouls/Claude-BugHunter
+   用途：用于漏洞挖掘和外部红队工作的Claude Code技能包——85项技能、16个斜杠命令、681个披露报告模式（涵盖24个核心漏洞类别），以及企业身份+基础设施攻击矩阵。 · 语言：Python · 今日新增 1,652 stars
    筛选分：86.0/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-25 08:31 · GitHub 今日趋势 · 机器翻译
+   来源：GitHub Trending · 11-26 08:31 · GitHub 今日趋势 · 机器翻译
    原文：https://github.com/elementalsouls/Claude-BugHunter
 
-9. [GitHub][今日热门][机器翻译] obra/superpowers
-   用途：有效的代理技能框架和软件开发方法。 · 语言：Shell · 今日新增 1,003 stars
+10. [GitHub][今日热门][机器翻译] obra/superpowers
+   用途：有效的代理技能框架和软件开发方法。 · 语言：Shell · 今日新增 903 stars
    筛选分：84.8/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-25 08:31 · GitHub 今日趋势 · 机器翻译
+   来源：GitHub Trending · 11-26 08:31 · GitHub 今日趋势 · 机器翻译
    原文：https://github.com/obra/superpowers
 
-10. [GitHub][今日热门][机器翻译] HKUDS/CLI-Anything
-   用途：“CLI-Anything：让所有软件都具备原生代理功能” -- CLI-Hub：https://clianything.cc/ · 语言：Python · 今日新增 1,074 stars
+11. [GitHub][今日热门][机器翻译] HKUDS/CLI-Anything
+   用途：“CLI-Anything：让所有软件都具备原生代理功能” -- CLI-Hub：https://clianything.cc/ · 语言：Python · 今日新增 1,106 stars
    筛选分：83.6/100 · 来源权重10 · 信源靠前 · 近时更新
-   来源：GitHub Trending · 11-25 08:31 · GitHub 今日趋势 · 机器翻译
+   来源：GitHub Trending · 11-26 08:31 · GitHub 今日趋势 · 机器翻译
    原文：https://github.com/HKUDS/CLI-Anything
 
-11. [GitHub][近日关注][机器翻译] dream-num/univer
-   用途：使用 Univer Office SDK 构建您自己的 AI Office。将编辑、计算、协作和文件处理功能集成到您的产品中，供人和 AI 代理使用。基于可扩展的开源核心构建。 · 语言：TypeScript · 本周新增 3,278 stars
-   筛选分：70.3/100 · 来源权重9 · 近时更新 · 近期关注最高
-   来源：GitHub Weekly Trending · 11-25 08:31 · GitHub 本周趋势 · 机器翻译
-   原文：https://github.com/dream-num/univer
+12. [GitHub][近日关注][机器翻译] kajisho5/ffmpeg-skill
+   用途：面向编码代理的本地视频编辑器：42 款 FFmpeg 工具，配备机器可读合约和 MCP 服务器，适用于 Claude Code、Cursor 和 Codex。剪辑、字幕、重构、音量、平台导出。无需云端，无需 API 密钥。 · 语言：Python · 本周新增 3,048 stars
+   筛选分：67.9/100 · 来源权重9 · 近时更新 · 近期关注最高
+   来源：GitHub Weekly Trending · 11-26 08:31 · GitHub 本周趋势 · 机器翻译
+   原文：https://github.com/kajisho5/ffmpeg-skill
 
-12. [GitHub][下载最高][机器翻译] backnotprop/plannotator
-   用途：用于随时掌握最新动态并掌控代理的工作空间——塑造、决策、规划、注释、审核代码、与团队共享，并一键将所有反馈发送给代理。 · 语言：TypeScript · 本周新增 1,956 stars · 近30天Release资产下载 63,127
-   筛选分：88.5/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载63,127
-   来源：GitHub Weekly Trending · 11-25 08:31 · GitHub 本周趋势 · 机器翻译
-   原文：https://github.com/backnotprop/plannotator
+13. [GitHub][下载最高][机器翻译] n8n-io/nod
+   用途：拥有自己计算机的开源个人代理。它可以催缴发票、为您准备通话、在真实网站上取消试用，并在采取行动前征求您的意见。在您的计算机上运行，使用您选择的模型。由 n8n 提供。 · 语言：TypeScript · 本周新增 1,008 stars · 近30天Release资产下载 416,226
+   筛选分：85.9/100 · 来源权重9 · 信源靠前 · 近时更新 · Release下载416,226
+   来源：GitHub Weekly Trending · 11-26 08:31 · GitHub 本周趋势 · 机器翻译
+   原文：https://github.com/n8n-io/nod
 
-13. [GitHub][官方更新][机器翻译] GitHub.com 上更具可预测性的通知
+14. [GitHub][官方更新][机器翻译] Copilot 代码审核的账单将默认由组织支付
+   如果您尚未选择如何向拥有Copilot许可证的成员收取Copilot代码评审费用，则从2026年12月30日起，这些评审费用将向您的组织收取。要继续……文章“Copilot代码评审计费将默认为组织”最初发布于GitHub博客。
+   筛选分：83.1/100 · 来源权重9 · 信源靠前 · 近时更新
+   原文标题：Copilot code review billing will default to the organization
+   来源：GitHub Changelog · 11-26 06:18 · GitHub 官方更新日志 · 机器翻译
+   原文：https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization
+
+15. [GitHub][官方更新][机器翻译] 人工智能时代的游艺之道
+   现在，代码的交付速度比以往任何时候都快，您有更多时间可以投入到纯粹出于兴趣的项目中。以下是我们作为开发者可以通过这一过程学到的东西。博文《人工智能时代的玩乐艺术》最初发布于 GitHub 博客。
+   筛选分：79.6/100 · 来源权重8 · 信源靠前 · 近时更新
+   原文标题：Art of play in the age of AI
+   来源：GitHub Blog · 11-26 00:00 · GitHub 官方博客 · 机器翻译
+   原文：https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/
+
+16. [GitHub][官方更新][机器翻译] 如何选择应用程序现代化的下一个安全步骤
+   了解如何评估旧版应用程序、选择有界限的现代化步骤，以及如何使用GitHub Copilot代理技能重复使用该方法。这篇文章《如何选择应用程序现代化的下一个安全步骤》最初发布在GitHub博客上。
+   筛选分：78.2/100 · 来源权重8 · 信源靠前 · 近时更新
+   原文标题：How to choose the next safe step in application modernization
+   来源：GitHub Blog · 11-25 23:00 · GitHub 官方博客 · 机器翻译
+   原文：https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/
+
+17. [GitHub][官方更新][机器翻译] GitHub.com 上更具可预测性的通知
    从2026年12月1日开始，我们将在一周内迁移GitHub.com上的通知，以使订阅更具可预测性、纠正意外行为并支持不断增长的活动规模。……这篇文章《GitHub.com 上更可预测的通知》最初发表在 GitHub 博客上。
-   筛选分：82.2/100 · 来源权重9 · 信源靠前 · 近时更新
+   筛选分：77.0/100 · 来源权重9 · 信源靠前
    原文标题：More predictable notifications on GitHub.com
    来源：GitHub Changelog · 11-25 00:40 · GitHub 官方更新日志 · 机器翻译
    原文：https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com
 
-14. [GitHub][官方更新][机器翻译] 这些是开发者真正想要的礼物
+18. [GitHub][官方更新][机器翻译] 这些是开发者真正想要的礼物
    您要为其选购礼物的开发者还没有与您分享他们的节日心愿单吗？快来看看这些礼物，以及我们全周的黑色星期五折扣。这篇文章《这些是开发者真正想要的礼物》最初发表在GitHub博客上。
-   筛选分：79.6/100 · 来源权重8 · 信源靠前 · 近时更新
+   筛选分：73.2/100 · 来源权重8 · 信源靠前
    原文标题：These are the gifts developers will actually want
    来源：GitHub Blog · 11-25 00:00 · GitHub 官方博客 · 机器翻译
    原文：https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/
 
-15. [GitHub][官方更新][机器翻译] 问题状态和代码仓库看板处于公开预览阶段
-   “未结”或“已结”并不总能告诉您问题的当前状态。现在，您可以使用更具体的状态，为您的团队和代理提供有关正在进行的工作的共享背景信息……文章“问题状态和代码仓库看板已进入公开预览阶段”最初发布于 GitHub 博客。
-   筛选分：77.7/100 · 来源权重9 · 信源靠前
-   原文标题：Issue statuses and repository boards are in public preview
-   来源：GitHub Changelog · 11-24 04:37 · GitHub 官方更新日志 · 机器翻译
-   原文：https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview
+19. [国内][政策][重要] 广东发布综合运输服务发展“十五五”规划
+   中新网广州11月25日电(记者 蔡敏婕)《广东省综合运输服务发展“十五五”规划》(简称《规划》)日前印发。到2030年，广东将基本建成“安全韧性、舒适便捷、经济高效、一体融合、智慧绿色”的现代化综合运输服务体系，“12312”出行交通圈和“123”快货物流圈基本形成，粤港澳大湾区综合运输服务率先实现现代化。
+   筛选分：89.8/100 · 来源权重6 · 近时更新 · 关键词：规划、发布、经济 · 国内类别：policy
+   来源：中新网 财经 · 11-25 21:30 · 中国新闻网财经新闻
+   原文：https://www.chinanews.com.cn/cj/2026/11-25/10737805.shtml
 
-16. [GitHub][官方更新][机器翻译] 密钥扫描可减少 Slack 的误报
-   秘密扫描现已减少对Slack秘密的误报检测。误报减少以下检测器改进可减少受支持密钥的误报匹配。提供商密钥类型改进Slack slack_incoming_webhook_url排除URL…文章《密钥扫描减少了Slack的误报》最初发布于GitHub博客。
-   筛选分：76.1/100 · 来源权重9 · 信源靠前
-   原文标题：Secret scanning reduces false positives for Slack
-   来源：GitHub Changelog · 11-24 02:32 · GitHub 官方更新日志 · 机器翻译
-   原文：https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack
+20. [国内][科技][高重要度] 见证历史！神舟二十四号载人飞行任务全记录
+   11月25日，搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射，任务取得圆满成功。火箭与朝霞同框画面震撼壮美，中外航天员首次“太空握手”见证历史，一起回顾神舟二十四号载人飞行任务精彩时刻！
+   筛选分：99.1/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：航天、卫星、发射 · 国内类别：tech
+   来源：中新网 国内 · 11-25 23:26 · 中国新闻网国内新闻
+   原文：https://www.chinanews.com.cn/gn/2026/11-25/10737851.shtml
 
-17. [GitHub][官方更新][机器翻译] 代码覆盖率上传现已标记无效的报告格式
-   GitHub代码质量upload-code-coverage操作现在会检查您的覆盖率报告是否为Cobertura XML格式。如果报告的格式不受支持，上传步骤将失败，并且……文章《代码覆盖率上传现将无效报告格式标记出来》最初发布于GitHub博客。
-   筛选分：74.4/100 · 来源权重9 · 信源靠前
-   原文标题：Code coverage uploads now flag invalid report formats
-   来源：GitHub Changelog · 11-23 23:28 · GitHub 官方更新日志 · 机器翻译
-   原文：https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats
+21. [国内][科技][高重要度] 【视频】习近平同巴基斯坦总统就中巴航天员执行联合飞行任务互致贺电
+   筛选分：90.9/100 · 来源权重10 · 信源靠前 · 关键词：航天 · 国内类别：tech
+   来源：中国政府网 要闻 · 11-25 08:00 · 中国政府网
+   原文：https://tv.cctv.com/2026/11/25/VIDEh4JRpnfXEcHpAWs1vYwJ261125.shtml
 
-18. [国内][政策][高重要度] 我国牵头推动全球首个生成式人工智能治理国际标准提案
-   中新网北京11月24日(记者 左雨晴) 24日，记者从市场监管总局专题新闻发布会上了解到，我国正深度参与国际标准体系建设，聚焦数据治理、人机交互、安全可信等关键领域，组织头部企业、领先科研机构，牵头29项基础共性国际标准研制；围绕智慧城市、智能制造等重点行业，统筹15个标准技术机构牵头推动49项行业应用国际标准研制，形成协同推进、相互支撑的良好格局。
-   筛选分：100.0/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：监管、发布、市场 · 国内类别：policy
-   来源：中新网 财经 · 11-24 21:56 · 中国新闻网财经新闻
-   原文：https://www.chinanews.com.cn/cj/2026/11-24/10737255.shtml
+22. [世界][高重要度] 英国能源限价2027年将大幅上调
+   中新社伦敦11月25日电 (记者 欧阳开宇)英国能源监管机构天然气和电力市场办公室25日宣布，受中东地缘冲突持续扰动国际能源供应链、天然气价格走高影响，英国居民能源价格上限将自2027年1月起大幅上调26%，全国约2000万户家庭将面临冬季用能成本显著上涨。
+   筛选分：94.7/100 · 来源权重7 · 近时更新 · 关键词：冲突、监管、市场
+   来源：中新网 世界 · 11-25 21:55 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-25/10737822.shtml
 
-19. [国内][政策][重要] 西藏“十五五”时期将提升樟木、里孜等口岸通关能力
-   中新社拉萨11月24日电 (赵朗 卢鑫)西藏自治区商务和供销合作社发展“十五五”规划发布会24日在拉萨市举行。记者从会上获悉，“十五五”期间，西藏将提升口岸通关能力，调整优化樟木口岸功能布局，完善里孜口岸设施，保持普兰口岸正常运转，发挥航空口岸在虫草等高价值货物出口方面作用。
-   筛选分：86.8/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：规划、发布、合作 · 国内类别：policy
-   来源：中新网 财经 · 11-24 21:42 · 中国新闻网财经新闻
-   原文：https://www.chinanews.com.cn/cj/2026/11-24/10737249.shtml
+23. [世界][高重要度] 索马里：拜多阿饥荒风险缓解 仍有数百万人面临粮食危机
+   国际饥荒预测与评估体系“粮食安全阶段综合分类”最新分析显示，索马里拜多阿地区境内流离失所者面临的饥荒风险有所缓解，但仍处于严重粮食不安全和营养不良状态。预计2026年10月至12月期间，全国仍有530万人面临危机或更严重程度的急性粮食不安全状况。
+   筛选分：92.8/100 · 来源权重9 · 信源靠前 · 近时更新 · 关键词：危机、安全
+   来源：联合国新闻 中文 · 11-25 20:00 · 联合国新闻
+   原文：https://news.un.org/feed/view/zh/story/2026/11/1143266
 
-20. [国内][科技][高重要度] 神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行
-   中新网酒泉11月25日电 (记者 马帅莎)据中国载人航天工程办公室消息，11月25日，神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心问天阁圆梦园广场举行。
-   筛选分：100.0/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：航天、卫星、发射 · 国内类别：tech
-   来源：中新网 国内 · 11-25 06:52 · 中国新闻网国内新闻
-   原文：https://www.chinanews.com.cn/gn/2026/11-25/10737283.shtml
+24. [世界][重要] 美国第三季度经济增长率上修至4.3% 好于市场预期
+   中新社华盛顿11月25日电(记者 沙晗汀)美国商务部当地时间25日公布的修正数据显示，今年第三季度美国实际国内生产总值(GDP)环比按年率计算增长4.3%，较首次预估数据上修0.9个百分点，好于市场普遍预期。
+   筛选分：89.3/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：经济、市场
+   来源：中新网 世界 · 11-26 08:21 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-26/10737875.shtml
 
-21. [国内][科技][高重要度] 搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射
-   新华社快讯：搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射。
-   筛选分：94.0/100 · 来源权重6 · 信源靠前 · 近时更新 · 关键词：卫星、发射 · 国内类别：tech
-   来源：中新网 国内 · 11-25 08:23 · 中国新闻网国内新闻
-   原文：https://www.chinanews.com.cn/gn/2026/11-25/10737300.shtml
+25. [战争与冲突][重要] 以军证实：打死一名哈马斯内部安全机构负责人
+   中新网11月26日电 综合以色列媒体报道，以色列国防军与以色列国家安全总局(辛贝特)25日证实，以军在夜间对加沙地带发动的空袭中，打死巴勒斯坦伊斯兰抵抗运动(哈马斯)在加沙地带北部的内部安全机构负责人阿布·奥夫。
+   筛选分：87.8/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：空袭、安全
+   来源：中新网 世界 · 11-26 06:59 · 中国新闻网国际新闻
+   原文：https://www.chinanews.com.cn/gj/2026/11-26/10737861.shtml
 
-22. [国内][社会][值得关注] 穆虹：综合发挥纪律教育约束、保障激励作用
-   筛选分：74.7/100 · 来源权重10 · 信源靠前 · 国内类别：society
-   来源：中国政府网 要闻 · 11-24 08:00 · 中国政府网
-   原文：https://www.gov.cn/yaowen/liebiao/202611/content_7087096.htm
-
-23. [世界][高重要度] 英国2026年夏季高温致死人数创新高
-   中新社伦敦11月24日电 (记者 欧阳开宇)英国卫生安全局24日发布数据显示，2026年夏季英国高温相关死亡人数达5258人，创下该机构2016年开启相关统计以来的最高年度纪录。
-   筛选分：94.5/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：死亡、发布、安全
-   来源：中新网 世界 · 11-25 06:24 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-25/10737280.shtml
-
-24. [世界][重要] 古特雷斯呼吁就全球人工智能安全框架展开磋商，警告将出现历史性的权力转移
-   联合国秘书长古特雷斯周一呼吁各会员国就管理人工智能风险的多边框架展开讨论，并警告称这项技术正在推动“人类历史上最大的权力转移”。
-   筛选分：89.0/100 · 来源权重9 · 信源靠前 · 关键词：人工智能、安全
-   来源：联合国新闻 中文 · 11-23 20:00 · 联合国新闻
-   原文：https://news.un.org/feed/view/zh/story/2026/11/1143254
-
-25. [世界][高重要度] 俄“进步MS-36”货运飞船发射升空前往国际空间站
-   中新社莫斯科11月24日电 俄罗斯国家航天集团24日表示，“进步MS-36”货运飞船当天从位于哈萨克斯坦境内的拜科努尔航天发射场发射升空，前往国际空间站。
-   筛选分：91.3/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：航天、发射
-   来源：中新网 世界 · 11-25 06:23 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-25/10737279.shtml
-
-26. [战争与冲突][高重要度] 普京：乌方袭击俄能源设施必招致俄方回应
-   中新社莫斯科11月24日电 俄罗斯总统普京24日主持召开能源发展战略和环境安全委员会会议时表示，针对乌克兰对俄能源基础设施的袭击，俄方必然作出回应。
-   筛选分：100.0/100 · 来源权重7 · 信源靠前 · 近时更新 · 关键词：袭击、能源、安全
-   来源：中新网 世界 · 11-25 06:17 · 中国新闻网国际新闻
-   原文：https://www.chinanews.com.cn/gj/2026/11-25/10737277.shtml
-
-27. [战争与冲突][高重要度] 安理会讨论乌克兰局势：袭击加剧平民苦难，黑海粮食运输受阻
-   联合国负责政治事务的副秘书长迪卡洛、世界粮食计划署执行主任林德伯格和联合国开发计划署署长德克罗周一在安理会就乌克兰局势作通报，指出俄罗斯对乌克兰能源及其他民用基础设施的持续袭击，正在加剧平民苦难，随着冬季临近，供电、供暖和供水中断带来的人道主义风险进一步上升。与此同时，黑海地区的袭击持续威胁粮食运输，影响全球粮食安全。
-   筛选分：94.2/100 · 来源权重9 · 信源靠前 · 关键词：袭击、能源、安全
-   来源：联合国新闻 中文 · 11-23 20:00 · 联合国新闻
-   原文：https://news.un.org/feed/view/zh/story/2026/11/1143250
+26. [战争与冲突][高重要度] 也门战争：联合国紧急援助负责人呼吁允许进入受战火影响的社区
+   联合国最高援助事务官员弗莱彻在周三抵达也门进行访问时警告说，那里的战争正阻碍家庭获得生存所需的食物和药品，特别是塔伊兹市的家庭。
+   筛选分：98.6/100 · 来源权重9 · 信源靠前 · 近时更新 · 关键词：紧急、战争
+   来源：联合国新闻 中文 · 11-25 20:00 · 联合国新闻
+   原文：https://news.un.org/feed/view/zh/story/2026/11/1143265
 
 战争栏目说明：内容来自公开报道与冲突研究机构。交战方说法、伤亡数字和战果可能无法独立核实，请以原文时间和来源判断。
 
@@ -173,25 +167,26 @@
 
 信源状态
 
-- AIHOT 日报：正常 · 2026-11-25
+- AIHOT 日报：正常 · 2026-11-26
 - AIHOT 精选 API：正常 · 新增候选 5
-- OpenAI News：正常 · 48小时内 6 条
-- Google DeepMind Blog：正常 · 48小时内 1 条
-- NVIDIA Developer Blog：正常 · 48小时内 4 条
+- OpenAI News：正常 · 48小时内 2 条
+- Google DeepMind Blog：正常 · 48小时内无符合栏目的内容
+- NVIDIA Developer Blog：正常 · 48小时内 6 条
 - GitHub Trending：正常 · 48小时内 16 条
-- GitHub Weekly Trending：正常 · 48小时内 13 条
-- GitHub Changelog：正常 · 48小时内 5 条
-- GitHub Blog：正常 · 48小时内 1 条
-- 中国政府网 要闻：正常 · 48小时内 8 条
-- 中新网 国内：正常 · 48小时内 30 条
+- GitHub Weekly Trending：正常 · 48小时内 14 条
+- GitHub Changelog：正常 · 48小时内 2 条
+- GitHub Blog：正常 · 48小时内 3 条
+- 中国政府网 要闻：正常 · 48小时内 13 条
+- 中新网 国内：正常 · 48小时内 28 条
 - 中新网 财经：正常 · 48小时内 30 条
-- 中新网 滚动：正常 · 48小时内 29 条
+- 中新网 滚动：正常 · 48小时内 27 条
 - 中新网 世界：正常 · 48小时内 30 条
-- The Guardian China：正常 · 48小时内 11 条
-- BBC World：正常 · 48小时内 29 条
-- 联合国新闻 中文：正常 · 48小时内 7 条
+- The Guardian China：正常 · 48小时内 16 条
+- BBC World：正常 · 48小时内 30 条
+- 联合国新闻 中文：正常 · 48小时内 13 条
 - GitHub 下载热度：已核对 8 个项目
-- 质量门槛：保留 27/40 条
+- 多源交叉：7 条获得重要性加成
+- 质量门槛：保留 26/40 条
 - 中文翻译：成功 11 条
 
 在线版：https://heibaixiong1118.github.io/ai-daily-site/
